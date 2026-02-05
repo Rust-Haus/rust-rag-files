@@ -1,0 +1,44 @@
+RUST RAIDING GUIDE: ARMORED TIER
+
+Standard Wall HP: 2000
+
+RAID COSTS (for standard wall):
+  Cannonball: 7 (sulfur: 280)
+  Torpedo: 5 (sulfur: 300)
+  Flashbang: 100 (sulfur: 6000)
+  F1 Grenade: 9 (sulfur: 540)
+  Survey Charge: 100 (sulfur: 6000)
+  Beancan Grenade: 18 (sulfur: 2160)
+  High Velocity Rocket: 5 (sulfur: 1000)
+  Homing Missile: 4 (sulfur: 800)
+  Firebomb: 40 (sulfur: 12000)
+  Incendiary Rocket: 40 (sulfur: 12000)
+  Satchel Charge: 5 (sulfur: 2400)
+  Propane Explosive Bomb: 6 (sulfur: 5400)
+  Rocket: 6 (sulfur: 8400)
+  Timed Explosive Charge: 4 (sulfur: 8800)
+  MLRS Rocket: 4
+  Smoke Rocket WIP!!!!: 400
+  40mm HE Grenade: 23
+  Bee Grenade: 100
+  Molotov Cocktail: 58
+  Scattershot: 16
+  Bee Catapult Bomb: 100
+
+BLOCK HP VALUES:
+  Foundation: 2000 HP (standard)
+  Triangle Foundation: 1200 HP
+  Wall: 2000 HP (standard)
+  Half Wall: 1000 HP
+  Low Wall: 1000 HP
+  Wall Frame: 2000 HP (standard)
+  Doorway: 2000 HP (standard)
+  Window Frame: 2000 HP (standard)
+  Floor: 2000 HP (standard)
+  Triangle Floor: 1200 HP
+  Floor Frame: 2000 HP (standard)
+  Roof: 2000 HP (standard)
+  Triangle Roof: 1200 HP
+  L Shaped Stairs: 2000 HP (standard)
+  U Shaped Stairs: 2000 HP (standard)
+  Ramp: 2000 HP (standard)

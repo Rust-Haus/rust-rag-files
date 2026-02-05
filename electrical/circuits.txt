@@ -1,0 +1,46 @@
+RUST ELECTRICAL CIRCUIT PATTERNS
+
+Common circuit patterns for base automation.
+
+============================================================
+
+## TIMED LIGHT CIRCUIT
+Turn lights on/off automatically at intervals.
+
+Components: Timer, Ceiling Light (or other light)
+Wiring: Power Source -> Timer (Power In) -> Timer (Output) -> Light (Power In)
+Setup: Set timer duration for on/off cycle.
+
+----------------------------------------
+
+## MOTION-ACTIVATED LIGHTS
+Lights turn on when players are nearby.
+
+Components: HBHF Sensor, Ceiling Light
+Wiring: Power Source -> HBHF Sensor (Power In) -> HBHF Sensor (Power Out) -> Light
+Setup: Configure sensor range and authorized players.
+
+----------------------------------------
+
+## AUTO TURRET ALARM
+Sound alarm when turret detects enemies.
+
+Components: Auto Turret, Audio Alarm
+Wiring: Power Source -> Turret (Power) -> Turret (Active Output) -> Alarm
+
+----------------------------------------
+
+## DOOR CONTROLLER WITH BUTTON
+Open/close doors remotely.
+
+Components: Button, Door Controller, Door
+Wiring: Power Source -> Button (Power In) -> Button (Power Out) -> Door Controller
+Setup: Place door controller on door.
+
+----------------------------------------
+
+## SOLAR BATTERY BACKUP
+Store solar power for nighttime use.
+
+Components: Solar Panel, Large Battery, Branch
+Wiring: Solar Panel -> Battery (Power In) -> Battery (Power Out) -> Branch -> Devices

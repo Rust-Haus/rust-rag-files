@@ -1,0 +1,344 @@
+{
+  "generated": "2026-02-05T20:34:45Z",
+  "version": "1.0",
+  "documents": [
+    {
+      "id": "items_ammunition",
+      "path": "items/ammunition.txt",
+      "type": "item_category",
+      "category": "Ammunition",
+      "keywords": [
+        "ammunition"
+      ],
+      "char_count": 17715
+    },
+    {
+      "id": "items_attire",
+      "path": "items/attire.txt",
+      "type": "item_category",
+      "category": "Attire",
+      "keywords": [
+        "attire"
+      ],
+      "char_count": 58496
+    },
+    {
+      "id": "items_component",
+      "path": "items/component.txt",
+      "type": "item_category",
+      "category": "Component",
+      "keywords": [
+        "component"
+      ],
+      "char_count": 14100
+    },
+    {
+      "id": "items_construction",
+      "path": "items/construction.txt",
+      "type": "item_category",
+      "category": "Construction",
+      "keywords": [
+        "construction"
+      ],
+      "char_count": 19430
+    },
+    {
+      "id": "items_electrical",
+      "path": "items/electrical.txt",
+      "type": "item_category",
+      "category": "Electrical",
+      "keywords": [
+        "electrical"
+      ],
+      "char_count": 26151
+    },
+    {
+      "id": "items_food",
+      "path": "items/food.txt",
+      "type": "item_category",
+      "category": "Food",
+      "keywords": [
+        "food"
+      ],
+      "char_count": 34168
+    },
+    {
+      "id": "items_fun",
+      "path": "items/fun.txt",
+      "type": "item_category",
+      "category": "Fun",
+      "keywords": [
+        "fun"
+      ],
+      "char_count": 18763
+    },
+    {
+      "id": "items_items",
+      "path": "items/items.txt",
+      "type": "item_category",
+      "category": "Items",
+      "keywords": [
+        "items"
+      ],
+      "char_count": 54265
+    },
+    {
+      "id": "items_medical",
+      "path": "items/medical.txt",
+      "type": "item_category",
+      "category": "Medical",
+      "keywords": [
+        "medical"
+      ],
+      "char_count": 1476
+    },
+    {
+      "id": "items_misc",
+      "path": "items/misc.txt",
+      "type": "item_category",
+      "category": "Misc",
+      "keywords": [
+        "misc"
+      ],
+      "char_count": 14523
+    },
+    {
+      "id": "items_resources",
+      "path": "items/resources.txt",
+      "type": "item_category",
+      "category": "Resources",
+      "keywords": [
+        "resources"
+      ],
+      "char_count": 8998
+    },
+    {
+      "id": "items_tool",
+      "path": "items/tool.txt",
+      "type": "item_category",
+      "category": "Tool",
+      "keywords": [
+        "tool"
+      ],
+      "char_count": 14868
+    },
+    {
+      "id": "items_traps",
+      "path": "items/traps.txt",
+      "type": "item_category",
+      "category": "Traps",
+      "keywords": [
+        "traps"
+      ],
+      "char_count": 2453
+    },
+    {
+      "id": "items_weapon",
+      "path": "items/weapon.txt",
+      "type": "item_category",
+      "category": "Weapon",
+      "keywords": [
+        "weapon"
+      ],
+      "char_count": 34475
+    },
+    {
+      "id": "raid_twigs",
+      "path": "raiding/twigs.txt",
+      "type": "raid",
+      "category": "raiding",
+      "keywords": [
+        "Twigs",
+        "raid",
+        "explosive",
+        "building"
+      ],
+      "char_count": 1165
+    },
+    {
+      "id": "raid_wood",
+      "path": "raiding/wood.txt",
+      "type": "raid",
+      "category": "raiding",
+      "keywords": [
+        "Wood",
+        "raid",
+        "explosive",
+        "building"
+      ],
+      "char_count": 1177
+    },
+    {
+      "id": "raid_stone",
+      "path": "raiding/stone.txt",
+      "type": "raid",
+      "category": "raiding",
+      "keywords": [
+        "Stone",
+        "raid",
+        "explosive",
+        "building"
+      ],
+      "char_count": 1186
+    },
+    {
+      "id": "raid_metal",
+      "path": "raiding/metal.txt",
+      "type": "raid",
+      "category": "raiding",
+      "keywords": [
+        "Metal",
+        "raid",
+        "explosive",
+        "building"
+      ],
+      "char_count": 1208
+    },
+    {
+      "id": "raid_toptier",
+      "path": "raiding/toptier.txt",
+      "type": "raid",
+      "category": "raiding",
+      "keywords": [
+        "TopTier",
+        "raid",
+        "explosive",
+        "building"
+      ],
+      "char_count": 1218
+    },
+    {
+      "id": "crafting_no_workbench",
+      "path": "crafting/no_workbench.txt",
+      "type": "crafting",
+      "category": "workbench_0",
+      "keywords": [
+        "crafting",
+        "workbench",
+        "level 0"
+      ],
+      "char_count": 13777
+    },
+    {
+      "id": "crafting_workbench_1",
+      "path": "crafting/workbench_1.txt",
+      "type": "crafting",
+      "category": "workbench_1",
+      "keywords": [
+        "crafting",
+        "workbench",
+        "level 1"
+      ],
+      "char_count": 9390
+    },
+    {
+      "id": "crafting_workbench_2",
+      "path": "crafting/workbench_2.txt",
+      "type": "crafting",
+      "category": "workbench_2",
+      "keywords": [
+        "crafting",
+        "workbench",
+        "level 2"
+      ],
+      "char_count": 9413
+    },
+    {
+      "id": "crafting_workbench_3",
+      "path": "crafting/workbench_3.txt",
+      "type": "crafting",
+      "category": "workbench_3",
+      "keywords": [
+        "crafting",
+        "workbench",
+        "level 3"
+      ],
+      "char_count": 2231
+    },
+    {
+      "id": "electrical_components",
+      "path": "electrical/components.txt",
+      "type": "electrical",
+      "category": "reference",
+      "keywords": [
+        "electrical",
+        "components",
+        "power"
+      ],
+      "char_count": 5825
+    },
+    {
+      "id": "electrical_circuits",
+      "path": "electrical/circuits.txt",
+      "type": "electrical",
+      "category": "guide",
+      "keywords": [
+        "electrical",
+        "circuits",
+        "wiring",
+        "automation"
+      ],
+      "char_count": 1392
+    },
+    {
+      "id": "guide_new_player",
+      "path": "guides/new_player.txt",
+      "type": "guide",
+      "category": "gameplay",
+      "keywords": [
+        "new player"
+      ],
+      "char_count": 818
+    },
+    {
+      "id": "guide_scrap",
+      "path": "guides/scrap.txt",
+      "type": "guide",
+      "category": "gameplay",
+      "keywords": [
+        "scrap"
+      ],
+      "char_count": 732
+    },
+    {
+      "id": "guide_monuments",
+      "path": "guides/monuments.txt",
+      "type": "guide",
+      "category": "gameplay",
+      "keywords": [
+        "monuments"
+      ],
+      "char_count": 958
+    },
+    {
+      "id": "guide_base_building",
+      "path": "guides/base_building.txt",
+      "type": "guide",
+      "category": "gameplay",
+      "keywords": [
+        "base building"
+      ],
+      "char_count": 796
+    },
+    {
+      "id": "guide_farming",
+      "path": "guides/farming.txt",
+      "type": "guide",
+      "category": "gameplay",
+      "keywords": [
+        "farming"
+      ],
+      "char_count": 761
+    },
+    {
+      "id": "guide_pvp_combat",
+      "path": "guides/pvp_combat.txt",
+      "type": "guide",
+      "category": "gameplay",
+      "keywords": [
+        "pvp combat"
+      ],
+      "char_count": 743
+    }
+  ]
+}

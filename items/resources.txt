@@ -1,0 +1,405 @@
+RUST ITEMS: RESOURCES
+Total items in this category: 50
+
+============================================================
+
+## Animal Fat (fat.animal)
+
+Description: Harvested from animals, combine with cloth to create a low quality fuel source.
+Rarity: None
+Stack Size: 1000
+
+----------------------------------------
+
+## Battery - Small (battery.small)
+
+Description: A Battery.
+Rarity: None
+
+----------------------------------------
+
+## Beehive Nucleus (nucleus)
+
+Description: The heart of any hive, needed for raising bees. Produce honeycomb from happy bees to grow the nucleus and increase yields.
+Rarity: None
+
+----------------------------------------
+
+## Blue Dog Tags (bluedogtags)
+
+Description: Blue Dog Tags
+Rarity: None
+Stack Size: 5000
+
+----------------------------------------
+
+## Blue ID Tag (blueidtag)
+
+Description: Blue ID Tag
+Rarity: None
+Stack Size: 5000
+
+----------------------------------------
+
+## Bone Fragments (bone.fragments)
+
+Description: Extracted from animal carcass.  Used as a raw material to make bone weapons and armour.
+Rarity: None
+Stack Size: 1000
+
+----------------------------------------
+
+## CCTV Camera (cctv.camera)
+
+Description: A CCTV Camera system can be used for realtime surveillance and security around your base when powered and paired with the Computer Station.
+Rarity: VeryRare
+Stack Size: 64
+
+----------------------------------------
+
+## Charcoal (charcoal)
+
+Description: Byproduct from campfires and furnaces used for crafting gunpowder.
+Rarity: None
+Stack Size: 1000
+
+----------------------------------------
+
+## Cloth (cloth)
+
+Description: Cloth from an animal or a Hemp Bush. Used in many clothing items, weapons, and more.
+Rarity: Uncommon
+Stack Size: 1000
+
+----------------------------------------
+
+## Coal :( (coal)
+
+Description: Crappy Holidays!
+Rarity: None
+
+----------------------------------------
+
+## Crude Oil (crude.oil)
+
+Description: Raw Oil out of the ground, must be refined in a refinery to be used.
+Rarity: None
+Stack Size: 500
+
+----------------------------------------
+
+## Diesel Fuel (diesel_barrel)
+
+Description: Suitable fuel to power quarries and the giant excavator.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Dog Tag (dogtagneutral)
+
+Description: Neutral Dog Tag
+Rarity: None
+Stack Size: 5000
+
+----------------------------------------
+
+## Empty Can Of Beans (can.beans.empty)
+
+Description: An empty Can of Beans. Can be smelted into Metal Fragments.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Empty Tuna Can (can.tuna.empty)
+
+Description: An empty Can of Tuna. Can be smelted into Metal Fragments.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Explosives (explosives)
+
+Description: A component used for crafting C4 and Rockets.
+Rarity: VeryRare
+Stack Size: 100
+Crafting: Workbench 3, 5.0s, 50.0 gunpowder, 3.0 lowgradefuel, 10.0 sulfur, 10.0 metal.fragments
+Recycler Output: 25 gunpowder, 1 lowgradefuel, 5 sulfur, 5 metal.fragments
+
+----------------------------------------
+
+## Fertilizer (fertilizer)
+
+Description: Helps plants grow by increasing ground condition. Produced in a composter.
+Rarity: None
+Stack Size: 1000
+
+----------------------------------------
+
+## Gray ID Tag (grayidtag)
+
+Description: Gray ID Tag
+Rarity: None
+Stack Size: 5000
+
+----------------------------------------
+
+## Green ID Tag (greenidtag)
+
+Description: Green ID Tag
+Rarity: None
+Stack Size: 5000
+
+----------------------------------------
+
+## Gun Powder (gunpowder)
+
+Description: Made from Sulfur and Charcoal, a key ingredient of anything that goes bang!
+Rarity: VeryRare
+Stack Size: 1000
+Crafting: Workbench 1, 2.0s, 30.0 charcoal, 20.0 sulfur
+Recycler Output: 15 charcoal, 10 sulfur
+
+----------------------------------------
+
+## High Quality Metal (metal.refined)
+
+Description: High quality metal suitable for armor and weapons construction.
+Rarity: Rare
+Stack Size: 100
+
+----------------------------------------
+
+## High Quality Metal Ore (hq.metal.ore)
+
+Description: A rock containing High Quality Metal. Can be smelted in a furnace.
+Rarity: Rare
+Stack Size: 100
+
+----------------------------------------
+
+## Horse Dung (horsedung)
+
+Description: Fresh and fertile.
+Rarity: VeryRare
+Stack Size: 100
+
+----------------------------------------
+
+## Human Skull (skull.human)
+
+Description: A human skull.
+Rarity: None
+
+----------------------------------------
+
+## Lavender ID Tag (lavenderidtag)
+
+Description: Lavender ID Tag
+Rarity: None
+Stack Size: 5000
+
+----------------------------------------
+
+## Leather (leather)
+
+Description: Leather from an animal. Used in many clothing items and more.
+Rarity: Uncommon
+Stack Size: 1000
+
+----------------------------------------
+
+## Low Grade Fuel (lowgradefuel)
+
+Description: Low Grade Fuel, used to power light sources.
+Rarity: None
+Stack Size: 500
+Crafting: Workbench 0, 5.0s, 3.0 fat.animal, 1.0 cloth
+Recycler Output: 1 fat.animal
+
+----------------------------------------
+
+## Metal Fragments (metal.fragments)
+
+Description: Metal Fragments. Smelted from Metal Ore, used in lots of different crafting recipes.
+Rarity: Uncommon
+Stack Size: 1000
+
+----------------------------------------
+
+## Metal Ore (metal.ore)
+
+Description: A naturally occurring rock containing metal and metal compounds. You can extract this metal using a furnace.
+Rarity: Uncommon
+Stack Size: 1000
+
+----------------------------------------
+
+## Mint ID Tag (mintidtag)
+
+Description: Mint ID Tag
+Rarity: None
+Stack Size: 5000
+
+----------------------------------------
+
+## Orange ID Tag (orangeidtag)
+
+Description: Orange ID Tag
+Rarity: None
+Stack Size: 5000
+
+----------------------------------------
+
+## Paper (paper)
+
+Description: Paper, a ingredient for Building plan and Note.
+Rarity: None
+Stack Size: 1000
+
+----------------------------------------
+
+## Pink ID Tag (pinkidtag)
+
+Description: Pink ID Tag
+Rarity: None
+Stack Size: 5000
+
+----------------------------------------
+
+## Plant Fiber (plantfiber)
+
+Description: Fiber from dead plants. Can be composted.
+Rarity: None
+Stack Size: 1000
+
+----------------------------------------
+
+## Purple ID Tag (purpleidtag)
+
+Description: Purple ID Tag
+Rarity: None
+Stack Size: 5000
+
+----------------------------------------
+
+## Radioactive Water (water.radioactive)
+
+Description: Glowing water. Consuming will damage your health and irradiate you.
+Rarity: None
+Stack Size: 2147483647
+
+----------------------------------------
+
+## Red Dog Tags (reddogtags)
+
+Description: Red Dog Tags
+Rarity: None
+Stack Size: 5000
+
+----------------------------------------
+
+## Red ID Tag (redidtag)
+
+Description: Red ID Tag
+Rarity: None
+Stack Size: 5000
+
+----------------------------------------
+
+## Research Paper (researchpaper)
+
+Description: Use this item in a Research Bench to create blueprints of items.
+Rarity: None
+Stack Size: 1000
+
+----------------------------------------
+
+## Salt Water (water.salt)
+
+Description: Water with a high salt content. Consuming will damage your health.
+Rarity: None
+Stack Size: 2147483647
+
+----------------------------------------
+
+## Scrap (scrap)
+
+Description: Scrap can be used in a Research table and Workbench to unlock and research items. Often used as a currency throughout the world.
+Rarity: Uncommon
+Stack Size: 1000
+
+----------------------------------------
+
+## Stones (stones)
+
+Description: Harvested from rocks using tools, basic building material.
+Rarity: None
+Stack Size: 1000
+
+----------------------------------------
+
+## Sulfur (sulfur)
+
+Description: Sulfur is commonly used in gunpowder, medicine, and matches. Matches release sulfur dioxide when they burn, giving them their smell. Sulfur is an essential component to living cells. Many proteins contain sulfur. It is also used as a pesticide on organic farms.
+Rarity: Rare
+Stack Size: 1000
+
+----------------------------------------
+
+## Sulfur Ore (sulfur.ore)
+
+Description: A rock containing sulfur. The sulfur can be extracted using a furnace.
+Rarity: Rare
+Stack Size: 1000
+
+----------------------------------------
+
+## Targeting Computer (targeting.computer)
+
+Description: A computer loaded with software that can analyze a video and produce rotational deltas to individual objects contained in the feed.
+Rarity: VeryRare
+Stack Size: 64
+
+----------------------------------------
+
+## Water (water)
+
+Description: Water. Drinking it will alleviate your thirst.
+Rarity: None
+Stack Size: 2147483647
+
+----------------------------------------
+
+## White ID Tag (whiteidtag)
+
+Description: White ID Tag
+Rarity: None
+Stack Size: 5000
+
+----------------------------------------
+
+## Wolf Skull (skull.wolf)
+
+Description: A wolf skull.
+Rarity: None
+
+----------------------------------------
+
+## Wood (wood)
+
+Description: Wood. Collected from trees and used in many crafting recipes. It's also needed to cook in camp-fires.
+Rarity: None
+Stack Size: 1000
+
+----------------------------------------
+
+## Yellow ID Tag (yellowidtag)
+
+Description: Yellow ID Tag
+Rarity: None
+Stack Size: 5000
+
+----------------------------------------

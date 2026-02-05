@@ -1,0 +1,643 @@
+RUST ITEMS: FUN
+Total items in this category: 72
+
+============================================================
+
+## Above Ground Pool (abovegroundpool)
+
+Description: A large wooden pool that can be filled with water.
+Rarity: None
+Crafting: Workbench 1, 60.0s, 200.0 metal.fragments, 3.0 tarp, 500.0 wood
+Recycler Output: 100 metal.fragments, 1 tarp, 250 wood
+
+----------------------------------------
+
+## Acoustic Guitar (fun.guitar)
+
+Description: A classic acoustic guitar, built for jam sessions around campfires at night.
+Rarity: Common
+Crafting: Workbench 0, 20.0s, 100.0 wood, 10.0 cloth
+Recycler Output: 50 wood, 5 cloth
+
+----------------------------------------
+
+## Beach Chair (beachchair)
+
+Description: The Beach Chair is the best way to relax, whether it's by the pool or on the beach.
+Rarity: None
+Crafting: Workbench 1, 30.0s, 50.0 wood, 75.0 metal.fragments
+Recycler Output: 25 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Beach Parasol (beachparasol)
+
+Description: A large umbrella that will shield you from the sun.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 20.0 cloth, 75.0 metal.fragments
+Recycler Output: 10 cloth, 37 metal.fragments
+
+----------------------------------------
+
+## Beach Table (beachtable)
+
+Description: A small table to hold your drinks while relaxing.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Beach Towel (beachtowel)
+
+Description: A colourful beach towel. Placing this will give you a location to respawn.
+Rarity: Uncommon
+Crafting: Workbench 0, 30.0s, 30.0 cloth
+Recycler Output: 15 cloth
+
+----------------------------------------
+
+## Blue Boomer (firework.boomer.blue)
+
+Description: A very large mortar type firework with a blue starburst
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 10.0s, 25.0 metal.fragments, 30.0 gunpowder, 15.0 lowgradefuel
+Recycler Output: 12 metal.fragments, 15 gunpowder, 7 lowgradefuel
+
+----------------------------------------
+
+## Blue Roman Candle (firework.romancandle.blue)
+
+Description: A small repeating firework, shoots a series of Blue balls into the air
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 60.0s, 25.0 metal.fragments, 10.0 lowgradefuel
+Recycler Output: 12 metal.fragments, 5 lowgradefuel
+
+----------------------------------------
+
+## Boogie Board (boogieboard)
+
+Description: Use the boogie board to catch some sick waves.
+Rarity: None
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments, 1.0 tarp
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Boom Box (boombox)
+
+Description: A large speaker to play recorded cassette tapes which can also stream audio from the internet. Open the settings to change audio options.
+Rarity: None
+Crafting: Workbench 1, 15.0s, 200.0 wood, 100.0 metal.fragments, 20.0 cloth
+Recycler Output: 100 wood, 50 metal.fragments, 10 cloth
+
+----------------------------------------
+
+## Canbourine (fun.tambourine)
+
+Description: A selection of crumpled cans assembled into a ring to produce some great background percussion.
+Rarity: Common
+Crafting: Workbench 0, 20.0s, 25.0 metal.fragments
+Recycler Output: 12 metal.fragments
+
+----------------------------------------
+
+## Car Radio (vehicle.car_radio)
+
+Description: A small radio to use in cars. Will only work while the car is turned on.
+Rarity: None
+Crafting: Workbench 1, 15.0s, 120.0 metal.fragments
+Recycler Output: 60 metal.fragments
+
+----------------------------------------
+
+## Cassette - Long (cassette)
+
+Description: A tape that you can record audio on to using a Cassette Recorder. Stores up to 30s of audio.
+Rarity: None
+Crafting: Workbench 0, 5.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Cassette - Medium (cassette.medium)
+
+Description: A tape that you can record audio on to using a Cassette Recorder. Stores up to 20s of audio.
+Rarity: None
+Crafting: Workbench 0, 5.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Cassette - Short (cassette.short)
+
+Description: A tape that you can record audio on to using a Cassette Recorder. Stores up to 10s of audio.
+Rarity: None
+Crafting: Workbench 0, 5.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Cassette Recorder (fun.casetterecorder)
+
+Description: Insert a cassette and play the recorded audio with [attack], [attack2] to record new audio and [+reload] to throw.
+Rarity: None
+Crafting: Workbench 1, 15.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Champagne Boomer (firework.boomer.champagne)
+
+Description: A very large mortar type firework with an massive champagne colored explosion followed by smaller orange starbursts
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 10.0s, 30.0 metal.fragments, 75.0 gunpowder, 30.0 lowgradefuel
+Recycler Output: 15 metal.fragments, 37 gunpowder, 15 lowgradefuel
+
+----------------------------------------
+
+## Confetti Cannon (confetticannon)
+
+Description: Blast a cloud of birthday themed confetti cheer.
+Rarity: None
+
+----------------------------------------
+
+## Connected Speaker (connected.speaker)
+
+Description: A small speaker that will play any audio from a connected Boom Box.
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 1, 15.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Cowbell (fun.cowbell)
+
+Description: A road sign that's been repurposed to produce some beautiful, calming, percussion.
+Rarity: Common
+Crafting: Workbench 0, 20.0s, 35.0 metal.fragments
+Recycler Output: 17 metal.fragments
+
+----------------------------------------
+
+## Disco Ball (discoball)
+
+Description: Get groovy with this stunning disco ball.
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 1, 15.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Disco Floor (discofloor)
+
+Description: A vibrant flashing floor that pulses in time to music.
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 1, 15.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Disco Floor (discofloor.largetiles)
+
+Description: A vibrant flashing floor that pulses in time to music.
+Rarity: None
+Stack Size: 5
+
+----------------------------------------
+
+## Firecracker String (lunar.firecrackers)
+
+Description: Happy Lunar New Year!
+Rarity: None
+Stack Size: 5
+Explosive Stats: FuseLength=15, FuseLengthMax=15, ExplosionRadius=1
+
+----------------------------------------
+
+## Green Boomer (firework.boomer.green)
+
+Description: A very large mortar type firework with a green starburst
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 10.0s, 25.0 metal.fragments, 30.0 gunpowder, 15.0 lowgradefuel
+Recycler Output: 12 metal.fragments, 15 gunpowder, 7 lowgradefuel
+
+----------------------------------------
+
+## Green Roman Candle (firework.romancandle.green)
+
+Description: A small repeating firework, shoots a series of Green balls into the air
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 60.0s, 25.0 metal.fragments, 10.0 lowgradefuel
+Recycler Output: 12 metal.fragments, 5 lowgradefuel
+
+----------------------------------------
+
+## Inner Tube (innertube)
+
+Description: An inflated tube for aquatic activities.
+Rarity: None
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments, 1.0 tarp
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Inner Tube (innertube.horse)
+
+Description: An inflated tube for aquatic activities.
+Rarity: None
+
+----------------------------------------
+
+## Inner Tube (innertube.unicorn)
+
+Description: An inflated tube for aquatic activities.
+Rarity: None
+
+----------------------------------------
+
+## Jerry Can Guitar (fun.jerrycanguitar)
+
+Description: Take advantage of the unique acoustics of the Jerry Can Guitar to play some rustic tunes.
+Rarity: Common
+Crafting: Workbench 0, 20.0s, 25.0 wood, 50.0 metal.fragments
+Recycler Output: 12 wood, 25 metal.fragments
+
+----------------------------------------
+
+## Junkyard Drum Kit (drumkit)
+
+Description: An array of pots, pans and buckets that passes as a serviceable Drum Kit. Three cymbals, some Tom Drums and a Kick Drum means you can easily lay down a beat.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 200.0 wood, 100.0 metal.fragments
+Recycler Output: 100 wood, 50 metal.fragments
+
+----------------------------------------
+
+## Laser Light (laserlight)
+
+Description: A small device that shoots out visible lasers in time to music.
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 1, 15.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Megaphone (megaphone)
+
+Description: A megaphone that lets you broadcast your voice. [attack] to activate your voice.
+Rarity: None
+Crafting: Workbench 1, 15.0s, 50.0 wood, 75.0 metal.fragments
+Recycler Output: 25 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Microphone Stand (microphonestand)
+
+Description: A powered microphone that lets you broadcast your voice. Press [+attack2] to change voice mode between high and low pitch.
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 1, 15.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Mobile Phone (mobilephone)
+
+Description: A mobile phone that lets you place calls from anywhere. Truly cutting edge Cobalt technology. Use [attack] to access the dialer.
+Rarity: None
+Crafting: Workbench 1, 15.0s, 125.0 metal.fragments
+Recycler Output: 62 metal.fragments
+
+----------------------------------------
+
+## New Year Gong (newyeargong)
+
+Description: Ring in the Lunar new year with a massive gong!
+Rarity: None
+Crafting: Workbench 0, 15.0s, 100.0 wood, 50.0 metal.fragments
+Recycler Output: 50 wood, 25 metal.fragments
+
+----------------------------------------
+
+## Orange Boomer (firework.boomer.orange)
+
+Description: A very large mortar type firework with an orange starburst
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 10.0s, 25.0 metal.fragments, 30.0 gunpowder, 15.0 lowgradefuel
+Recycler Output: 12 metal.fragments, 15 gunpowder, 7 lowgradefuel
+
+----------------------------------------
+
+## Paddling Pool (paddlingpool)
+
+Description: A small inflatable pool that you can fill up with water.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 100.0 cloth, 1.0 tarp
+Recycler Output: 50 cloth
+
+----------------------------------------
+
+## Pan Flute (fun.flute)
+
+Description: A set of repurposed PVC pipes that can be used to play a variety of melodies.
+Rarity: Common
+Crafting: Workbench 0, 20.0s, 20.0 metal.fragments, 5.0 cloth
+Recycler Output: 10 metal.fragments, 2 cloth
+
+----------------------------------------
+
+## Pattern Boomer (firework.boomer.pattern)
+
+Description: A special boomer which allows you light up the night sky with a custom pattern that you draw. Multiple colors and altitude settings are available.
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 10.0s, 50.0 metal.fragments, 30.0 gunpowder, 15.0 lowgradefuel
+Recycler Output: 25 metal.fragments, 15 gunpowder, 7 lowgradefuel
+
+----------------------------------------
+
+## Pinata (pinata)
+
+Description: Batter up!
+Rarity: None
+Stack Size: 5
+
+----------------------------------------
+
+## Plumber's Trumpet (fun.trumpet)
+
+Description: Toot your own horn with this brassy improvised Trumpet.
+Rarity: Common
+Crafting: Workbench 0, 20.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Portable Boom Box (fun.boomboxportable)
+
+Description: A portable Boom Box that can play tapes and internet audio streams. [attack] to start/stop and [attack2] to modify settings.
+Rarity: None
+Crafting: Workbench 1, 15.0s, 120.0 metal.fragments
+Recycler Output: 60 metal.fragments
+
+----------------------------------------
+
+## Red Boomer (firework.boomer.red)
+
+Description: A very large mortar type firework with a red starburst
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 10.0s, 25.0 metal.fragments, 30.0 gunpowder, 15.0 lowgradefuel
+Recycler Output: 12 metal.fragments, 15 gunpowder, 7 lowgradefuel
+
+----------------------------------------
+
+## Red Roman Candle (firework.romancandle.red)
+
+Description: A small repeating firework, shoots a series of red balls into the air
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 60.0s, 25.0 metal.fragments, 10.0 lowgradefuel
+Recycler Output: 12 metal.fragments, 5 lowgradefuel
+
+----------------------------------------
+
+## Red Volcano Firework (firework.volcano.red)
+
+Description: Emits a beautiful shower of red sparks
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 10.0s, 20.0 metal.fragments, 15.0 gunpowder
+Recycler Output: 10 metal.fragments, 7 gunpowder
+
+----------------------------------------
+
+## Shovel Bass (fun.bass)
+
+Description: Use this stringed together shovel to play some deep, deep tunes.
+Rarity: Common
+Crafting: Workbench 0, 20.0s, 50.0 wood, 75.0 metal.fragments
+Recycler Output: 25 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Skull Spikes (skullspikes.pumpkin)
+
+Description: A spike of several skulls. Very spooky.
+Rarity: None
+
+----------------------------------------
+
+## Skull Spikes (skullspikes)
+
+Description: A spike of several skulls. Very spooky.
+Rarity: None
+Crafting: Workbench 0, 15.0s, 150.0 wood, 1.0 skull.human
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Skull Spikes (skullspikes.candles)
+
+Description: A spike of several skulls. Very spooky.
+Rarity: None
+
+----------------------------------------
+
+## Skull Trophy (skull.trophy.jar2)
+
+Description: A decorative mount that can hold the skull of a friend or foe.
+Rarity: None
+
+----------------------------------------
+
+## Skull Trophy (skull.trophy)
+
+Description: A decorative mount that can hold the skull of a friend or foe.
+Rarity: None
+Crafting: Workbench 0, 15.0s, 100.0 wood, 25.0 metal.fragments
+Recycler Output: 50 wood, 12 metal.fragments
+
+----------------------------------------
+
+## Skull Trophy (skull.trophy.table)
+
+Description: A decorative mount that can hold the skull of a friend or foe.
+Rarity: None
+
+----------------------------------------
+
+## Skull Trophy (skull.trophy.jar)
+
+Description: A decorative mount that can hold the skull of a friend or foe.
+Rarity: None
+
+----------------------------------------
+
+## Sky Lantern (skylantern)
+
+Description: A set of beautiful sky lanterns. Comes in 5 colors. Can be launched in any direction. Has one inventory slot. Can be Ignited with a lit torch.
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 2.0s, 10.0 cloth, 5.0 lowgradefuel
+Recycler Output: 5 cloth, 2 lowgradefuel
+
+----------------------------------------
+
+## Sky Lantern - Green (skylantern.skylantern.green)
+
+Description: #skylantern.skylantern.green.desc
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Sky Lantern - Orange (skylantern.skylantern.orange)
+
+Description: #skylantern.skylantern.orange.desc
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Sky Lantern - Purple (skylantern.skylantern.purple)
+
+Description: #skylantern.skylantern.purple.desc
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Sky Lantern - Red (skylantern.skylantern.red)
+
+Description: #skylantern.skylantern.red.desc
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Sled (sled)
+
+Description: A wooden sled to quickly travel down snowy hills.
+Rarity: None
+
+----------------------------------------
+
+## Sled (sled.xmas)
+
+Description: A wooden sled to quickly travel down snowy hills.
+Rarity: None
+
+----------------------------------------
+
+## Sound Light (soundlight)
+
+Description: A light that will pulse in time to music when connected to a Boom Box.
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 1, 15.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Sousaphone (fun.tuba)
+
+Description: A collection of used piping that’s been converted into a Tuba. Probably not very hygienic.
+Rarity: Common
+Crafting: Workbench 0, 20.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Telephone (telephone)
+
+Description: Use the telephone to call other telephones on the island!
+Rarity: Uncommon
+Crafting: Workbench 1, 30.0s, 50.0 wood, 100.0 metal.fragments, 1.0 techparts
+Recycler Output: 25 wood, 50 metal.fragments
+
+----------------------------------------
+
+## Violet Boomer (firework.boomer.violet)
+
+Description: A very large mortar type firework with a violet starburst
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 10.0s, 25.0 metal.fragments, 30.0 gunpowder, 15.0 lowgradefuel
+Recycler Output: 12 metal.fragments, 15 gunpowder, 7 lowgradefuel
+
+----------------------------------------
+
+## Violet Roman Candle (firework.romancandle.violet)
+
+Description: A small repeating firework, shoots a series of Violet balls into the air
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 60.0s, 25.0 metal.fragments, 10.0 lowgradefuel
+Recycler Output: 12 metal.fragments, 5 lowgradefuel
+
+----------------------------------------
+
+## Violet Volcano Firework (firework.volcano.violet)
+
+Description: Emits a beautiful shower of Violet sparks
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 10.0s, 20.0 metal.fragments, 15.0 gunpowder
+Recycler Output: 10 metal.fragments, 7 gunpowder
+
+----------------------------------------
+
+## Wheelbarrow Piano (piano)
+
+Description: The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 200.0 wood, 100.0 metal.fragments
+Recycler Output: 100 wood, 50 metal.fragments
+
+----------------------------------------
+
+## White Volcano Firework (firework.volcano)
+
+Description: Emits a beautiful shower of white sparks
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 10.0s, 20.0 metal.fragments, 15.0 gunpowder
+Recycler Output: 10 metal.fragments, 7 gunpowder
+
+----------------------------------------
+
+## Wrapped Gift (wrappedgift)
+
+Description: A lazily wrapped gift.
+Rarity: Common
+
+----------------------------------------
+
+## Wrapping Paper (wrappingpaper)
+
+Description: Use this to conceal any item in a lazily wrapped gift
+Rarity: Common
+
+----------------------------------------
+
+## Xylobone (xylophone)
+
+Description: A selection of bones that were “acquired” for their acoustic attributes. Play a lullaby for your camp with these soothing tones.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 50.0 bone.fragments
+Recycler Output: 25 bone.fragments
+
+----------------------------------------

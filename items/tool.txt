@@ -1,0 +1,449 @@
+RUST ITEMS: TOOL
+Total items in this category: 51
+
+============================================================
+
+## Abyss Metal Hatchet (diverhatchet)
+
+Description: Metal hatchet, reclaimed from the abyss, perfect for survival and crafting
+Rarity: Uncommon
+Ammo Stats: projectileSpread=1, projectileVelocity=22, TotalDamage=15, DamageBreakdown={'Slash': 15.0}
+
+----------------------------------------
+
+## Abyss Metal Pickaxe (diverpickaxe)
+
+Description: Plucked from the abyss, this Metal Pickaxe is a prized possession for any survivor
+Rarity: Uncommon
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=20, DamageBreakdown={'Stab': 20.0}
+
+----------------------------------------
+
+## Abyss Torch (divertorch)
+
+Description: Illuminate the underwater depths with this durable and waterproof diving torch
+Rarity: None
+
+----------------------------------------
+
+## Binoculars (tool.binoculars)
+
+Description: Binoculars allowing you to see objects at great length.
+Rarity: Uncommon
+Crafting: Workbench 0, 30.0s, 40.0 metal.fragments, 1.0 gears
+Recycler Output: 20 metal.fragments
+
+----------------------------------------
+
+## Birthday Cake (cakefiveyear)
+
+Description: A very special and happy birthday to Rust!
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=30, DamageBreakdown={'Blunt': 30.0}
+
+----------------------------------------
+
+## Camera (tool.camera)
+
+Description: A camera. Take screenshots with primary fire, zoom in and out with secondary fire, and lock focus with third fire.
+Rarity: VeryRare
+
+----------------------------------------
+
+## Chainsaw (chainsaw)
+
+Description: A Chainsaw. Very effective at cutting trees in addition to soft fleshy objects. Requires Low Grade Fuel to run.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 5.0 metal.refined, 2.0 gears, 6.0 metalblade
+Recycler Output: 2 metal.refined, 1 gears, 3 metalblade
+
+----------------------------------------
+
+## Compass (compass)
+
+Description: A handy tool which indicates which direction you're facing. Will reveal your location on the map in Hardcore mode if equipped on your belt.
+Rarity: Uncommon
+Crafting: Workbench 0, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Concrete Hatchet (concretehatchet)
+
+Description: A salvaged piece of concrete and rebar which can be used to harvest wood
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=15, DamageBreakdown={'Slash': 15.0}
+
+----------------------------------------
+
+## Concrete Pickaxe (concretepickaxe)
+
+Description: A salvaged piece of concrete and rebar with a sharp edge. Can be used to harvest Stone, Metal ore and Sulfur ore.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=10, DamageBreakdown={'Stab': 10.0}
+
+----------------------------------------
+
+## Cultist Deer Torch (torch.torch.skull)
+
+Description: Cultist Deer Torch
+Rarity: None
+
+----------------------------------------
+
+## Documents (documents)
+
+Description: A stack of technical looking documents.
+Rarity: None
+
+----------------------------------------
+
+## Fishing Tackle (fishing.tackle)
+
+Description: Fishing Tackle
+Rarity: None
+
+----------------------------------------
+
+## Flare (flare)
+
+Description: Light up the night sky with this brand new red flare!
+Rarity: Common
+Stack Size: 5
+Explosive Stats: FuseLength=110, FuseLengthMax=120, ExplosionRadius=1
+Crafting: Workbench 1, 1.0s, 10.0 gunpowder, 10.0 metal.fragments
+Recycler Output: 5 gunpowder, 5 metal.fragments
+
+----------------------------------------
+
+## Flashlight (flashlight.held)
+
+Description: A powerful flashlight which illuminates your surroundings and can be used as a weapon.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 30.0 metal.fragments
+Recycler Output: 15 metal.fragments
+
+----------------------------------------
+
+## Frontier Hatchet (frontier_hatchet)
+
+Description: A Frontier Hatchet, useful for chopping trees and dismembering corpses.
+Rarity: Uncommon
+Ammo Stats: projectileSpread=1, projectileVelocity=22, TotalDamage=15, DamageBreakdown={'Slash': 15.0}
+
+----------------------------------------
+
+## Garry's Mod Tool Gun (toolgun)
+
+Description: Celebrating 15 Years of Garry's Mod! Use this tool gun to upgrade building parts. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.
+Rarity: None
+Crafting: Workbench 0, 15.0s, 100.0 wood, 20.0 metal.fragments
+Recycler Output: 50 wood, 10 metal.fragments
+
+----------------------------------------
+
+## Geiger Counter (geiger.counter)
+
+Description: A geiger counter used by scientists
+Rarity: None
+
+----------------------------------------
+
+## Hammer (hammer)
+
+Description: A Hammer, used to upgrade building materials. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20
+Crafting: Workbench 0, 15.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Handcuffs (handcuffs)
+
+Description: You're under arrest! Use on a surrendering or wounded player to keep them restrained. The wearer is blocked from using or holding items and can be pushed around.
+Rarity: Uncommon
+Crafting: Workbench 2, 15.0s, 70.0 metal.fragments
+Recycler Output: 35 metal.fragments
+
+----------------------------------------
+
+## Handmade Fishing Rod (fishingrod.handmade)
+
+Description: Use [attack2] to cast out the line and wait for a bite. Requires bait.
+Rarity: None
+Crafting: Workbench 0, 10.0s, 2.0 rope, 200.0 wood
+Recycler Output: 1 rope, 100 wood
+
+----------------------------------------
+
+## Hatchet (hatchet)
+
+Description: A Hatchet, useful for chopping trees and dismembering corpses.
+Rarity: Uncommon
+Ammo Stats: projectileSpread=1, projectileVelocity=22, TotalDamage=15, DamageBreakdown={'Slash': 15.0}
+Crafting: Workbench 1, 30.0s, 100.0 wood, 75.0 metal.fragments
+Recycler Output: 50 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Instant Camera (tool.instant_camera)
+
+Description: An instant camera. Take photos with primary fire, zoom in and out with secondary fire, and change focus mode with reload.
+Rarity: VeryRare
+Crafting: Workbench 0, 30.0s, 1.0 gears, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Jackhammer (jackhammer)
+
+Description: A Pneumatic Jackhammer to blast through ore nodes. The sheer power of this device requires no aiming as all weak spots will be instantly destroyed. Works well on human flesh. Can be refilled at a Workbench.
+Rarity: Rare
+
+----------------------------------------
+
+## Jungle Rock (jungle.rock)
+
+Description: A Jungle Rock. The most basic melee weapon and gathering tool.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=10, DamageBreakdown={'Blunt': 10.0}
+
+----------------------------------------
+
+## Krieg chainsword (krieg.chainsword)
+
+Description: A brutal tool of war, roaring to life with every swing.
+Rarity: None
+
+----------------------------------------
+
+## Metal Detector (metal.detector)
+
+Description: Detects metal objects which may otherwise be hidden. When the light flashes, or you hear a beep, aim to search for items. Increase the bar until a flag appears. Dig at the flag with a melee item to reveal what it is. Different areas yield different rewards
+Rarity: Uncommon
+Crafting: Workbench 1, 30.0s, 2.0 rope, 200.0 metal.fragments, 5.0 metal.refined
+Recycler Output: 1 rope, 100 metal.fragments, 2 metal.refined
+
+----------------------------------------
+
+## Outbreak Sprayer (outbreak.sprayer)
+
+Description: An outbreak sprayer used by scientists
+Rarity: None
+
+----------------------------------------
+
+## Pickaxe (pickaxe)
+
+Description: A Pickaxe, useful for gathering ore from rocks.
+Rarity: Uncommon
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=20, DamageBreakdown={'Stab': 20.0}
+Crafting: Workbench 1, 30.0s, 100.0 wood, 125.0 metal.fragments
+Recycler Output: 50 wood, 62 metal.fragments
+
+----------------------------------------
+
+## Prototype Hatchet (lumberjack.hatchet)
+
+Description: A prototype field hatchet, useful for gathering wood
+Rarity: Uncommon
+Ammo Stats: projectileSpread=1, projectileVelocity=22, TotalDamage=15, DamageBreakdown={'Slash': 15.0}
+
+----------------------------------------
+
+## Prototype Pickaxe (lumberjack.pickaxe)
+
+Description: A prototype field pickaxe. Useful for gathering ore from rocks.
+Rarity: Uncommon
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=15, DamageBreakdown={'Slash': 15.0}
+
+----------------------------------------
+
+## RF Transmitter (rf.detonator)
+
+Description: A hand held RF signal broadcaster. Left click to broadcast. Configurable with right mouse.
+Rarity: Common
+Crafting: Workbench 2, 30.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Rock (rock)
+
+Description: A Rock. The most basic melee weapon and gathering tool.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=10, DamageBreakdown={'Blunt': 10.0}
+Crafting: Workbench 0, 5.0s, 10.0 stones
+Recycler Output: 5 stones
+
+----------------------------------------
+
+## Salvaged Axe (axe.salvaged)
+
+Description: A high-yield resource gathering axe. Slower than the Hatchet.
+Rarity: Rare
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=25, DamageBreakdown={'Slash': 25.0}
+Crafting: Workbench 2, 30.0s, 1.0 metalpipe, 5.0 metalblade
+Recycler Output: 2 metalblade
+
+----------------------------------------
+
+## Salvaged Hammer (hammer.salvaged)
+
+Description: A Hammer made from a bunch of other crap.
+Rarity: Uncommon
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=20, DamageBreakdown={'Blunt': 20.0}
+Crafting: Workbench 1, 30.0s, 1.0 metalpipe, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Salvaged Icepick (icepick.salvaged)
+
+Description: A high-yield resource gathering Icepick.
+Rarity: Rare
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=15, DamageBreakdown={'Stab': 15.0}
+Crafting: Workbench 2, 30.0s, 1.0 metalpipe, 5.0 metalblade
+Recycler Output: 2 metalblade
+
+----------------------------------------
+
+## Satchel Charge (explosive.satchel)
+
+Description: Small explosive package constructed of beancan grenades. Useful for destroying wood and sheet metal doors.
+Rarity: Rare
+Stack Size: 10
+Explosive Stats: FuseLength=6, FuseLengthMax=12, ExplosionRadius=4, TotalDamage=475, DamageBreakdown={'Explosion': 75.0, 'Blunt': 200.0, 'Stab': 200.0}
+Crafting: Workbench 1, 5.0s, 4.0 grenade.beancan, 1.0 stash.small, 1.0 rope
+Recycler Output: 2 grenade.beancan
+
+----------------------------------------
+
+## Shovel (shovel)
+
+Description: A shovel for digging up stuff
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=20.10, DamageBreakdown={'Slash': 10.0, 'Stab': 10.0, 'Generic': 0.1}
+
+----------------------------------------
+
+## Skull (skull)
+
+Description: A spooky skull
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=10, DamageBreakdown={'Blunt': 10.0}
+
+----------------------------------------
+
+## Smoke Grenade (grenade.smoke)
+
+Description: Produces a large cloud of opaque greyish white smoke.
+Rarity: Uncommon
+Stack Size: 3
+Explosive Stats: FuseLength=1, FuseLengthMax=1, ExplosionRadius=4.50
+Crafting: Workbench 2, 10.0s, 35.0 gunpowder, 50.0 metal.fragments
+Recycler Output: 17 gunpowder, 25 metal.fragments
+
+----------------------------------------
+
+## Spray Can (spraycan)
+
+Description: Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items.
+Rarity: Common
+Crafting: Workbench 0, 15.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Spray Can Decal (spraycandecal)
+
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Stone Hatchet (stonehatchet)
+
+Description: Primitive tool used for harvesting wood from trees and logs.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=10, DamageBreakdown={'Slash': 10.0}
+Crafting: Workbench 0, 15.0s, 200.0 wood, 100.0 stones
+Recycler Output: 100 wood, 50 stones
+
+----------------------------------------
+
+## Stone Pickaxe (stone.pickaxe)
+
+Description: Primitive tool used for harvesting Stone, Metal ore and Sulfur ore.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=10, DamageBreakdown={'Stab': 10.0}
+Crafting: Workbench 0, 15.0s, 200.0 wood, 100.0 stones
+Recycler Output: 100 wood, 50 stones
+
+----------------------------------------
+
+## Supply Signal (supply.signal)
+
+Description: Purple signal smoke. Use to mark a location for an airdrop.
+Rarity: VeryRare
+Explosive Stats: FuseLength=3.50, FuseLengthMax=3.50, ExplosionRadius=4.50
+
+----------------------------------------
+
+## Survey Charge (surveycharge)
+
+Description: Use this on the terrain to see which resources are available for mining.
+Rarity: None
+Stack Size: 10
+Explosive Stats: FuseLength=5, FuseLengthMax=5, ExplosionRadius=5, TotalDamage=20, DamageBreakdown={'Explosion': 8.0, 'Blunt': 12.0}
+Crafting: Workbench 2, 15.0s, 30.0 gunpowder, 5.0 cloth, 10.0 metal.fragments, 20.0 lowgradefuel
+Recycler Output: 15 gunpowder, 2 cloth, 5 metal.fragments, 10 lowgradefuel
+
+----------------------------------------
+
+## Timed Explosive Charge (explosive.timed)
+
+Description: C4, useful for breaking into bases.
+Rarity: VeryRare
+Stack Size: 10
+Explosive Stats: FuseLength=10, FuseLengthMax=10, ExplosionRadius=4, TotalDamage=550, DamageBreakdown={'Explosion': 550.0}
+Crafting: Workbench 3, 30.0s, 20.0 explosives, 5.0 cloth, 2.0 techparts
+Recycler Output: 10 explosives, 2 cloth, 1 techparts
+
+----------------------------------------
+
+## Torch (torch)
+
+Description: A Torch. Lights your way at night and can be used as a weapon.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 30.0 wood, 1.0 cloth, 1.0 lowgradefuel
+Recycler Output: 15 wood
+
+----------------------------------------
+
+## Wallpaper Tool (wallpaper.tool)
+
+Description: Transform your base from a rusty shack to a cozy hideout! This tool lets you apply wallpaper on walls, floors and ceilings. A nice touch of style - until the next raid, at least.
+
+Press [+attack2] to select your skin.
+Rarity: None
+Crafting: Workbench 0, 5.0s, 10.0 cloth
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Wallpaper Wall (wallpaper.wall)
+
+Rarity: None
+
+----------------------------------------
+
+## Water Bucket (bucket.water)
+
+Description: A bucket for transporting water or other liquids.
+Rarity: Common
+Crafting: Workbench 0, 30.0s, 20.0 metal.fragments
+Recycler Output: 10 metal.fragments
+
+----------------------------------------

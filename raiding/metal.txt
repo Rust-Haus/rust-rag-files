@@ -1,0 +1,44 @@
+RUST RAIDING GUIDE: SHEET METAL TIER
+
+Standard Wall HP: 1000
+
+RAID COSTS (for standard wall):
+  Cannonball: 4 (sulfur: 160)
+  Torpedo: 3 (sulfur: 180)
+  Flashbang: 50 (sulfur: 3000)
+  F1 Grenade: 5 (sulfur: 300)
+  Survey Charge: 50 (sulfur: 3000)
+  Beancan Grenade: 9 (sulfur: 1080)
+  High Velocity Rocket: 3 (sulfur: 600)
+  Homing Missile: 2 (sulfur: 400)
+  Firebomb: 20 (sulfur: 6000)
+  Incendiary Rocket: 20 (sulfur: 6000)
+  Satchel Charge: 3 (sulfur: 1440)
+  Propane Explosive Bomb: 3 (sulfur: 2700)
+  Rocket: 3 (sulfur: 4200)
+  Timed Explosive Charge: 2 (sulfur: 4400)
+  MLRS Rocket: 2
+  Smoke Rocket WIP!!!!: 200
+  40mm HE Grenade: 12
+  Bee Grenade: 50
+  Molotov Cocktail: 29
+  Scattershot: 8
+  Bee Catapult Bomb: 50
+
+BLOCK HP VALUES:
+  Foundation: 1000 HP (standard)
+  Triangle Foundation: 600 HP
+  Wall: 1000 HP (standard)
+  Half Wall: 500 HP
+  Low Wall: 500 HP
+  Wall Frame: 1000 HP (standard)
+  Doorway: 1000 HP (standard)
+  Window Frame: 1000 HP (standard)
+  Floor: 1000 HP (standard)
+  Triangle Floor: 600 HP
+  Floor Frame: 1000 HP (standard)
+  Roof: 1000 HP (standard)
+  Triangle Roof: 600 HP
+  L Shaped Stairs: 1000 HP (standard)
+  U Shaped Stairs: 1000 HP (standard)
+  Ramp: 1000 HP (standard)

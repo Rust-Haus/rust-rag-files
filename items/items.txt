@@ -1,0 +1,1997 @@
+RUST ITEMS: ITEMS
+Total items in this category: 226
+
+============================================================
+
+## Abyss Horizontal Storage Tank (abyss.barrel.horizontal)
+
+Description: Horizontal Abyss container taken from the depths of the ocean
+Rarity: None
+Crafting: Workbench 0, 30.0s, 300.0 wood, 75.0 metal.fragments
+Recycler Output: 150 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Abyss Vertical Storage Tank (abyss.barrel.vertical)
+
+Description: Vertical Abyss container taken from the depths of the ocean
+Rarity: None
+Crafting: Workbench 0, 30.0s, 300.0 wood, 75.0 metal.fragments
+Recycler Output: 150 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Advent Calendar (xmas.advent)
+
+Description: Receive a special gift each and every day!
+Rarity: None
+
+----------------------------------------
+
+## Anchor (anchor)
+
+Description: A heavy anchor to stop your boat drifting.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 250.0 wood
+Recycler Output: 125 wood
+
+----------------------------------------
+
+## Artist Canvas Large (sign.artistcanvas.m)
+
+Description: A large sized canvas for seamless murals
+Rarity: Rare
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 175.0 wood, 30.0 cloth
+Recycler Output: 87 wood, 15 cloth
+
+----------------------------------------
+
+## Artist Canvas Medium (sign.artistcanvas.s)
+
+Description: A medium canvas for seamless murals
+Rarity: Rare
+Stack Size: 5
+
+----------------------------------------
+
+## Artist Canvas Small (sign.artistcanvas.xs)
+
+Description: A small canvas for seamless murals
+Rarity: Rare
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 175.0 wood, 30.0 cloth
+Recycler Output: 87 wood, 15 cloth
+
+----------------------------------------
+
+## Artist Canvas Standing (sign.artistcanvas.l)
+
+Description: A standing canvas for seamless murals
+Rarity: Rare
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 175.0 wood, 30.0 cloth
+Recycler Output: 87 wood, 15 cloth
+
+----------------------------------------
+
+## Artist Canvas XL (sign.artistcanvas.xl)
+
+Description: An extra large canvas for seamless murals
+Rarity: Rare
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 175.0 wood, 30.0 cloth
+Recycler Output: 87 wood, 15 cloth
+
+----------------------------------------
+
+## Artist Canvas XXL (sign.artistcanvas.xxl)
+
+Description: An extra, extra large canvas for seamless murals
+Rarity: Rare
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 175.0 wood, 30.0 cloth
+Recycler Output: 87 wood, 15 cloth
+
+----------------------------------------
+
+## Asbestos Armor Insert (clothing.mod.armorinsert_asbestos)
+
+Description: Asbestos insert providing extra protection from heat for crafted clothes and armor.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Bamboo Barrel (bamboo.barrel)
+
+Description: Keep your things in this bamboo barrel. Stores up to 48 items. Cannot be locked.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 300.0 wood, 75.0 metal.fragments
+Recycler Output: 150 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Bamboo Salvaged Shelves (salvaged.bamboo.shelves)
+
+Description: Bamboo shelves for item stacking
+Rarity: Uncommon
+Stack Size: 10
+
+----------------------------------------
+
+## Barbeque (bbq)
+
+Description: A makeshift Barbeque. You can cook significant amounts of food with this.
+Rarity: Common
+Crafting: Workbench 0, 30.0s, 40.0 metal.fragments, 100.0 wood
+Recycler Output: 20 metal.fragments, 50 wood
+
+----------------------------------------
+
+## Bath Tub Planter (bathtub.planter)
+
+Description: A small planter with enough room to plant 3 seeds.
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 0, 30.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Bear Skin Rug (rug.bear)
+
+Description: A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.
+Rarity: Common
+Crafting: Workbench 0, 30.0s, 20.0 leather
+Recycler Output: 10 leather
+
+----------------------------------------
+
+## Bed (bed)
+
+Description: A Bed. Placing this will give you a place to respawn and can be used much more frequently than a sleeping bag. Note: Must be placed inside a building.
+Rarity: Uncommon
+Crafting: Workbench 1, 30.0s, 60.0 cloth, 100.0 metal.fragments, 2.0 sewingkit
+Recycler Output: 30 cloth, 50 metal.fragments, 1 sewingkit
+
+----------------------------------------
+
+## Boat Building Station (boatbuildingstation)
+
+Description: A deployable building station, creates a stable workspace on the water to build or edit your floating wooden refuge.
+Rarity: Uncommon
+Crafting: Workbench 1, 30.0s, 200.0 wood, 1.0 tarp
+Recycler Output: 100 wood
+
+----------------------------------------
+
+## Bota Bag (botabag)
+
+Description: A canteen used to carry Water. Left click to drink, right click to fill from water sources, or to pour out.
+Rarity: None
+Crafting: Workbench 0, 15.0s, 10.0 cloth
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Camp Fire (campfire)
+
+Description: A small camp fire. Provides warmth and light, and you can cook with it.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Cancer Research UK Plushie (charity.plushy.01)
+
+Description: A soft and squishy plush that provides comfort in your base. First sold on the Rust store in October 2025 to support Cancer Research UK, each purchase helped fund real-world cancer research.
+
+www.cancerresearchuk.org
+Rarity: None
+Crafting: Workbench 0, 1.0s, 50.0 cloth
+Recycler Output: 25 cloth
+
+----------------------------------------
+
+## Cannon (cannon)
+
+Description: A heavy mountable cannon for your boat with a short fuse. Questionable accuracy but high damage.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 100.0 wood, 200.0 metal.fragments
+Recycler Output: 50 wood, 100 metal.fragments
+
+----------------------------------------
+
+## Card Table (cardtable)
+
+Description: A table for playing card games
+Rarity: None
+
+----------------------------------------
+
+## Carvable Pumpkin (carvable.pumpkin)
+
+Description: A pumpkin you can carve any design you'd like into and light up at night. Requires wood as a fuel source.
+Rarity: None
+Crafting: Workbench 0, 1.0s, 1.0 pumpkin
+
+----------------------------------------
+
+## Chair (chair)
+
+Description: Every home needs a chair. A decorative item which provides comfort while seated.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 50.0 wood, 75.0 metal.fragments
+Recycler Output: 25 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Chicken Coop (chickencoop)
+
+Description: An enclosure to keep some chickens around. Chickens with plenty of food, water and sunlight produce more eggs.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 300.0 wood, 1.0 rope, 75.0 metal.fragments
+Recycler Output: 150 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Chinese Lantern (chineselantern)
+
+Description: A decorative Paper lantern
+Rarity: Common
+Crafting: Workbench 0, 30.0s, 25.0 cloth, 5.0 lowgradefuel
+Recycler Output: 12 cloth, 2 lowgradefuel
+
+----------------------------------------
+
+## Chinese Lantern White (chineselanternwhite)
+
+Description: A decorative White Paper lantern
+Rarity: Common
+Crafting: Workbench 0, 30.0s, 25.0 cloth, 5.0 lowgradefuel
+Recycler Output: 12 cloth, 2 lowgradefuel
+
+----------------------------------------
+
+## Chippy Arcade Game (arcade.machine.chippy)
+
+Description: An Arcade Machine
+Rarity: None
+Crafting: Workbench 1, 30.0s, 10.0 metal.refined, 2.0 gears
+Recycler Output: 5 metal.refined, 1 gears
+
+----------------------------------------
+
+## Christmas Door Wreath (xmasdoorwreath)
+
+Description: Get into the christmas spirit with this holiday door wreath.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 20.0 cloth
+Recycler Output: 10 cloth
+
+----------------------------------------
+
+## Christmas Lights (xmas.lightstring)
+
+Description: A string of colored lights to decorate your home
+Rarity: None
+Stack Size: 20
+Crafting: Workbench 0, 30.0s, 25.0 metal.fragments, 20.0 lowgradefuel
+Recycler Output: 12 metal.fragments, 10 lowgradefuel
+
+----------------------------------------
+
+## Christmas Tree (xmas.tree)
+
+Description: Get into the holiday spirit with this decorative Christmas tree
+Rarity: None
+
+----------------------------------------
+
+## Circle Balloon (circleballoon2025)
+
+Description: A circular balloon to use as decoration and for you to celebrate. You can write on it.
+Rarity: None
+Crafting: Workbench 0, 10.0s, 15.0 cloth
+Recycler Output: 7 cloth
+
+----------------------------------------
+
+## Clan Table (clantable)
+
+Description: A table for managing clans.
+Rarity: None
+
+----------------------------------------
+
+## Clothing Mannequin (mannequin)
+
+Description: Displays a set of clothing, quickly remove items off your player onto the Mannequin. Goes by Manny.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 100.0 wood, 50.0 metal.fragments
+Recycler Output: 50 wood, 25 metal.fragments
+
+----------------------------------------
+
+## Clump of Latex Balloons (latexclumpballoon2025)
+
+Description: A clump of latex balloons to use as decoration and for you to celebrate.
+Rarity: None
+Crafting: Workbench 0, 10.0s, 15.0 cloth
+Recycler Output: 7 cloth
+
+----------------------------------------
+
+## Clump of Mixed Balloons (mixedclumpballoon2025)
+
+Description: A clump of mixed balloons to use as decoration and for you to celebrate.
+Rarity: None
+
+----------------------------------------
+
+## Composter (composter)
+
+Description: Produces fertilizer from compostable items.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 2.0 tarp, 200.0 wood
+Recycler Output: 1 tarp, 100 wood
+
+----------------------------------------
+
+## Cooking Workbench (cookingworkbench)
+
+Description: Used to cook advanced recipes for food, fuel, ammunition and explosives.
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 200.0 metal.fragments, 200.0 stones, 100.0 wood
+Recycler Output: 100 metal.fragments, 100 stones, 50 wood
+
+----------------------------------------
+
+## Discord Trophy (discord.trophy)
+
+Description: A companion that reminds you of your youth.
+Rarity: None
+Crafting: Workbench 0, 1.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Diver propulsion vehicle (skidoo)
+
+Description: A personal underwater propulsion device
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 1.0 techparts, 150.0 metal.fragments
+Recycler Output: 75 metal.fragments
+
+----------------------------------------
+
+## Double Sign Post (sign.post.double)
+
+Description: A double sign post that you can plant into terrain.
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 75.0 wood
+Recycler Output: 37 wood
+
+----------------------------------------
+
+## Dragon Door Knocker (dragondoorknocker)
+
+Description: A heavy brass door knocker
+Rarity: None
+Crafting: Workbench 0, 30.0s, 20.0 metal.fragments
+Recycler Output: 10 metal.fragments
+
+----------------------------------------
+
+## Drone (drone)
+
+Description: A remote controlled drone operated from the Computer station with a limited range. Easily damaged from impacts.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 200.0 metal.fragments, 1.0 cctv.camera
+Recycler Output: 100 metal.fragments
+
+----------------------------------------
+
+## Drop Box (dropbox)
+
+Description: This item can be deployed on walls so that players can input items from the exterior of the building for safe keeping. You can only access the submitted contents of the Drop Box from the rear.
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 200.0 metal.fragments
+Recycler Output: 100 metal.fragments
+
+----------------------------------------
+
+## Easter Door Wreath (easterdoorwreath)
+
+Description: A beautiful, hand crafted Easter themed door wreath.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 20.0 cloth
+Recycler Output: 10 cloth
+
+----------------------------------------
+
+## Engineering Workbench (iotable)
+
+Description: This allows you to craft and unlock electrical, water and industrial items
+Rarity: Rare
+Crafting: Workbench 1, 30.0s, 500.0 wood, 100.0 metal.fragments
+Recycler Output: 250 wood, 50 metal.fragments
+
+----------------------------------------
+
+## Fabric Beanbag Seat (beanbagseatfabric)
+
+Description: A cozy fabric beanbag seat to sink in to.
+Rarity: None
+Stack Size: 5
+
+----------------------------------------
+
+## Festive Doorway Garland (xmas.door.garland)
+
+Description: A Festive decoration to spruce up your  doorway during the holdiays!
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 0, 30.0s, 25.0 cloth
+Recycler Output: 12 cloth
+
+----------------------------------------
+
+## Festive Double Doorway Garland (xmas.double.door.garland)
+
+Description: A Festive decoration to spruce up your double doorway during the holidays!
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 0, 30.0s, 25.0 cloth
+Recycler Output: 12 cloth
+
+----------------------------------------
+
+## Festive Window Garland (xmas.window.garland)
+
+Description: A Festive decoration to spruce up your windows during the holdiays!
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 0, 30.0s, 25.0 cloth
+Recycler Output: 12 cloth
+
+----------------------------------------
+
+## Fish Trophy (fishtrophy)
+
+Description: A wall mountable item to show off your greatest catches. Fish not included.
+Rarity: None
+Crafting: Workbench 0, 20.0s, 75.0 wood
+Recycler Output: 37 wood
+
+----------------------------------------
+
+## Flight Recorder Box (pilot.hazmat.box.wooden)
+
+Description: Keep your things in this Flight Recorder box. Stores up to 18 items.
+Rarity: None
+
+----------------------------------------
+
+## Frankenstein Table (frankensteintable)
+
+Description: Place a monsters head, torso and legs into the table to summon Frankensteins monster.
+Rarity: Uncommon
+
+----------------------------------------
+
+## Frontier Bolts Single Item Rack (gunrack.single.1.horizontal)
+
+Description: Artfully display your weapon with a handcrafted wall-mounted single weapon rack.
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 50.0 wood, 20.0 metal.fragments
+Recycler Output: 25 wood, 10 metal.fragments
+
+----------------------------------------
+
+## Frontier Horns Single Item Rack (gunrack.single.3.horizontal)
+
+Description: Artfully display your weapon with a handcrafted wall-mounted single weapon rack.
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 30.0 bone.fragments
+Recycler Output: 15 bone.fragments
+
+----------------------------------------
+
+## Frontier Horseshoe Single Item Rack (gunrack.single.2.horizontal)
+
+Description: Artfully display your weapon with a handcrafted wall-mounted single weapon rack.
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Frontier Mirror Large (frontiermirror.large)
+
+Description: A large wooden frontier themed mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Frontier Mirror Medium (frontiermirror.medium)
+
+Description: A medium wood frontier themed mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Frontier Mirror Small (frontiermirror.small)
+
+Description: A small wooden frontier themed mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Frontier Mirror Standing (frontiermirror.standing)
+
+Description: A standing wooden frontier themed mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Furnace (furnace)
+
+Description: A Furnace. Use it to smelt mined ore.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 200.0 stones, 100.0 wood, 50.0 lowgradefuel
+Recycler Output: 100 stones, 50 wood, 25 lowgradefuel
+
+----------------------------------------
+
+## Gold Mirror large (goldmirror.large)
+
+Description: A large gold mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Gold Mirror Medium (goldmirror.medium)
+
+Description: A medium gold mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Gold Mirror Small (goldmirror.small)
+
+Description: A small gold mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Gold Mirror Standing (goldmirror.standing)
+
+Description: A standing gold mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Green (rockingchair.rockingchair3)
+
+Description: A rocking chair that responds to your input. Don't fire whilst seated.
+Rarity: None
+Stack Size: 5
+
+----------------------------------------
+
+## Half Height Bamboo Shelves (half.bamboo.shelves)
+
+Description: Half height salvaged bamboo shelves for stacking
+Rarity: Uncommon
+Stack Size: 10
+Crafting: Workbench 0, 10.0s, 40.0 metal.fragments
+Recycler Output: 20 metal.fragments
+
+----------------------------------------
+
+## Hazmat Plushy (hazmat.plushy)
+
+Description: A plushy of your favourite outfit made by the fabulous people at YouTooz.com
+Rarity: None
+Crafting: Workbench 0, 1.0s, 50.0 cloth
+Recycler Output: 25 cloth
+
+----------------------------------------
+
+## Hazmat Youtooz (hazmatyoutooz)
+
+Description: Hazmat Youtooz
+Rarity: None
+Crafting: Workbench 0, 10.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Heart Balloon (heartballoon2025)
+
+Description: A heart-shaped balloon to use as decoration and for you to celebrate. You can write on it.
+Rarity: None
+Crafting: Workbench 0, 10.0s, 15.0 cloth
+Recycler Output: 7 cloth
+
+----------------------------------------
+
+## Heavy Scientist Plushie (heavy.scientist.plushie)
+
+Description: Heavy Scientist Plushie
+Rarity: None
+Crafting: Workbench 0, 1.0s, 50.0 cloth
+Recycler Output: 25 cloth
+
+----------------------------------------
+
+## Heavy Scientist Youtooz (heavyscientistyoutooz)
+
+Description: Heavy Scientist Youtooz
+Rarity: None
+Crafting: Workbench 0, 10.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Hitch & Trough (hitchtroughcombo)
+
+Description: A Hitching post and Trough. Dismounting your horses here will keep them healthy and fed as long as it is kept stocked with food.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 200.0 wood
+Recycler Output: 100 wood
+
+----------------------------------------
+
+## Hobo Barrel (hobobarrel)
+
+Description: A vagabond staple. Use this repurposed oil barrel to stay warm.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Horizontal Weapon Rack (gunrack.horizontal)
+
+Description: Artfully display your arsenal with a handcrafted wall-mounted weapon rack.
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 100.0 wood, 120.0 metal.fragments
+Recycler Output: 50 wood, 60 metal.fragments
+
+----------------------------------------
+
+## Huge Wooden Sign (sign.wooden.huge)
+
+Description: A 6-meter by 3-meter wooden sign that you can write on.
+Rarity: Uncommon
+Crafting: Workbench 0, 30.0s, 250.0 wood
+Recycler Output: 125 wood
+
+----------------------------------------
+
+## Ice Sculpture (sculpture.ice)
+
+Description: A block of ice you can sculpt and light up with electric power.
+Rarity: None
+
+----------------------------------------
+
+## Ice Throne (chair.icethrone)
+
+Description: An Ice Throne. Fit for the one true arctic warlord.
+Rarity: Common
+Stack Size: 5
+
+----------------------------------------
+
+## Jack O Lantern Angry (jackolantern.angry)
+
+Description: A Lantern. Place it where you need light.
+Rarity: None
+Crafting: Workbench 0, 20.0s, 2.0 pumpkin
+Recycler Output: 1 pumpkin
+
+----------------------------------------
+
+## Jack O Lantern Happy (jackolantern.happy)
+
+Description: A Lantern. Place it where you need light.
+Rarity: None
+Crafting: Workbench 0, 20.0s, 2.0 pumpkin
+Recycler Output: 1 pumpkin
+
+----------------------------------------
+
+## Kayak (kayak)
+
+Description: An improvised wooden kayak. Seats two and requires a Paddle to operate.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments, 200.0 wood, 50.0 cloth
+Recycler Output: 37 metal.fragments, 100 wood, 25 cloth
+
+----------------------------------------
+
+## Krieg Storage Barrel (krieg.storage.vertical)
+
+Description: Industrial barrels repurposed for the front lines. Sturdy, disciplined, and unmistakably Krieg.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 300.0 wood, 75.0 metal.fragments
+Recycler Output: 150 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Krieg Storage Crates (krieg.storage.horizontal)
+
+Description: Military-grade crates designed for efficient storage and durability. A staple of any well-supplied outpost.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 300.0 wood, 75.0 metal.fragments
+Recycler Output: 150 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Landscape Photo Frame (photoframe.landscape)
+
+Description: A landscape oriented canvas for artists paintings.
+Rarity: Uncommon
+Crafting: Workbench 0, 30.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Landscape Picture Frame (sign.pictureframe.landscape)
+
+Description: A landscape oriented canvas for artists paintings.
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 100.0 wood, 10.0 cloth
+Recycler Output: 50 wood, 5 cloth
+
+----------------------------------------
+
+## Lantern (lantern)
+
+Description: A Lantern. Place it where you need light, requires low grade fuel to work.
+Rarity: Common
+Crafting: Workbench 0, 20.0s, 25.0 metal.fragments, 15.0 lowgradefuel
+Recycler Output: 12 metal.fragments, 7 lowgradefuel
+
+----------------------------------------
+
+## Large Banner Hanging (sign.hanging.banner.large)
+
+Description: A large banner hanging on a wall.
+Rarity: Rare
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 20.0 cloth, 100.0 metal.fragments
+Recycler Output: 10 cloth, 50 metal.fragments
+
+----------------------------------------
+
+## Large Banner on pole (sign.pole.banner.large)
+
+Description: A large banner hanging on a pole.
+Rarity: Rare
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 100.0 wood, 50.0 metal.fragments, 20.0 cloth
+Recycler Output: 50 wood, 25 metal.fragments, 10 cloth
+
+----------------------------------------
+
+## Large Furnace (furnace.large)
+
+Description: Used to smelt large quantities of ore. Difficult to secure, must be placed on terrain.
+Rarity: Rare
+Crafting: Workbench 2, 40.0s, 500.0 stones, 600.0 wood, 75.0 lowgradefuel
+Recycler Output: 250 stones, 300 wood, 37 lowgradefuel
+
+----------------------------------------
+
+## Large Hunting Trophy (huntingtrophylarge)
+
+Description: A large trophy stand to mount the head of killed animals or enemies.
+Rarity: None
+Crafting: Workbench 0, 20.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Large Photo Frame (photoframe.large)
+
+Description: A large frame for your photos.
+Rarity: Rare
+Crafting: Workbench 0, 30.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Large Planter Box (planter.large)
+
+Description: A large planter with enough room to plant 9 seeds.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 0, 30.0s, 200.0 wood, 2.0 tarp
+Recycler Output: 100 wood, 1 tarp
+
+----------------------------------------
+
+## Large Wood Box (box.wooden.large)
+
+Description: Keep your things in this wooden storage box. Stores up to 48 items.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 250.0 wood, 50.0 metal.fragments
+Recycler Output: 125 wood, 25 metal.fragments
+
+----------------------------------------
+
+## Large Wooden Sign (sign.wooden.large)
+
+Description: A 3-meter by 1.5-meter wooden sign that you can write on.
+Rarity: Uncommon
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Latex Balloon (latexballoon2025)
+
+Description: A latex balloon to use as decoration and for you to celebrate. You can write on it.
+Rarity: None
+Crafting: Workbench 0, 10.0s, 15.0 cloth
+Recycler Output: 7 cloth
+
+----------------------------------------
+
+## Lead Armor Insert (clothing.mod.armorinsert_lead)
+
+Description: Lead insert that adds radiation protection for crafted clothes and armor.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 4.0 metal.refined
+Recycler Output: 2 metal.refined
+
+----------------------------------------
+
+## Leather Beanbag Seat (beanbagseatleather)
+
+Description: A cozy leather beanbag seat to sink in to.
+Rarity: None
+Stack Size: 5
+
+----------------------------------------
+
+## Legacy Furnace (legacyfurnace)
+
+Description: Legacy Furnace
+Rarity: None
+
+----------------------------------------
+
+## Light-Up Frame Large (lightup.large)
+
+Description: A large light up frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Light-Up Frame Medium (lightupframe.medium)
+
+Description: A medium Light-up frame
+Rarity: Uncommon
+Stack Size: 5
+
+----------------------------------------
+
+## Light-Up Frame Small (lightupframe.small)
+
+Description: A small light-up frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Light-Up Frame Standing (lightupframe.standing)
+
+Description: A standing light-up frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Light-Up Frame XL (lightup.xl)
+
+Description: An extra large light-up frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Light-Up Frame XXL (lightup.xxl)
+
+Description: An extra extra large light up frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Light-Up Mirror Large (lightupmirror.large)
+
+Description: A large light-up mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Light-Up Mirror Medium (lightupmirror.medium)
+
+Description: A medium light-up mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Light-Up Mirror Small (lightupmirror.small)
+
+Description: A small light-up mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Light-Up Mirror Standing (lightupmirror.standing)
+
+Description: A standing light-up mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Locker (locker)
+
+Description: A locker for keeping your clothes and armor safe!
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 100.0 metal.fragments, 50.0 wood
+Recycler Output: 50 metal.fragments, 25 wood
+
+----------------------------------------
+
+## Mail Box (mailbox)
+
+Description: A Mailbox that accepts notes. Only you can access the mail due to a one way slit.
+Rarity: Common
+Crafting: Workbench 0, 30.0s, 100.0 wood, 25.0 metal.fragments
+Recycler Output: 50 wood, 12 metal.fragments
+
+----------------------------------------
+
+## Medieval Large Wood Box (medieval.box.wooden.large)
+
+Description: Keep your things in this medieval themed wooden storage box. Stores up to 48 items.
+Rarity: None
+
+----------------------------------------
+
+## Medium Wooden Sign (sign.wooden.medium)
+
+Description: A 2-meter by 1-meter wooden sign that you can write on.
+Rarity: Common
+Crafting: Workbench 0, 30.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Metal Armor Insert (clothing.mod.armorinsert_metal)
+
+Description: Metal insert for crafted clothing and armor, provides extra protection from projectiles.
+Rarity: Rare
+
+----------------------------------------
+
+## Minecart Planter (minecart.planter)
+
+Description: A small planter with enough room to plant 2 seeds.
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 0, 30.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Mixing Table (mixingtable)
+
+Description: Used for mixing recipes.
+Rarity: Uncommon
+Crafting: Workbench 1, 30.0s, 200.0 metal.fragments, 100.0 stones
+Recycler Output: 100 metal.fragments, 50 stones
+
+----------------------------------------
+
+## One Sided Town Sign Post (sign.post.town)
+
+Description: A one sided town sign post, that you can plant into terrain.
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Ornate Frame large (goldframe.large)
+
+Description: A large ornate frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Ornate Frame Medium (goldframe.medium)
+
+Description: A medium ornate frame
+Rarity: Uncommon
+Stack Size: 5
+
+----------------------------------------
+
+## Ornate Frame Small (goldframe.small)
+
+Description: A small ornate frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Ornate Frame Standing (goldframe.standing)
+
+Description: A standing ornate frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Ornate Frame XL (goldframe.xl)
+
+Description: An extra large ornate frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Ornate Frame XXL (goldframe.xxl)
+
+Description: An extra extra large ornate frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Paper Map (map)
+
+Description: Helps you figure out where you are. You can annotate the map by right-clicking and drawing on it.
+
+
+Drag the map into your belt bar to make it active. You will then be able to view the map by holding down the map button (G by default).
+Rarity: None
+
+----------------------------------------
+
+## Plank (plank)
+
+Description: Crude boarding plank thrown together from ruined floorboards, watch out for splinters.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Pookie Bear (pookie.bear)
+
+Description: A companion that reminds you of your youth.
+Rarity: None
+
+----------------------------------------
+
+## Portable Easel (easel)
+
+Description: A portable easel for painting plein air!
+Rarity: None
+Crafting: Workbench 0, 10.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Portrait Photo Frame (photoframe.portrait)
+
+Description: A portrait oriented canvas for artists paintings.
+Rarity: Uncommon
+Crafting: Workbench 0, 30.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Portrait Picture Frame (sign.pictureframe.portrait)
+
+Description: A portrait oriented canvas for artists paintings.
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 100.0 wood, 10.0 cloth
+Recycler Output: 50 wood, 5 cloth
+
+----------------------------------------
+
+## PT Boat (ptboat)
+
+Rarity: None
+
+----------------------------------------
+
+## Rail Road Planter (rail.road.planter)
+
+Description: A large planter with enough room to plant 9 seeds.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Repair Bench (box.repair.bench)
+
+Description: You can repair your items here for a fraction of their construction cost. You may also use this to apply new skins to existing items.
+Rarity: None
+Crafting: Workbench 1, 30.0s, 125.0 metal.fragments
+Recycler Output: 62 metal.fragments
+
+----------------------------------------
+
+## Research Table (research.table)
+
+Description: You can use this table to learn how to permanently craft items you have found in exchange for scrap.
+Rarity: Rare
+Crafting: Workbench 1, 30.0s, 200.0 metal.fragments, 20.0 scrap
+Recycler Output: 100 metal.fragments, 10 scrap
+
+----------------------------------------
+
+## RHIB (rhib)
+
+Rarity: None
+
+----------------------------------------
+
+## Rocking Chair (rockingchair)
+
+Description: A rocking chair that responds to your input. Don't fire whilst seated.
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 130.0 wood
+Recycler Output: 65 wood
+
+----------------------------------------
+
+## Ronald McDonald House UK Plushie (charity.plushy.02)
+
+Description: A soft and squishy plush that provides comfort in your base. First sold on the Rust store in October 2025 to support Ronald McDonald House Charities UK, helping ease the burden on families by providing free ‘home away from home’ accommodation near hospitals.
+
+www.rmhc.org.uk
+Rarity: None
+Crafting: Workbench 0, 1.0s, 50.0 cloth
+Recycler Output: 25 cloth
+
+----------------------------------------
+
+## Rowboat (rowboat)
+
+Rarity: None
+
+----------------------------------------
+
+## Rug (rug)
+
+Description: A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.
+Rarity: Common
+Crafting: Workbench 0, 30.0s, 25.0 cloth
+Recycler Output: 12 cloth
+
+----------------------------------------
+
+## Sail (sail)
+
+Description: A slow but effective boat sail, made from scraps of fabric hastily stitched together. More sails will generate more speed.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 150.0 wood, 1.0 tarp
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Salvaged Ejector Seat (chair.ejector.seat)
+
+Description: A chair made from an ejector seat. A decorative item which provides comfort while seated. Stays put.
+Rarity: None
+Stack Size: 5
+
+----------------------------------------
+
+## Salvaged Shelves (shelves)
+
+Description: Shelves for item stacking
+Rarity: Uncommon
+Stack Size: 10
+Crafting: Workbench 0, 10.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Scarecrow (scarecrow)
+
+Description: Get into the halloween spirit with this decorative deployable item.
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 200.0 wood, 10.0 cloth
+Recycler Output: 100 wood, 5 cloth
+
+----------------------------------------
+
+## Scientist Plushie (scientist.plushie)
+
+Description: Scientist Plushie
+Rarity: None
+Crafting: Workbench 0, 1.0s, 50.0 cloth
+Recycler Output: 25 cloth
+
+----------------------------------------
+
+## Scrap Mirror Large (scrapmirror.large)
+
+Description: A large scrap mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Scrap Mirror Medium (scrapmirror.medium)
+
+Description: A medium scrap mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Scrap Mirror Small (scrapmirror.small)
+
+Description: A small scrap mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Scrap Mirror Standing (scrapmirror.standing)
+
+Description: A standing scrap mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Secretlab Chair (secretlabchair)
+
+Description: A luxurious, comfortable chair for long sessions of CCTV watching.
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 50.0 wood, 75.0 metal.fragments
+Recycler Output: 25 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Shutter Frame large (scrapframe.large)
+
+Description: A large shutter frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Shutter Frame Medium (scrapframe.medium)
+
+Description: A medium shutter frame
+Rarity: Uncommon
+Stack Size: 5
+
+----------------------------------------
+
+## Shutter Frame Small (scrapframe.small)
+
+Description: A small shutter frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Shutter Frame Standing (scrapframe.standing)
+
+Description: A standing shutter frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Shutter Frame XL (scrapframe.xl)
+
+Description: An extra large shutter frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Shutter Frame XXL (scrapframe.xxl)
+
+Description: An extra extra large shutter frame
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Single Plant Pot (plantpot.single)
+
+Description: A single plant pot.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 200.0 wood
+Recycler Output: 100 wood
+
+----------------------------------------
+
+## Single Shallow Wall Shelves (single.shallow.wall.shelves)
+
+Description: Single Shallow Wall Shelves
+Rarity: Uncommon
+Stack Size: 10
+Crafting: Workbench 0, 10.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Single Sign Post (sign.post.single)
+
+Description: A single sign post that you can plant into terrain.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 75.0 wood
+Recycler Output: 37 wood
+
+----------------------------------------
+
+## Skull Door Knocker (skulldoorknocker)
+
+Description: A spooky heavy iron door knocker. Its haunted skull will produce flames when distrubed.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 20.0 metal.fragments
+Recycler Output: 10 metal.fragments
+
+----------------------------------------
+
+## Skull Fire Pit (skull_fire_pit)
+
+Description: Enjoy burning your enemies remnants to ashes with this Halloween exclusive! Provides warmth and light, and you can cook with it.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 100.0 wood, 1.0 skull.human
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Sleeping Bag (sleepingbag)
+
+Description: A sleeping bag. Placing this will give you or an assigned player a place to respawn, with a long cooldown.
+Rarity: Uncommon
+Crafting: Workbench 0, 30.0s, 30.0 cloth
+Recycler Output: 15 cloth
+
+----------------------------------------
+
+## Small Boat Engine (smallengine)
+
+Description: A punchy boat engine made from scavenged parts, not good for the environment. More engines means more speed.
+Rarity: Common
+Crafting: Workbench 2, 30.0s, 5.0 metal.refined, 2.0 gears, 50.0 lowgradefuel
+Recycler Output: 2 metal.refined, 1 gears, 25 lowgradefuel
+
+----------------------------------------
+
+## Small Hunting Trophy (huntingtrophysmall)
+
+Description: A trophy stand to mount the head of killed animals or enemies.
+Rarity: None
+Crafting: Workbench 0, 20.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Small Oil Refinery (small.oil.refinery)
+
+Description: A small refinery which can produce Low Grade Fuel from Crude Oil.
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 200.0 wood, 500.0 metal.fragments, 250.0 lowgradefuel
+Recycler Output: 100 wood, 250 metal.fragments, 125 lowgradefuel
+
+----------------------------------------
+
+## Small Planter Box (planter.small)
+
+Description: A small planter with enough room to plant 3 seeds.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 0, 30.0s, 100.0 wood, 1.0 tarp
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Small Ramp (small_ramp)
+
+Description: Deployable wooden ramp cobbled together from recycled doors, probably sturdy enough. Unfolds for boarding enemy vessels.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 250.0 wood, 2.0 rope
+Recycler Output: 125 wood, 1 rope
+
+----------------------------------------
+
+## Small Stash (stash.small)
+
+Description: A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 0, 15.0s, 10.0 cloth
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Small Stocking (stocking.small)
+
+Description: A small stocking. Hang it by a fire and you might just get a gift! Collect 6 to upgrade to a SUPER Stocking.
+Rarity: None
+Stack Size: 5
+
+----------------------------------------
+
+## Small Wooden Sign (sign.wooden.small)
+
+Description: A 1-meter by 0.5-meter wooden sign that you can write on.
+Rarity: Common
+Crafting: Workbench 0, 30.0s, 75.0 wood
+Recycler Output: 37 wood
+
+----------------------------------------
+
+## Snake Venom (venom.snake)
+
+Description: The venom of a snake. Used to create Incapacitate darts.
+Rarity: Common
+Stack Size: 10
+
+----------------------------------------
+
+## Snowman (snowman)
+
+Description: Get into the holiday spirit with this decorative snowman
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 50.0 charcoal, 20.0 cloth, 20.0 metal.fragments
+Recycler Output: 25 charcoal, 10 cloth, 10 metal.fragments
+
+----------------------------------------
+
+## Sofa (sofa)
+
+Description: A comfortable old sofa. A decorative item which provides comfort and seats two.
+Rarity: None
+Stack Size: 2
+Crafting: Workbench 0, 30.0s, 100.0 wood, 30.0 cloth
+Recycler Output: 50 wood, 15 cloth
+
+----------------------------------------
+
+## Sofa - Pattern (sofa.pattern)
+
+Description: A comfortable old sofa with a floral pattern. A decorative item which provides comfort and seats two.
+Rarity: None
+Stack Size: 2
+Crafting: Workbench 0, 30.0s, 100.0 wood, 30.0 cloth
+Recycler Output: 50 wood, 15 cloth
+
+----------------------------------------
+
+## Speech Bubble Balloon (speechbubbleballoon2025)
+
+Description: A speech bubble-shaped balloon to use as decoration and for you to celebrate. You can write on it.
+Rarity: None
+Crafting: Workbench 0, 10.0s, 15.0 cloth
+Recycler Output: 7 cloth
+
+----------------------------------------
+
+## Spinning Wheel (spinner.wheel)
+
+Description: An interactive spinning wheel.
+Rarity: Common
+Crafting: Workbench 0, 20.0s, 150.0 metal.fragments
+Recycler Output: 75 metal.fragments
+
+----------------------------------------
+
+## Star Balloon (starballoon2025)
+
+Description: A star-shaped balloon to use as decoration and for you to celebrate. You can write on it.
+Rarity: None
+Crafting: Workbench 0, 10.0s, 15.0 cloth
+Recycler Output: 7 cloth
+
+----------------------------------------
+
+## Steering Wheel (steeringwheel.boat)
+
+Description: A lockable steering wheel for your modular boat with some suspiciously shaped handles.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Stone Fireplace (fireplace.stone)
+
+Description: A stone fireplace to heat your home. Must be placed indoors and against a wall.
+Rarity: Common
+Crafting: Workbench 0, 30.0s, 500.0 stones, 200.0 wood
+Recycler Output: 250 stones, 100 wood
+
+----------------------------------------
+
+## Storage Barrel Horizontal (storage_barrel_c)
+
+Description: Keep your things in this wooden barrel. Stores up to 48 items. Cannot be locked.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 300.0 wood, 75.0 metal.fragments
+Recycler Output: 150 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Storage Barrel Vertical (storage_barrel_b)
+
+Description: Keep your things in this wooden barrel. Stores up to 48 items. Cannot be locked.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 300.0 wood, 75.0 metal.fragments
+Recycler Output: 150 wood, 37 metal.fragments
+
+----------------------------------------
+
+## SUPER Stocking (stocking.large)
+
+Description: A SUPER Stocking. Hang it by a fire and you might just get an awesome gift!
+Rarity: None
+
+----------------------------------------
+
+## Survival Fish Trap (fishtrap.small)
+
+Description: Traps fish, place on the shore and load with bait. The more bait loaded the bigger the chance of catching Trout.
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 200.0 wood, 5.0 cloth
+Recycler Output: 100 wood, 2 cloth
+
+----------------------------------------
+
+## Table (table)
+
+Description: Every home needs a table. A decorative item which provides comfort when in close proximity.
+Rarity: Common
+Crafting: Workbench 0, 30.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Tall Picture Frame (sign.pictureframe.tall)
+
+Description: A tall canvas for artists paintings.
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood, 10.0 cloth
+Recycler Output: 75 wood, 5 cloth
+
+----------------------------------------
+
+## Tall Weapon Rack (gunrack_tall.horizontal)
+
+Description: Artfully display your arsenal with a handcrafted wall-mounted weapon rack.
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 100.0 wood, 175.0 metal.fragments
+Recycler Output: 50 wood, 87 metal.fragments
+
+----------------------------------------
+
+## Teal (rockingchair.rockingchair2)
+
+Description: A rocking chair that responds to your input. Don't fire whilst seated.
+Rarity: None
+Stack Size: 5
+
+----------------------------------------
+
+## Torch Holder (torchholder)
+
+Description: A wall mounted holder for torches.
+Rarity: None
+Crafting: Workbench 0, 20.0s, 40.0 wood, 10.0 metal.fragments
+Recycler Output: 20 wood, 5 metal.fragments
+
+----------------------------------------
+
+## Triangle Planter Box (planter.triangle)
+
+Description: A triangle planter with enough room to plant 4 seeds.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 0, 30.0s, 150.0 wood, 1.0 tarp
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Triangle Rail Road Planter (triangle.rail.road.planter)
+
+Description: A triangle planter with enough room to plant 4 seeds.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Tugboat (tugboat)
+
+Rarity: None
+
+----------------------------------------
+
+## Tuna Can Lamp (tunalight)
+
+Description: A makeshift wall light. Still smells faintly of fish.
+Rarity: Common
+Crafting: Workbench 0, 20.0s, 1.0 can.tuna.empty, 20.0 wood, 10.0 lowgradefuel
+Recycler Output: 10 wood, 5 lowgradefuel
+
+----------------------------------------
+
+## Twitch Rivals 2025 Sofa (twitchrivals2025sofa)
+
+Description: A comfortable twitch branded sofa. A decorative item which provides comfort and seats two.
+Rarity: None
+Stack Size: 2
+Crafting: Workbench 0, 30.0s, 100.0 wood, 30.0 cloth
+Recycler Output: 50 wood, 15 cloth
+
+----------------------------------------
+
+## Twitch Rivals Trophy (trophy)
+
+Description: A trophy dedicated to the survivors of Rust Twitch Rivals
+Rarity: None
+Crafting: Workbench 0, 10.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Twitch Rivals Trophy 2023 (trophy2023)
+
+Description: A trophy dedicated to the survivors of Rust Twitch Rivals 2023
+Rarity: None
+Crafting: Workbench 0, 10.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Two Sided Hanging Sign (sign.hanging)
+
+Description: A double sided hanging sign, to attach to buildings.
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 metal.fragments
+Recycler Output: 75 metal.fragments
+
+----------------------------------------
+
+## Two Sided Ornate Hanging Sign (sign.hanging.ornate)
+
+Description: A double sided hanging sign, to attach to buildings.
+Rarity: Rare
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Two Sided Town Sign Post (sign.post.town.roof)
+
+Description: A double sided town sign post, with roof, that you can plant into terrain.
+Rarity: Rare
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 100.0 wood, 50.0 metal.fragments
+Recycler Output: 50 wood, 25 metal.fragments
+
+----------------------------------------
+
+## Unused Storage Barrel Vertical (storage_barrel_a)
+
+Description: Keep your things in this wooden storage box. Stores up to 48 items.
+Rarity: None
+
+----------------------------------------
+
+## Vending Machine (vending.machine)
+
+Description: Trade your goods with other players safely by creating sell and buy orders.  
+
+If a raider gains access to the rear panel, they will have free reign over all of your goodies. Keep it safe.
+Rarity: Uncommon
+Crafting: Workbench 1, 30.0s, 20.0 metal.refined, 3.0 gears
+Recycler Output: 10 metal.refined, 1 gears
+
+----------------------------------------
+
+## Walkie Talkie (walkietalkie)
+
+Description: A walkie talkie set to an unknown channel
+Rarity: Uncommon
+
+----------------------------------------
+
+## Wall Cabinet (electric.wallcabinet)
+
+Description: A cabinet with a shelf for small items.
+Rarity: None
+Crafting: Workbench 1, 30.0s, 250.0 wood, 50.0 metal.fragments
+Recycler Output: 125 wood, 25 metal.fragments
+
+----------------------------------------
+
+## Wallpaper Ceiling (wallpaper.ceiling)
+
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Wallpaper Flooring (wallpaper.flooring)
+
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Wanted Poster (wantedposter)
+
+Description: A poster that can display a given player's face as wanted.
+Rarity: None
+Crafting: Workbench 0, 20.0s, 20.0 wood
+Recycler Output: 10 wood
+
+----------------------------------------
+
+## Wanted Poster 2 (wantedposter.wantedposter2)
+
+Description: A poster that can display a given player's face as wanted.
+Rarity: None
+
+----------------------------------------
+
+## Wanted Poster 3 (wantedposter.wantedposter3)
+
+Description: A poster that can display a given player's face as wanted.
+Rarity: None
+
+----------------------------------------
+
+## Wanted Poster 4 (wantedposter.wantedposter4)
+
+Description: A poster that can display a given player's face as wanted.
+Rarity: None
+
+----------------------------------------
+
+## Water Barrel (water.barrel)
+
+Description: A storage container for water. Can output 10ml of water a second via a hose.
+Rarity: Common
+Crafting: Workbench 0, 30.0s, 250.0 wood, 1.0 tarp
+Recycler Output: 125 wood
+
+----------------------------------------
+
+## Water Purifier (water.purifier)
+
+Description: A Water Purifier. Place overtop of a campfire. Will provide clean, drinkable water from salty, or stagnant water.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 1.0 propanetank, 15.0 metal.fragments, 10.0 cloth
+Recycler Output: 7 metal.fragments, 5 cloth
+
+----------------------------------------
+
+## Weapon Rack Stand (gunrack_stand)
+
+Description: Holds weaponry haphazardly, a charmingly chaotic addition to your virtual armory.
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 0, 30.0s, 200.0 wood, 75.0 metal.fragments
+Recycler Output: 100 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Wicker Barrel (wicker.barrel)
+
+Description: Keep your things in this wicker barrel. Stores up to 48 items. Cannot be locked.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 300.0 wood, 75.0 metal.fragments
+Recycler Output: 150 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Wide Weapon Rack (gunrack_wide.horizontal)
+
+Description: Artfully display your arsenal with a handcrafted wall-mounted weapon rack.
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 100.0 wood, 175.0 metal.fragments
+Recycler Output: 50 wood, 87 metal.fragments
+
+----------------------------------------
+
+## Wood Frame Large (woodframe.large)
+
+Description: A large wooden frame
+Rarity: Uncommon
+Stack Size: 5
+
+----------------------------------------
+
+## Wood Frame Medium (woodframe.medium)
+
+Description: A medium wooden frame
+Rarity: Uncommon
+Stack Size: 5
+
+----------------------------------------
+
+## Wood Frame Small (woodframe.small)
+
+Description: A small wooden frame
+Rarity: Uncommon
+Stack Size: 5
+
+----------------------------------------
+
+## Wood Frame Standing (woodframe.standing)
+
+Description: A standing wooden frame
+Rarity: Uncommon
+Stack Size: 5
+
+----------------------------------------
+
+## Wood Mirror Large (woodmirror.large)
+
+Description: A large wooden mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Wood Mirror Medium (woodmirror.medium)
+
+Description: A medium wood mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Wood Mirror Small (woodmirror.small)
+
+Description: A small wooden frame
+Rarity: Uncommon
+
+----------------------------------------
+
+## Wood Mirror Standing (woodmirror.standing)
+
+Description: A standing wooden frontier themed mirror
+Rarity: Uncommon
+
+----------------------------------------
+
+## Wood Storage Box (box.wooden)
+
+Description: Keep your things in this wooden storage box. Stores up to 18 items.
+Rarity: None
+Crafting: Workbench 0, 15.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Wooden Armor Insert (clothing.mod.armorinsert_wood)
+
+Description: Wood insert for crafted clothes and armor, provides some extra protection from bullets and melee.
+Rarity: Rare
+Crafting: Workbench 1, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Workbench Level 1 (workbench1)
+
+Description: This allows you to craft and unlock items requiring workbench level 1
+Rarity: Rare
+Crafting: Workbench 0, 30.0s, 500.0 wood, 100.0 metal.fragments
+Recycler Output: 250 wood, 50 metal.fragments
+
+----------------------------------------
+
+## Workbench Level 2 (workbench2)
+
+Description: This allows you to craft and unlock items requiring workbench level 2
+Rarity: Uncommon
+Crafting: Workbench 1, 45.0s, 500.0 metal.fragments, 20.0 metal.refined, 5.0 basicblueprintfragment
+Recycler Output: 250 metal.fragments, 10 metal.refined, 2 basicblueprintfragment
+
+----------------------------------------
+
+## Workbench Level 3 (workbench3)
+
+Description: This allows you to craft and unlock items requiring workbench level 3
+Rarity: Uncommon
+Crafting: Workbench 2, 60.0s, 1000.0 metal.fragments, 100.0 metal.refined, 5.0 advancedblueprintfragment
+Recycler Output: 500 metal.fragments, 50 metal.refined, 2 advancedblueprintfragment
+
+----------------------------------------
+
+## XL Picture Frame (sign.pictureframe.xl)
+
+Description: An extra large canvas for artists paintings.
+Rarity: Rare
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 150.0 wood, 15.0 cloth
+Recycler Output: 75 wood, 7 cloth
+
+----------------------------------------
+
+## XXL Picture Frame (sign.pictureframe.xxl)
+
+Description: A double extra large canvas for artists paintings.
+Rarity: Rare
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 175.0 wood, 30.0 cloth
+Recycler Output: 87 wood, 15 cloth
+
+----------------------------------------

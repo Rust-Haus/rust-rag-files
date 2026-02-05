@@ -1,0 +1,28 @@
+RUST BASE BUILDING GUIDE
+========================
+Your base is your home - protect it well.
+
+## STARTER BASES
+- 2x1: Cheapest option, single airlock
+- 2x2: Better storage, basic security
+- Triangle foundations save resources
+
+## KEY CONCEPTS
+- Airlock: Double doors prevent door camping
+- Honeycomb: Extra layers of walls
+- Tool Cupboard (TC): Place deep in base
+- Multiple TCs for larger bases
+
+## UPGRADE PRIORITY
+1. Doors: Sheet metal doors ASAP
+2. Core: Stone minimum, metal preferred
+3. Walls facing outward: Soft side faces in
+
+## BUILDING TIPS
+- Always upgrade from twig immediately
+- Doors open inward to prevent camping
+- Windows are weak - use embrasures
+- Garage doors are very strong
+- Use code locks, not key locks
+
+For more details: https://www.corrosionhour.com/rust-base-building/

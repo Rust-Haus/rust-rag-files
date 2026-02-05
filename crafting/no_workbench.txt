@@ -1,0 +1,323 @@
+ITEMS CRAFTABLE WITHOUT A WORKBENCH
+These items can be crafted by hand without any workbench.
+
+Total recipes: 283
+
+## Ammunition (5 items)
+
+- Bone Arrow: 3.0s, 25.0 wood, 10.0 bone.fragments
+- Handmade Shell: 3.0s, 5.0 stones, 5.0 gunpowder
+- Nailgun Nails: 2.0s, 8.0 metal.fragments
+- Paintball: 3.0s, 10.0 cloth, 2.0 yellow.berry
+- Wooden Arrow: 3.0s, 25.0 wood, 10.0 stones
+
+## Attire (54 items)
+
+- Bandana Mask: 30.0s, 5.0 cloth
+- Baseball Cap: 30.0s, 5.0 cloth
+- Beenie Hat: 30.0s, 15.0 cloth
+- Bone Armor: 30.0s, 15.0 cloth, 70.0 bone.fragments
+- Bone Helmet: 30.0s, 15.0 cloth, 30.0 bone.fragments
+- Boonie Hat: 30.0s, 10.0 cloth
+- Bunny Hat: 5.0s, 10.0 cloth
+- Burlap Gloves: 15.0s, 5.0 cloth
+- Burlap Headwrap: 15.0s, 10.0 cloth
+- Burlap Shirt: 15.0s, 20.0 cloth
+- Burlap Shoes: 15.0s, 10.0 cloth
+- Burlap Trousers: 15.0s, 20.0 cloth
+- Candle Hat: 30.0s, 15.0 cloth, 5.0 lowgradefuel
+- Chicken Costume: 15.0s, 25.0 cloth, 200.0 wood
+- Clatter Helmet: 30.0s, 35.0 metal.fragments
+- Dracula Mask: 30.0s, 10.0 cloth
+- Dragon Mask: 5.0s, 10.0 cloth, 1.0 skull.wolf
+- Egg Suit: 15.0s, 60.0 cloth, 2.0 sewingkit
+- Frog Boots: 1.0s, 1.0 tarp
+- Headset: 30.0s, 10.0 cloth
+- Hide Boots: 30.0s, 10.0 leather
+- Hide Halterneck: 30.0s, 10.0 leather
+- Hide Pants: 30.0s, 10.0 leather
+- Hide Poncho: 30.0s, 15.0 leather
+- Hide Skirt: 30.0s, 10.0 leather
+- Hide Vest: 30.0s, 10.0 leather
+- Horse Costume: 15.0s, 25.0 cloth, 200.0 wood
+- Horse Mask: 5.0s, 10.0 cloth, 1.0 skull.wolf
+- Improvised Balaclava: 30.0s, 15.0 cloth
+- Leather Gloves: 30.0s, 20.0 leather
+- Movember Moustache: 1.0s, 10.0 cloth
+- Nest Hat: 30.0s, 10.0 cloth, 1.0 skull.wolf
+- Ninja Suit: 1.0s, 60.0 cloth, 2.0 sewingkit
+- Ox Mask: 5.0s, 10.0 cloth, 1.0 skull.wolf
+- Paintball Overalls: 15.0s, 60.0 cloth, 2.0 sewingkit
+- Purple Sunglasses: 15.0s, 30.0 metal.fragments
+- Rabbit Mask: 5.0s, 10.0 cloth, 1.0 skull.wolf
+- Rat Mask: 5.0s, 10.0 cloth, 1.0 skull.wolf
+- Santa Beard: 1.0s, 10.0 cloth
+- Shorts: 30.0s, 30.0 cloth
+- Silly Horse Mask: 30.0s, 10.0 cloth
+- Snake mask: 5.0s, 10.0 cloth, 1.0 skull.wolf
+- Snowman Helmet: 30.0s, 10.0 cloth
+- Sunglasses: 15.0s, 30.0 metal.fragments
+- Surgeon Scrubs: 1.0s, 60.0 cloth, 2.0 sewingkit
+- Tank Top: 15.0s, 20.0 cloth
+- Tiger Mask: 5.0s, 10.0 cloth, 1.0 skull.wolf
+- Wellipets Hat: 5.0s, 10.0 cloth
+- Wolf Headdress: 30.0s, 10.0 cloth, 1.0 skull.wolf
+- Wood Armor Gloves: 30.0s, 100.0 wood, 15.0 cloth
+- Wood Armor Helmet: 20.0s, 15.0 cloth, 150.0 wood
+- Wood Armor Pants: 20.0s, 15.0 cloth, 150.0 wood
+- Wood Chestplate: 30.0s, 20.0 cloth, 250.0 wood
+- Wooden Shield: 15.0s, 250.0 wood, 20.0 cloth
+
+## Construction (18 items)
+
+- Building Plan: 15.0s, 20.0 wood
+- Code Lock: 30.0s, 100.0 metal.fragments
+- Key Lock: 15.0s, 75.0 wood
+- Legacy Wood Shelter: 30.0s, 600.0 wood
+- Netting: 30.0s, 1.0 rope
+- Sheet Metal Door: 30.0s, 150.0 metal.fragments
+- Sheet Metal Double Door: 30.0s, 200.0 metal.fragments
+- Shop Front: 30.0s, 150.0 wood
+- Stone Barricade: 30.0s, 100.0 stones
+- Tool Cupboard: 30.0s, 1000.0 wood
+- Wall Divider Pack: 15.0s, 100.0 wood
+- Wood Double Door: 30.0s, 350.0 wood
+- Wood Shutters: 15.0s, 200.0 wood
+- Wooden Barricade: 30.0s, 300.0 wood, 1.0 rope
+- Wooden Barricade Cover: 25.0s, 250.0 wood
+- Wooden Door: 30.0s, 300.0 wood
+- Wooden Frontier Bar Doors: 30.0s, 200.0 wood
+- Wooden Window Bars: 15.0s, 50.0 wood
+
+## Electrical (4 items)
+
+- Bulb String Lights: 10.0s, 50.0 metal.fragments
+- Deluxe Christmas Lights: 10.0s, 50.0 metal.fragments
+- Igniter: 30.0s, 75.0 metal.fragments
+- Twitch Rivals Neon Sign: 20.0s, 1.0 can.tuna.empty, 20.0 wood, 10.0 lowgradefuel
+
+## Fun (33 items)
+
+- Acoustic Guitar: 20.0s, 100.0 wood, 10.0 cloth
+- Beach Parasol: 30.0s, 20.0 cloth, 75.0 metal.fragments
+- Beach Table: 30.0s, 100.0 wood
+- Beach Towel: 30.0s, 30.0 cloth
+- Blue Boomer: 10.0s, 25.0 metal.fragments, 30.0 gunpowder, 15.0 lowgradefuel
+- Blue Roman Candle: 60.0s, 25.0 metal.fragments, 10.0 lowgradefuel
+- Canbourine: 20.0s, 25.0 metal.fragments
+- Cassette - Long: 5.0s, 100.0 metal.fragments
+- Cassette - Medium: 5.0s, 75.0 metal.fragments
+- Cassette - Short: 5.0s, 50.0 metal.fragments
+- Champagne Boomer: 10.0s, 30.0 metal.fragments, 75.0 gunpowder, 30.0 lowgradefuel
+- Cowbell: 20.0s, 35.0 metal.fragments
+- Green Boomer: 10.0s, 25.0 metal.fragments, 30.0 gunpowder, 15.0 lowgradefuel
+- Green Roman Candle: 60.0s, 25.0 metal.fragments, 10.0 lowgradefuel
+- Jerry Can Guitar: 20.0s, 25.0 wood, 50.0 metal.fragments
+- New Year Gong: 15.0s, 100.0 wood, 50.0 metal.fragments
+- Orange Boomer: 10.0s, 25.0 metal.fragments, 30.0 gunpowder, 15.0 lowgradefuel
+- Paddling Pool: 30.0s, 100.0 cloth, 1.0 tarp
+- Pan Flute: 20.0s, 20.0 metal.fragments, 5.0 cloth
+- Pattern Boomer: 10.0s, 50.0 metal.fragments, 30.0 gunpowder, 15.0 lowgradefuel
+- Plumber's Trumpet: 20.0s, 75.0 metal.fragments
+- Red Boomer: 10.0s, 25.0 metal.fragments, 30.0 gunpowder, 15.0 lowgradefuel
+- Red Roman Candle: 60.0s, 25.0 metal.fragments, 10.0 lowgradefuel
+- Red Volcano Firework: 10.0s, 20.0 metal.fragments, 15.0 gunpowder
+- Shovel Bass: 20.0s, 50.0 wood, 75.0 metal.fragments
+- Skull Spikes: 15.0s, 150.0 wood, 1.0 skull.human
+- Skull Trophy: 15.0s, 100.0 wood, 25.0 metal.fragments
+- Sky Lantern: 2.0s, 10.0 cloth, 5.0 lowgradefuel
+- Sousaphone: 20.0s, 100.0 metal.fragments
+- Violet Boomer: 10.0s, 25.0 metal.fragments, 30.0 gunpowder, 15.0 lowgradefuel
+- Violet Roman Candle: 60.0s, 25.0 metal.fragments, 10.0 lowgradefuel
+- Violet Volcano Firework: 10.0s, 20.0 metal.fragments, 15.0 gunpowder
+- White Volcano Firework: 10.0s, 20.0 metal.fragments, 15.0 gunpowder
+
+## Items (123 items)
+
+- Abyss Horizontal Storage Tank: 30.0s, 300.0 wood, 75.0 metal.fragments
+- Abyss Vertical Storage Tank: 30.0s, 300.0 wood, 75.0 metal.fragments
+- Artist Canvas Large: 30.0s, 175.0 wood, 30.0 cloth
+- Artist Canvas Small: 30.0s, 175.0 wood, 30.0 cloth
+- Artist Canvas Standing: 30.0s, 175.0 wood, 30.0 cloth
+- Artist Canvas XL: 30.0s, 175.0 wood, 30.0 cloth
+- Artist Canvas XXL: 30.0s, 175.0 wood, 30.0 cloth
+- Bamboo Barrel: 30.0s, 300.0 wood, 75.0 metal.fragments
+- Barbeque: 30.0s, 40.0 metal.fragments, 100.0 wood
+- Bath Tub Planter: 30.0s, 100.0 metal.fragments
+- Bear Skin Rug: 30.0s, 20.0 leather
+- Bota Bag: 15.0s, 10.0 cloth
+- Camp Fire: 30.0s, 100.0 wood
+- Cancer Research UK Plushie: 1.0s, 50.0 cloth
+- Carvable Pumpkin: 1.0s, 1.0 pumpkin
+- Chinese Lantern: 30.0s, 25.0 cloth, 5.0 lowgradefuel
+- Chinese Lantern White: 30.0s, 25.0 cloth, 5.0 lowgradefuel
+- Christmas Door Wreath: 30.0s, 20.0 cloth
+- Christmas Lights: 30.0s, 25.0 metal.fragments, 20.0 lowgradefuel
+- Circle Balloon: 10.0s, 15.0 cloth
+- Clothing Mannequin: 30.0s, 100.0 wood, 50.0 metal.fragments
+- Clump of Latex Balloons: 10.0s, 15.0 cloth
+- Composter: 30.0s, 2.0 tarp, 200.0 wood
+- Discord Trophy: 1.0s, 50.0 metal.fragments
+- Double Sign Post: 30.0s, 75.0 wood
+- Dragon Door Knocker: 30.0s, 20.0 metal.fragments
+- Easter Door Wreath: 30.0s, 20.0 cloth
+- Festive Doorway Garland: 30.0s, 25.0 cloth
+- Festive Double Doorway Garland: 30.0s, 25.0 cloth
+- Festive Window Garland: 30.0s, 25.0 cloth
+- Fish Trophy: 20.0s, 75.0 wood
+- Furnace: 30.0s, 200.0 stones, 100.0 wood, 50.0 lowgradefuel
+- Half Height Bamboo Shelves: 10.0s, 40.0 metal.fragments
+- Hazmat Plushy: 1.0s, 50.0 cloth
+- Hazmat Youtooz: 10.0s, 50.0 metal.fragments
+- Heart Balloon: 10.0s, 15.0 cloth
+- Heavy Scientist Plushie: 1.0s, 50.0 cloth
+- Heavy Scientist Youtooz: 10.0s, 50.0 metal.fragments
+- Hitch & Trough: 30.0s, 200.0 wood
+- Hobo Barrel: 30.0s, 100.0 wood
+- Huge Wooden Sign: 30.0s, 250.0 wood
+- Jack O Lantern Angry: 20.0s, 2.0 pumpkin
+- Jack O Lantern Happy: 20.0s, 2.0 pumpkin
+- Krieg Storage Barrel: 30.0s, 300.0 wood, 75.0 metal.fragments
+- Krieg Storage Crates: 30.0s, 300.0 wood, 75.0 metal.fragments
+- Landscape Photo Frame: 30.0s, 100.0 wood
+- Landscape Picture Frame: 30.0s, 100.0 wood, 10.0 cloth
+- Lantern: 20.0s, 25.0 metal.fragments, 15.0 lowgradefuel
+- Large Banner Hanging: 30.0s, 20.0 cloth, 100.0 metal.fragments
+- Large Banner on pole: 30.0s, 100.0 wood, 50.0 metal.fragments, 20.0 cloth
+- Large Hunting Trophy: 20.0s, 150.0 wood
+- Large Photo Frame: 30.0s, 100.0 wood
+- Large Planter Box: 30.0s, 200.0 wood, 2.0 tarp
+- Large Wood Box: 30.0s, 250.0 wood, 50.0 metal.fragments
+- Large Wooden Sign: 30.0s, 150.0 wood
+- Latex Balloon: 10.0s, 15.0 cloth
+- Light-Up Frame Large: 30.0s, 150.0 wood
+- Light-Up Frame Small: 30.0s, 150.0 wood
+- Light-Up Frame Standing: 30.0s, 150.0 wood
+- Light-Up Frame XL: 30.0s, 150.0 wood
+- Light-Up Frame XXL: 30.0s, 150.0 wood
+- Mail Box: 30.0s, 100.0 wood, 25.0 metal.fragments
+- Medium Wooden Sign: 30.0s, 100.0 wood
+- Minecart Planter: 30.0s, 100.0 metal.fragments
+- One Sided Town Sign Post: 30.0s, 100.0 wood
+- Ornate Frame Small: 30.0s, 150.0 wood
+- Ornate Frame Standing: 30.0s, 150.0 wood
+- Ornate Frame XL: 30.0s, 150.0 wood
+- Ornate Frame XXL: 30.0s, 150.0 wood
+- Ornate Frame large: 30.0s, 150.0 wood
+- Portable Easel: 10.0s, 100.0 wood
+- Portrait Photo Frame: 30.0s, 100.0 wood
+- Portrait Picture Frame: 30.0s, 100.0 wood, 10.0 cloth
+- Ronald McDonald House UK Plushie: 1.0s, 50.0 cloth
+- Rug: 30.0s, 25.0 cloth
+- Salvaged Shelves: 10.0s, 50.0 metal.fragments
+- Scarecrow: 30.0s, 200.0 wood, 10.0 cloth
+- Scientist Plushie: 1.0s, 50.0 cloth
+- Shutter Frame Small: 30.0s, 150.0 wood
+- Shutter Frame Standing: 30.0s, 150.0 wood
+- Shutter Frame XL: 30.0s, 150.0 wood
+- Shutter Frame XXL: 30.0s, 150.0 wood
+- Shutter Frame large: 30.0s, 150.0 wood
+- Single Plant Pot: 30.0s, 200.0 wood
+- Single Shallow Wall Shelves: 10.0s, 100.0 wood
+- Single Sign Post: 30.0s, 75.0 wood
+- Skull Door Knocker: 30.0s, 20.0 metal.fragments
+- Skull Fire Pit: 30.0s, 100.0 wood, 1.0 skull.human
+- Sleeping Bag: 30.0s, 30.0 cloth
+- Small Hunting Trophy: 20.0s, 100.0 wood
+- Small Planter Box: 30.0s, 100.0 wood, 1.0 tarp
+- Small Stash: 15.0s, 10.0 cloth
+- Small Wooden Sign: 30.0s, 75.0 wood
+- Snowman: 30.0s, 50.0 charcoal, 20.0 cloth, 20.0 metal.fragments
+- Sofa: 30.0s, 100.0 wood, 30.0 cloth
+- Sofa - Pattern: 30.0s, 100.0 wood, 30.0 cloth
+- Speech Bubble Balloon: 10.0s, 15.0 cloth
+- Spinning Wheel: 20.0s, 150.0 metal.fragments
+- Star Balloon: 10.0s, 15.0 cloth
+- Stone Fireplace: 30.0s, 500.0 stones, 200.0 wood
+- Storage Barrel Horizontal: 30.0s, 300.0 wood, 75.0 metal.fragments
+- Storage Barrel Vertical: 30.0s, 300.0 wood, 75.0 metal.fragments
+- Survival Fish Trap: 30.0s, 200.0 wood, 5.0 cloth
+- Table: 30.0s, 100.0 wood
+- Tall Picture Frame: 30.0s, 150.0 wood, 10.0 cloth
+- Torch Holder: 20.0s, 40.0 wood, 10.0 metal.fragments
+- Triangle Planter Box: 30.0s, 150.0 wood, 1.0 tarp
+- Tuna Can Lamp: 20.0s, 1.0 can.tuna.empty, 20.0 wood, 10.0 lowgradefuel
+- Twitch Rivals 2025 Sofa: 30.0s, 100.0 wood, 30.0 cloth
+- Twitch Rivals Trophy: 10.0s, 50.0 metal.fragments
+- Twitch Rivals Trophy 2023: 10.0s, 50.0 metal.fragments
+- Two Sided Hanging Sign: 30.0s, 150.0 metal.fragments
+- Two Sided Ornate Hanging Sign: 30.0s, 100.0 metal.fragments
+- Two Sided Town Sign Post: 30.0s, 100.0 wood, 50.0 metal.fragments
+- Wanted Poster: 20.0s, 20.0 wood
+- Water Barrel: 30.0s, 250.0 wood, 1.0 tarp
+- Water Purifier: 30.0s, 1.0 propanetank, 15.0 metal.fragments, 10.0 cloth
+- Weapon Rack Stand: 30.0s, 200.0 wood, 75.0 metal.fragments
+- Wicker Barrel: 30.0s, 300.0 wood, 75.0 metal.fragments
+- Wood Storage Box: 15.0s, 100.0 wood
+- Workbench Level 1: 30.0s, 500.0 wood, 100.0 metal.fragments
+- XL Picture Frame: 30.0s, 150.0 wood, 15.0 cloth
+- XXL Picture Frame: 30.0s, 175.0 wood, 30.0 cloth
+
+## Medical (1 items)
+
+- Bandage: 5.0s, 4.0 cloth
+
+## Misc (17 items)
+
+- Cursed Cauldron: 25.0s, 100.0 wood
+- Fogger-3000: 15.0s, 100.0 metal.fragments, 30.0 lowgradefuel, 1.0 metalpipe
+- Giant Candy Decor: 30.0s, 30.0 cloth
+- Giant Lollipop Decor: 30.0s, 20.0 cloth
+- Graveyard Fence: 30.0s, 250.0 stones, 75.0 metal.fragments
+- Large Candle Set: 15.0s, 20.0 fat.animal, 10.0 cloth
+- Note: 5.0s, 10.0 wood
+- Rustigé Egg - Blue: 30.0s, 2.0 metal.refined
+- Rustigé Egg - Cerulean: 30.0s, 2.0 metal.refined
+- Rustigé Egg - Green: 30.0s, 2.0 metal.refined
+- Rustigé Egg - Ivory: 30.0s, 2.0 metal.refined
+- Rustigé Egg - Purple: 30.0s, 2.0 metal.refined
+- Rustigé Egg - Red: 30.0s, 2.0 metal.refined
+- Rustigé Egg - White: 30.0s, 2.0 metal.refined
+- Small Candle Set: 15.0s, 10.0 fat.animal, 5.0 cloth
+- Spooky Speaker: 30.0s, 400.0 wood, 100.0 metal.fragments, 20.0 cloth
+- Strobe Light: 15.0s, 100.0 metal.fragments, 2.0 metal.refined
+
+## Resources (1 items)
+
+- Low Grade Fuel: 5.0s, 3.0 fat.animal, 1.0 cloth
+
+## Tool (13 items)
+
+- Binoculars: 30.0s, 40.0 metal.fragments, 1.0 gears
+- Compass: 30.0s, 75.0 metal.fragments
+- Garry's Mod Tool Gun: 15.0s, 100.0 wood, 20.0 metal.fragments
+- Hammer: 15.0s, 100.0 wood
+- Handmade Fishing Rod: 10.0s, 2.0 rope, 200.0 wood
+- Instant Camera: 30.0s, 1.0 gears, 75.0 metal.fragments
+- Rock: 5.0s, 10.0 stones
+- Spray Can: 15.0s, 100.0 metal.fragments
+- Stone Hatchet: 15.0s, 200.0 wood, 100.0 stones
+- Stone Pickaxe: 15.0s, 200.0 wood, 100.0 stones
+- Torch: 30.0s, 30.0 wood, 1.0 cloth, 1.0 lowgradefuel
+- Wallpaper Tool: 5.0s, 10.0 cloth
+- Water Bucket: 30.0s, 20.0 metal.fragments
+
+## Traps (2 items)
+
+- Small Spike Trap: 15.0s, 80.0 wood
+- Wooden Floor Spikes: 30.0s, 150.0 wood
+
+## Weapon (12 items)
+
+- Bone Club: 10.0s, 20.0 bone.fragments
+- Bone Knife: 30.0s, 30.0 bone.fragments
+- Boomerang: 10.0s, 300.0 wood
+- Eoka Pistol: 30.0s, 75.0 wood, 30.0 metal.fragments
+- Hunting Bow: 30.0s, 200.0 wood, 50.0 cloth
+- Machete: 30.0s, 100.0 wood, 40.0 metal.fragments
+- Paddle: 30.0s, 15.0 metal.fragments, 1.0 metalblade, 200.0 wood
+- Paintball Gun: 30.0s, 50.0 metal.fragments, 1.0 metalpipe
+- Stone Spear: 10.0s, 1.0 spear.wooden, 20.0 stones
+- Water Gun: 30.0s, 125.0 metal.fragments
+- Water Pistol: 30.0s, 75.0 metal.fragments
+- Wooden Spear: 30.0s, 300.0 wood

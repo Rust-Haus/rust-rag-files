@@ -1,0 +1,937 @@
+RUST ITEMS: WEAPON
+Total items in this category: 103
+
+============================================================
+
+## #50cal (50cal.mounted.left)
+
+Description: #50cal.desc
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=14.80, AimCone=0.20, HipAimCone=4, AimSway=2
+
+----------------------------------------
+
+## #50cal (50cal.mounted)
+
+Description: #50cal.desc
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=7.50, AimCone=0.20, HipAimCone=4, AimSway=2
+
+----------------------------------------
+
+## #50cal (50cal.mounted.right)
+
+Description: #50cal.desc
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=15.50, AimCone=0.20, HipAimCone=4, AimSway=2
+
+----------------------------------------
+
+## 8x Zoom Scope (weapon.mod.small.scope)
+
+Description: A small 8x zoom scope.
+Rarity: Rare
+Crafting: Workbench 3, 30.0s, 50.0 metal.refined
+Recycler Output: 25 metal.refined
+
+----------------------------------------
+
+## Abyss Assault Rifle (rifle.ak.diver)
+
+Description: A waterlogged assault rifle from the abyss
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=4.40, AimCone=0.20, HipAimCone=2.50, AimSway=2
+
+----------------------------------------
+
+## Assault Rifle (rifle.ak)
+
+Description: High damage machine rifle.
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=4.40, AimCone=0.20, HipAimCone=2.50, AimSway=2
+Crafting: Workbench 3, 45.0s, 50.0 metal.refined, 200.0 wood, 1.0 riflebody, 4.0 metalspring
+Recycler Output: 25 metal.refined, 100 wood, 2 metalspring
+
+----------------------------------------
+
+## Ballista (ballista.static)
+
+Description: A stationary ballista, perfect for defence. Can fire deadly bolts at distant targets.
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 250.0 metal.fragments, 1.0 gears, 2.0 sheetmetal
+Recycler Output: 125 metal.fragments, 1 sheetmetal
+
+----------------------------------------
+
+## Baseball Bat (mace.baseballbat)
+
+Description: A baseball bat wrapped in barbed wire
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=30, DamageBreakdown={'Blunt': 30.0}
+
+----------------------------------------
+
+## Battering Ram (batteringram)
+
+Description: A reinforced siege weapon built for smashing through wooden and stone constructions with brute force. Must be repaired with high quality metal to keep functioning.
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 500.0 wood, 2.0 sheetmetal, 1.0 tarp, 100.0 metal.refined
+Recycler Output: 250 wood, 1 sheetmetal, 50 metal.refined
+
+----------------------------------------
+
+## Battering Ram Head (batteringram.head.repair)
+
+Rarity: None
+
+----------------------------------------
+
+## Beancan Grenade (grenade.beancan)
+
+Description: An unreliable explosive grenade. Each one has a different length fuse, so you might lose some fingers. Can be used to make satchel charges.
+Rarity: Uncommon
+Stack Size: 5
+Explosive Stats: FuseLength=3.50, FuseLengthMax=4, ExplosionRadius=4.50, TotalDamage=115, DamageBreakdown={'Explosion': 15.0, 'Blunt': 50.0, 'Stab': 50.0}
+Crafting: Workbench 1, 10.0s, 60.0 gunpowder, 20.0 metal.fragments
+Recycler Output: 30 gunpowder, 10 metal.fragments
+
+----------------------------------------
+
+## Bee Grenade (grenade.bee)
+
+Description: A fragile glass jar full of bees. Breaking upon impact, the bees will find the nearest player to attack. Careful where you throw it!
+Rarity: Common
+Stack Size: 5
+Explosive Stats: FuseLength=10, FuseLengthMax=10, ExplosionRadius=4, TotalDamage=20, DamageBreakdown={'Blunt': 10.0, 'Slash': 10.0}
+Crafting: Workbench 1, 10.0s, 1.0 nucleus, 30.0 cloth
+Recycler Output: 15 cloth
+
+----------------------------------------
+
+## Blow Pipe (blowpipe)
+
+Description: A blown weapon that fires darts with different effects.
+Rarity: Uncommon
+Weapon Stats: AmmoType=dart.wood, MagazineSize=0, ReloadTime=3, AimCone=0, HipAimCone=1, AimSway=3
+Crafting: Workbench 1, 30.0s, 200.0 wood, 1.0 metalpipe, 25.0 cloth
+Recycler Output: 100 wood, 12 cloth
+
+----------------------------------------
+
+## Blunderbuss (blunderbuss)
+
+Description: A Shotgun with two barrels allowing two shots to be fired in quick succession before needing to reload.
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.handmade.shell, MagazineSize=0, ReloadTime=5.50, AimCone=0.50, HipAimCone=2, AimSway=5
+
+----------------------------------------
+
+## Bolt Action Rifle (rifle.bolt)
+
+Description: A High powered, highly accurate, long range rifle.
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=5, AimCone=0, HipAimCone=1.80, AimSway=3
+Crafting: Workbench 3, 45.0s, 20.0 metal.refined, 1.0 riflebody, 3.0 metalpipe, 1.0 metalspring
+Recycler Output: 10 metal.refined, 1 metalpipe
+
+----------------------------------------
+
+## Bone Club (bone.club)
+
+Description: A blunt weapon made from a femur. All around basic gathering tool.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=12, DamageBreakdown={'Blunt': 12.0}
+Crafting: Workbench 0, 10.0s, 20.0 bone.fragments
+Recycler Output: 10 bone.fragments
+
+----------------------------------------
+
+## Bone Knife (knife.bone)
+
+Description: Melee weapon crafted from bone fragments. Good for harvesting carcases.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=10, DamageBreakdown={'Slash': 10.0}
+Crafting: Workbench 0, 30.0s, 30.0 bone.fragments
+Recycler Output: 15 bone.fragments
+
+----------------------------------------
+
+## Boomerang (boomerang)
+
+Description: Can be used a melee weapon or as a throwable. Once thrown (with right click) it travels in an arc before coming back to you.
+Rarity: Common
+Crafting: Workbench 0, 10.0s, 300.0 wood
+Recycler Output: 150 wood
+
+----------------------------------------
+
+## Butcher Knife (knife.butcher)
+
+Description: A sharp butcher knife. Extremely good at harvesting flesh from both dead or alive bodies.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=10, DamageBreakdown={'Slash': 10.0}
+
+----------------------------------------
+
+## Candy Cane Club (candycaneclub)
+
+Description: Smash some faces with this large piece of candy
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=12, DamageBreakdown={'Blunt': 12.0}
+
+----------------------------------------
+
+## Catapult (catapult)
+
+Description: An improvised catapult siege weapon. Built for flinging destructive projectiles with questionable accuracy. Can be towed by horses.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 500.0 wood, 20.0 metal.refined, 1.0 rope, 1.0 gears
+Recycler Output: 250 wood, 10 metal.refined
+
+----------------------------------------
+
+## Combat Knife (knife.combat)
+
+Description: Combat knife designed for close combat engagements, can attack while sprinting. Best in class at harvesting flesh.
+Rarity: Uncommon
+Ammo Stats: projectileSpread=1, projectileVelocity=30, TotalDamage=50, DamageBreakdown={'Slash': 50.0}
+Crafting: Workbench 1, 15.0s, 25.0 metal.fragments, 1.0 metal.refined
+Recycler Output: 12 metal.fragments
+
+----------------------------------------
+
+## Compound Bow (bow.compound)
+
+Description: A very powerful bow. Can only be fully drawn while stationary. Keep still for bonus damage and speed.
+Rarity: Uncommon
+Weapon Stats: AmmoType=arrow.wooden, MagazineSize=0, ReloadTime=1, AimCone=0.20, HipAimCone=0.20, AimSway=5
+Crafting: Workbench 1, 30.0s, 100.0 wood, 75.0 metal.fragments, 2.0 rope
+Recycler Output: 50 wood, 37 metal.fragments, 1 rope
+
+----------------------------------------
+
+## Crossbow (crossbow)
+
+Description: A very accurate ranged weapon.
+Rarity: Uncommon
+Weapon Stats: AmmoType=arrow.wooden, MagazineSize=0, ReloadTime=3.60, AimCone=1, HipAimCone=1.80, AimSway=3
+Crafting: Workbench 1, 30.0s, 200.0 wood, 75.0 metal.fragments, 2.0 rope
+Recycler Output: 100 wood, 37 metal.fragments, 1 rope
+
+----------------------------------------
+
+## Custom SMG (smg.2)
+
+Description: A rapid-firing Machine Gun. Sacrifices accuracy and distance for speed.
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.pistol, MagazineSize=0, ReloadTime=4, AimCone=0.50, HipAimCone=1.80, AimSway=3
+Crafting: Workbench 2, 30.0s, 8.0 metal.refined, 1.0 smgbody, 1.0 metalspring
+Recycler Output: 4 metal.refined
+
+----------------------------------------
+
+## Double Barrel Shotgun (shotgun.double)
+
+Description: A Shotgun with two barrels allowing two shots to be fired in quick succession before needing to reload.
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.handmade.shell, MagazineSize=0, ReloadTime=5.50, AimCone=0.50, HipAimCone=2, AimSway=5
+Crafting: Workbench 1, 40.0s, 175.0 metal.fragments, 2.0 metalpipe
+Recycler Output: 87 metal.fragments, 1 metalpipe
+
+----------------------------------------
+
+## Dragon Rocket Launcher (rocket.launcher.dragon)
+
+Description: Unmatched craftsmanship meets devastating firepower.
+Rarity: None
+Weapon Stats: AmmoType=ammo.rocket.basic, MagazineSize=0, ReloadTime=6.16, AimCone=2.25, HipAimCone=1.80, AimSway=2
+
+----------------------------------------
+
+## Eoka Pistol (pistol.eoka)
+
+Description: A very cheap, very ineffective, and very unreliable pistol that fires shells.
+Rarity: Common
+Weapon Stats: AmmoType=ammo.handmade.shell, MagazineSize=0, ReloadTime=2, AimCone=3, HipAimCone=2, AimSway=3
+Crafting: Workbench 0, 30.0s, 75.0 wood, 30.0 metal.fragments
+Recycler Output: 37 wood, 15 metal.fragments
+
+----------------------------------------
+
+## Extended Magazine (weapon.mod.extendedmags)
+
+Description: Larger magazine size
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 10.0 metal.refined
+Recycler Output: 5 metal.refined
+
+----------------------------------------
+
+## F1 Grenade (grenade.f1)
+
+Description: A reliable military grenade that can be thrown a short distance. Deadly at close range on detonation.
+Rarity: Uncommon
+Stack Size: 5
+Explosive Stats: FuseLength=2.50, FuseLengthMax=2.50, ExplosionRadius=6, TotalDamage=225, DamageBreakdown={'Blunt': 100.0, 'AntiVehicle': 50.0, 'Bullet': 75.0}
+Crafting: Workbench 2, 10.0s, 30.0 gunpowder, 25.0 metal.fragments
+Recycler Output: 15 gunpowder, 12 metal.fragments
+
+----------------------------------------
+
+## Flame Thrower (flamethrower)
+
+Description: A Flamethrower. Uses low grade fuel as ammunition.
+Rarity: Rare
+Crafting: Workbench 2, 40.0s, 15.0 metal.refined, 6.0 metalpipe, 100.0 lowgradefuel, 2.0 propanetank
+Recycler Output: 7 metal.refined, 3 metalpipe, 50 lowgradefuel, 1 propanetank
+
+----------------------------------------
+
+## Flashbang (grenade.flashbang)
+
+Description: A bright explosive device which blinds and disorients anyone near it upon detonation
+Rarity: Uncommon
+Stack Size: 5
+Explosive Stats: FuseLength=1.25, FuseLengthMax=1.25, ExplosionRadius=6, TotalDamage=20, DamageBreakdown={'Blunt': 20.0}
+Crafting: Workbench 2, 10.0s, 25.0 gunpowder, 50.0 metal.fragments
+Recycler Output: 12 gunpowder, 25 metal.fragments
+
+----------------------------------------
+
+## Gas Compression Overdrive (weapon.mod.gascompressionovedrive)
+
+Description: An internal weapon mod which compresses and directs gasses used for cycling the weapon to the barrel, effectively increasing projectile velocity and damage at the expense of cycle rate.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 10.0 metal.refined
+Recycler Output: 5 metal.refined
+
+----------------------------------------
+
+## Handmade SMG (t1_smg)
+
+Description: An extremely basic automatic firearm. Low damage and accuracy.
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.pistol, MagazineSize=0, ReloadTime=4, AimCone=0.50, HipAimCone=3, AimSway=3
+Crafting: Workbench 1, 30.0s, 5.0 metal.refined, 200.0 metal.fragments, 1.0 metalspring
+Recycler Output: 2 metal.refined, 100 metal.fragments
+
+----------------------------------------
+
+## High Caliber Revolver (revolver.hc)
+
+Description: High Caliber Revolver
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=3.50, AimCone=0.50, HipAimCone=1.80, AimSway=1
+Crafting: Workbench 2, 30.0s, 4.0 metalpipe, 1.0 metalspring, 1.0 gears, 6.0 metal.refined
+Recycler Output: 2 metalpipe, 3 metal.refined
+
+----------------------------------------
+
+## HMLMG (hmlmg)
+
+Description: A hand made belt-fed light machine gun with high damage, high rate of fire, low accuracy during short bursts.
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=6.50, AimCone=0.20, HipAimCone=4, AimSway=2
+Crafting: Workbench 3, 30.0s, 60.0 metal.refined, 1.0 riflebody, 3.0 metalspring, 2.0 gears
+Recycler Output: 30 metal.refined, 1 metalspring, 1 gears
+
+----------------------------------------
+
+## Holosight (weapon.mod.holosight)
+
+Description: Uses laser projection to create a holographic sight which is always pointing at the target regardless of view angle.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 12.0 metal.refined, 1.0 techparts
+Recycler Output: 6 metal.refined
+
+----------------------------------------
+
+## Homing Missile Launcher (homingmissile.launcher)
+
+Description: An active-guidance homing missile launcher. Once launched, the target must be tracked by the launcher until impact. Can be distracted by flares.
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.rocket.seeker, MagazineSize=1, ReloadTime=5.92, AimCone=2.25, HipAimCone=1.80, AimSway=2
+Crafting: Workbench 2, 30.0s, 20.0 metal.refined, 3.0 metalpipe, 1.0 techparts, 1.0 cctv.camera
+Recycler Output: 10 metal.refined, 1 metalpipe
+
+----------------------------------------
+
+## Hunting Bow (bow.hunting)
+
+Description: Hunting Bow, useful for short to medium range combat and hunting.
+Rarity: None
+Weapon Stats: AmmoType=arrow.wooden, MagazineSize=0, ReloadTime=1, AimCone=1, HipAimCone=1, AimSway=5
+Crafting: Workbench 0, 30.0s, 200.0 wood, 50.0 cloth
+Recycler Output: 100 wood, 25 cloth
+
+----------------------------------------
+
+## Ice Assault Rifle (rifle.ak.ice)
+
+Description: Ice-covered high damage machine rifle.
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=4.40, AimCone=0.20, HipAimCone=2.50, AimSway=2
+
+----------------------------------------
+
+## Jungle Relic Assault Rifle (rifle.ak.jungle)
+
+Description: Jungle Relic themed high damage machine rifle.
+Rarity: None
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=4.40, AimCone=0.20, HipAimCone=2.50, AimSway=2
+
+----------------------------------------
+
+## Krieg Shotgun (krieg.shotgun)
+
+Description: Heavy, reliable, and unforgiving. A weapon that never hesitates.
+Rarity: None
+Weapon Stats: AmmoType=ammo.shotgun, MagazineSize=0, ReloadTime=5.50, AimCone=0, HipAimCone=1.80, AimSway=5
+
+----------------------------------------
+
+## L96 Rifle (rifle.l96)
+
+Description: A military grade high powered, long range rifle with great accuracy.
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=3, AimCone=0, HipAimCone=1.80, AimSway=2
+
+----------------------------------------
+
+## Legacy Bow (legacy bow)
+
+Description: Hunting Bow, useful for short to medium range combat and hunting.
+Rarity: None
+Weapon Stats: AmmoType=arrow.wooden, MagazineSize=0, ReloadTime=1, AimCone=1, HipAimCone=1, AimSway=5
+
+----------------------------------------
+
+## Longsword (longsword)
+
+Description: A powerful 2-handed melee weapon with good range and high damage.
+Rarity: Uncommon
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=30, DamageBreakdown={'Slash': 30.0}
+Crafting: Workbench 2, 30.0s, 2.0 metalblade, 100.0 metal.fragments
+Recycler Output: 1 metalblade, 50 metal.fragments
+
+----------------------------------------
+
+## LR-300 Assault Rifle (rifle.lr300)
+
+Description: Stalk your enemies with this high powered light assault rifle.
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=4, AimCone=0.20, HipAimCone=3, AimSway=1
+
+----------------------------------------
+
+## Lunar New Year Spear (spear.cny)
+
+Description: A Chinese themed New Year themed metal Spear
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=25, TotalDamage=40, DamageBreakdown={'Arrow': 40.0}
+
+----------------------------------------
+
+## M15 Semi-Automatic Pistol (pistol.semiauto.a.m15)
+
+Description: A special issue Air Force semi-automatic pistol, fires rapidly and with good accuracy.
+Rarity: None
+Weapon Stats: AmmoType=ammo.pistol, MagazineSize=0, ReloadTime=2.90, AimCone=0.75, HipAimCone=2, AimSway=2
+
+----------------------------------------
+
+## M249 (lmg.m249)
+
+Description: High damage, high rate of fire, belt fed light machine gun.
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=7.50, AimCone=0.20, HipAimCone=4, AimSway=2
+
+----------------------------------------
+
+## M39 Rifle (rifle.m39)
+
+Description: Military grade semi auto rifle
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=3.25, AimCone=0.10, HipAimCone=3, AimSway=1
+
+----------------------------------------
+
+## M4 Shotgun (shotgun.m4)
+
+Description: A semi automatic military issue shotgun
+Rarity: None
+Weapon Stats: AmmoType=ammo.shotgun, MagazineSize=0, ReloadTime=5.80, AimCone=0, HipAimCone=0.70, AimSway=3
+
+----------------------------------------
+
+## M92 Pistol (pistol.m92)
+
+Description: A semi-automatic Pistol. Fires rapidly and with good accuracy. Military Grade
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.pistol, MagazineSize=0, ReloadTime=2.39, AimCone=1, HipAimCone=1.80, AimSway=2
+
+----------------------------------------
+
+## Mace (mace)
+
+Description: A powerful 2-handed melee weapon, It's unique design makes it easier to hit your target when compared to other more traditional weapons.
+Rarity: Uncommon
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=30, DamageBreakdown={'Blunt': 30.0}
+Crafting: Workbench 1, 30.0s, 100.0 wood, 50.0 metal.fragments
+Recycler Output: 50 wood, 25 metal.fragments
+
+----------------------------------------
+
+## Machete (machete)
+
+Description: A brutal weapon with good range.
+Rarity: Common
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=20, DamageBreakdown={'Slash': 20.0}
+Crafting: Workbench 0, 30.0s, 100.0 wood, 40.0 metal.fragments
+Recycler Output: 50 wood, 20 metal.fragments
+
+----------------------------------------
+
+## Medieval AR (rifle.ak.med)
+
+Description: Medieval themed high damage machine rifle.
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=4.40, AimCone=0.20, HipAimCone=2.50, AimSway=2
+
+----------------------------------------
+
+## Military Flame Thrower (military flamethrower)
+
+Description: A Military grade flamethrower. Uses low grade fuel as ammunition.
+Rarity: Rare
+
+----------------------------------------
+
+## Military Silencer (weapon.mod.silencer)
+
+Description: Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash.
+Rarity: Uncommon
+
+----------------------------------------
+
+## Mini Crossbow (minicrossbow)
+
+Description: A very accurate ranged weapon with a rotating barrel.
+Rarity: Uncommon
+Weapon Stats: AmmoType=arrow.wooden, MagazineSize=0, ReloadTime=2.67, AimCone=1, HipAimCone=1.80, AimSway=3
+Crafting: Workbench 1, 30.0s, 200.0 wood, 150.0 metal.fragments, 1.0 rope, 1.0 gears
+Recycler Output: 100 wood, 75 metal.fragments
+
+----------------------------------------
+
+## Minigun (minigun)
+
+Description: A military issue belt-fed machine gun that must be spun up to fire. Fires rapidly at the expense of movement speed.
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=300, ReloadTime=3.50, AimCone=0.80, HipAimCone=0.80, AimSway=2
+
+----------------------------------------
+
+## Molotov Cocktail (grenade.molotov)
+
+Description: A glass bottle filled with low grade fuel. Smashes and spreads fire when it lands, incredibly high damage to wood and players but innefective against stronger materials.
+Rarity: Uncommon
+Stack Size: 5
+Explosive Stats: FuseLength=8, FuseLengthMax=10, ExplosionRadius=3, TotalDamage=35, DamageBreakdown={'Heat': 35.0}
+Crafting: Workbench 2, 10.0s, 10.0 cloth, 50.0 lowgradefuel
+Recycler Output: 5 cloth, 25 lowgradefuel
+
+----------------------------------------
+
+## Mounted Ballista (ballista.mounted)
+
+Description: A ballista mounted on wheels, designed for mobility and capable of firing bolts at distant targets. Can be towed by horses.
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 250.0 metal.fragments, 1.0 gears, 2.0 sheetmetal
+Recycler Output: 125 metal.fragments, 1 sheetmetal
+
+----------------------------------------
+
+## MP5A4 (smg.mp5)
+
+Description: A medium damage machine gun.
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.pistol, MagazineSize=0, ReloadTime=4, AimCone=0.50, HipAimCone=3, AimSway=2
+Crafting: Workbench 3, 30.0s, 15.0 metal.refined, 1.0 smgbody, 2.0 metalspring
+Recycler Output: 7 metal.refined, 1 metalspring
+
+----------------------------------------
+
+## Multiple Grenade Launcher (multiplegrenadelauncher)
+
+Description: A 40MM six barrel, semi automatic grenade launcher
+Rarity: None
+Weapon Stats: AmmoType=ammo.grenadelauncher.he, MagazineSize=6, ReloadTime=6, AimCone=2.25, HipAimCone=1.80, AimSway=2
+
+----------------------------------------
+
+## Muzzle Boost (weapon.mod.muzzleboost)
+
+Description: Increases weapon fire rate by channeling gasses back into the weapon cycling it faster, at the cost of bullet accuracy.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 10.0 metal.refined
+Recycler Output: 5 metal.refined
+
+----------------------------------------
+
+## Muzzle Brake (weapon.mod.muzzlebrake)
+
+Description: Lowers recoil felt by the operator but can make bullet path more unpredictable and dealing slightly less damage to your foes.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 8.0 metal.refined
+Recycler Output: 4 metal.refined
+
+----------------------------------------
+
+## Nailgun (pistol.nailgun)
+
+Description: A construction tool turned deadly.
+Rarity: Uncommon
+Weapon Stats: AmmoType=ammo.nailgun.nails, MagazineSize=0, ReloadTime=3.10, AimCone=0.75, HipAimCone=2, AimSway=2
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments, 15.0 scrap
+Recycler Output: 37 metal.fragments, 7 scrap
+
+----------------------------------------
+
+## Obsidian Bone Knife (knife.bone.obsidian)
+
+Description: Melee weapon crafted from obsidian. Good for harvesting carcases.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=10, DamageBreakdown={'Slash': 10.0}
+
+----------------------------------------
+
+## Oil Filter Silencer (weapon.mod.oilfiltersilencer)
+
+Description: Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash. Fashioned out of an old oil filter, this won't last long.
+Rarity: Common
+Crafting: Workbench 2, 30.0s, 10.0 metal.refined
+Recycler Output: 5 metal.refined
+
+----------------------------------------
+
+## Paddle (paddle)
+
+Description: A versatile melee weapon that can also be used to paddle a kayak.
+Rarity: Common
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=40, DamageBreakdown={'Arrow': 40.0}
+Crafting: Workbench 0, 30.0s, 15.0 metal.fragments, 1.0 metalblade, 200.0 wood
+Recycler Output: 7 metal.fragments, 100 wood
+
+----------------------------------------
+
+## Paintball Gun (paintballgun)
+
+Description: An air gun that uses compressed gas to fire and make targets works of art.
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.paintball, MagazineSize=0, ReloadTime=4, AimCone=0.50, HipAimCone=3, AimSway=2
+Crafting: Workbench 0, 30.0s, 50.0 metal.fragments, 1.0 metalpipe
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Pitchfork (pitchfork)
+
+Description: A 3 pronged pitchfork. Extremely easy to hit targets with.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=25, TotalDamage=50, DamageBreakdown={'Arrow': 50.0}
+
+----------------------------------------
+
+## Prototype 17 (pistol.prototype17)
+
+Description: A protype pistol with a built-in 3 round burst fire mode. Strong in close quarters. Swap between single shot and burst with [+firemode]
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.pistol, MagazineSize=0, ReloadTime=2.90, AimCone=0.75, HipAimCone=2, AimSway=2
+
+----------------------------------------
+
+## Pump Shotgun (shotgun.pump)
+
+Description: A Shotgun. Fires 8 rounds.
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.shotgun, MagazineSize=0, ReloadTime=5.50, AimCone=0, HipAimCone=1.80, AimSway=5
+Crafting: Workbench 2, 40.0s, 15.0 metal.refined, 2.0 metalpipe, 1.0 metalspring
+Recycler Output: 7 metal.refined, 1 metalpipe
+
+----------------------------------------
+
+## Python Revolver (pistol.python)
+
+Description: A High Powered six-shooter.
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.pistol, MagazineSize=0, ReloadTime=3.75, AimCone=0.50, HipAimCone=2, AimSway=2
+Crafting: Workbench 2, 30.0s, 3.0 metalpipe, 1.0 metalspring, 10.0 metal.refined
+Recycler Output: 1 metalpipe, 5 metal.refined
+
+----------------------------------------
+
+## Revolver (pistol.revolver)
+
+Description: A standard eight shot revolver.
+Rarity: Uncommon
+Weapon Stats: AmmoType=ammo.pistol, MagazineSize=0, ReloadTime=3.40, AimCone=0.75, HipAimCone=2, AimSway=2
+Crafting: Workbench 1, 30.0s, 1.0 metalpipe, 25.0 cloth, 125.0 metal.fragments
+Recycler Output: 12 cloth, 62 metal.fragments
+
+----------------------------------------
+
+## Rocket Launcher (rocket.launcher)
+
+Description: Unmatched craftsmanship meets devastating firepower.
+Rarity: VeryRare
+Weapon Stats: AmmoType=ammo.rocket.basic, MagazineSize=0, ReloadTime=6.16, AimCone=2.25, HipAimCone=1.80, AimSway=2
+Crafting: Workbench 2, 60.0s, 40.0 metal.refined, 4.0 metalpipe
+Recycler Output: 20 metal.refined, 2 metalpipe
+
+----------------------------------------
+
+## RPG Launcher (rocket.launcher.rpg7)
+
+Description: Unmatched craftsmanship meets devastating firepower.
+Rarity: None
+Weapon Stats: AmmoType=ammo.rocket.basic, MagazineSize=0, ReloadTime=6.16, AimCone=2.25, HipAimCone=1.80, AimSway=2
+
+----------------------------------------
+
+## Salvaged Cleaver (salvaged.cleaver)
+
+Description: A powerful 2-handed melee weapon with high damage.
+Rarity: Uncommon
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=30, DamageBreakdown={'Slash': 30.0}
+Crafting: Workbench 1, 30.0s, 50.0 metal.fragments, 1.0 roadsigns
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Salvaged Sword (salvaged.sword)
+
+Description: A powerful melee weapon made from a filed-down wrench. Great durability, good damage.
+Rarity: Common
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=20, DamageBreakdown={'Slash': 20.0}
+Crafting: Workbench 1, 30.0s, 15.0 metal.fragments, 1.0 metalblade
+Recycler Output: 7 metal.fragments
+
+----------------------------------------
+
+## Semi-Automatic Pistol (pistol.semiauto)
+
+Description: A semi-automatic pistol, fires rapidly and with good accuracy.
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.pistol, MagazineSize=0, ReloadTime=2.90, AimCone=0.75, HipAimCone=2, AimSway=2
+Crafting: Workbench 2, 30.0s, 1.0 semibody, 4.0 metal.refined, 1.0 metalpipe
+Recycler Output: 2 metal.refined
+
+----------------------------------------
+
+## Semi-Automatic Rifle (rifle.semiauto)
+
+Description: A Semi Automatic Rifle.
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=4.40, AimCone=0.25, HipAimCone=1.80, AimSway=1
+Crafting: Workbench 2, 30.0s, 1.0 semibody, 1.0 metalspring, 450.0 metal.fragments, 4.0 metal.refined
+Recycler Output: 225 metal.fragments, 2 metal.refined
+
+----------------------------------------
+
+## Siege Tower (siegetower)
+
+Description: A rolling siege tower, providing cover and access to enemy bases. Can be locked with your own door. Can be towed by horses.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 500.0 wood, 250.0 metal.fragments, 1.0 gears
+Recycler Output: 250 wood, 125 metal.fragments
+
+----------------------------------------
+
+## Simple Handmade Sight (weapon.mod.simplesight)
+
+Description: A poorly made sight, slightly better than iron sights.
+Rarity: Uncommon
+Crafting: Workbench 1, 30.0s, 6.0 metal.refined
+Recycler Output: 3 metal.refined
+
+----------------------------------------
+
+## Skinning Knife (knife.skinning)
+
+Description: A sharp skinning knife. Extremely good at harvesting flesh and can produce trophies that can be mounted on Hunting Trophies.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=10, DamageBreakdown={'Slash': 10.0}
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## SKS (rifle.sks)
+
+Description: A Military-Grade Semi Automatic Rifle.
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=4.40, AimCone=0.25, HipAimCone=1.80, AimSway=1
+Crafting: Workbench 3, 30.0s, 1.0 semibody, 2.0 metalspring, 200.0 metal.fragments, 12.0 metal.refined
+Recycler Output: 1 metalspring, 100 metal.fragments, 6 metal.refined
+
+----------------------------------------
+
+## Snowball (snowball)
+
+Description: A snowball, throw it!
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=25, DamageBreakdown={'Blunt': 25.0}
+
+----------------------------------------
+
+## Snowball Gun (snowballgun)
+
+Description: Load snowballs and lay waste to your foes with Christmas cheer.
+Rarity: None
+Weapon Stats: AmmoType=snowball, MagazineSize=50, ReloadTime=1, AimCone=2.25, HipAimCone=1.80, AimSway=2
+
+----------------------------------------
+
+## Soda Can Silencer (weapon.mod.sodacansilencer)
+
+Description: Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash. Crudely made out of a soda can, this will only survive a few shots.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 40.0 metal.fragments
+Recycler Output: 20 metal.fragments
+
+----------------------------------------
+
+## Space LR-300 Assault Rifle (rifle.lr300.space)
+
+Description: Non-standard-issue high-powered light assault rifle for only the most elite of practitioners.
+Rarity: None
+Weapon Stats: AmmoType=ammo.rifle, MagazineSize=0, ReloadTime=4, AimCone=0.20, HipAimCone=3, AimSway=1
+
+----------------------------------------
+
+## Spas-12 Shotgun (shotgun.spas12)
+
+Description: A semi automatic military issue shotgun
+Rarity: None
+Weapon Stats: AmmoType=ammo.shotgun, MagazineSize=0, ReloadTime=5.80, AimCone=0, HipAimCone=1.80, AimSway=4
+
+----------------------------------------
+
+## Speargun (speargun)
+
+Description: A speargun which can only be fired underwater. Excellent for hunting Sharks.
+Rarity: Common
+Weapon Stats: AmmoType=speargun.spear, MagazineSize=0, ReloadTime=3.60, AimCone=1, HipAimCone=1.80, AimSway=3
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments, 1.0 propanetank
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Stone Spear (spear.stone)
+
+Description: A stone-tipped wooden Spear. Slightly longer range.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=30, TotalDamage=50, DamageBreakdown={'Arrow': 50.0}
+Crafting: Workbench 0, 10.0s, 1.0 spear.wooden, 20.0 stones
+Recycler Output: 10 stones
+
+----------------------------------------
+
+## Sunken Combat Knife (sunken.knife)
+
+Description: A corroded sunken knife designed for close combat engagements, can attack while sprinting. Best in class at harvesting flesh.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=12, DamageBreakdown={'Blunt': 12.0}
+
+----------------------------------------
+
+## Targeting Attachment (weapon.mod.targetingattachment)
+
+Description: An internal weapon mod that allows the user to send pings to their team while the weapon is equipped.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 10.0 metal.refined, 1.0 techparts
+Recycler Output: 5 metal.refined
+
+----------------------------------------
+
+## Thompson (smg.thompson)
+
+Description: A medium damage machine gun.
+Rarity: Rare
+Weapon Stats: AmmoType=ammo.pistol, MagazineSize=0, ReloadTime=4, AimCone=0.50, HipAimCone=1.80, AimSway=3
+Crafting: Workbench 2, 30.0s, 10.0 metal.refined, 100.0 wood, 1.0 smgbody, 1.0 metalspring
+Recycler Output: 5 metal.refined, 50 wood
+
+----------------------------------------
+
+## Vampire Stake (vampire.stake)
+
+Description: A stake adorned with special properties making it able to release the soul of undead creatures with a single strike, as well as yield extra loot from their remains.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=20, TotalDamage=20.10, DamageBreakdown={'Slash': 10.0, 'Stab': 10.0, 'Generic': 0.1}
+
+----------------------------------------
+
+## Variable Zoom Scope (weapon.mod.8x.scope)
+
+Description: A large military-grade scope that can be configured from 4x zoom to 16x zoom.
+Rarity: Rare
+
+----------------------------------------
+
+## Water Gun (gun.water)
+
+Description: A large water gun with pumpable pressure. Hold reload to pump!
+Rarity: Common
+Crafting: Workbench 0, 30.0s, 125.0 metal.fragments
+Recycler Output: 62 metal.fragments
+
+----------------------------------------
+
+## Water Pistol (pistol.water)
+
+Description: A small water gun that doesn't require pumping, but has a lower range and output.
+Rarity: Common
+Crafting: Workbench 0, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Waterpipe Shotgun (shotgun.waterpipe)
+
+Description: A Shotgun. Fires a single round before reloading.
+Rarity: Uncommon
+Weapon Stats: AmmoType=ammo.handmade.shell, MagazineSize=0, ReloadTime=4.50, AimCone=1, HipAimCone=2, AimSway=5
+Crafting: Workbench 1, 30.0s, 150.0 wood, 75.0 metal.fragments
+Recycler Output: 75 wood, 37 metal.fragments
+
+----------------------------------------
+
+## Weapon flashlight (weapon.mod.flashlight)
+
+Description: Attaches to a weapon. Provides user with a beam of light. Pressing F (default) to toggle light.
+Rarity: Uncommon
+Crafting: Workbench 1, 30.0s, 3.0 metal.refined
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Weapon Lasersight (weapon.mod.lasersight)
+
+Description: Attaches to a weapon. Provides user with a guiding laser and reduces weapon sway.
+Rarity: Rare
+Crafting: Workbench 3, 30.0s, 3.0 metal.refined, 1.0 techparts
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Wooden Spear (spear.wooden)
+
+Description: Primitive weapon, perfect for hunting your foes. Can be upgraded to Stone Spear.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=25, TotalDamage=40, DamageBreakdown={'Arrow': 40.0}
+Crafting: Workbench 0, 30.0s, 300.0 wood
+Recycler Output: 150 wood
+
+----------------------------------------

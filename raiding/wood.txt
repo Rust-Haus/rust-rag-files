@@ -1,0 +1,44 @@
+RUST RAIDING GUIDE: WOOD TIER
+
+Standard Wall HP: 250
+
+RAID COSTS (for standard wall):
+  Cannonball: 1 (sulfur: 40)
+  Torpedo: 1 (sulfur: 60)
+  Flashbang: 13 (sulfur: 780)
+  F1 Grenade: 2 (sulfur: 120)
+  Survey Charge: 13 (sulfur: 780)
+  Beancan Grenade: 3 (sulfur: 360)
+  High Velocity Rocket: 1 (sulfur: 200)
+  Homing Missile: 1 (sulfur: 200)
+  Firebomb: 5 (sulfur: 1500)
+  Incendiary Rocket: 5 (sulfur: 1500)
+  Satchel Charge: 1 (sulfur: 480)
+  Propane Explosive Bomb: 1 (sulfur: 900)
+  Rocket: 1 (sulfur: 1400)
+  Timed Explosive Charge: 1 (sulfur: 2200)
+  MLRS Rocket: 1
+  Smoke Rocket WIP!!!!: 50
+  40mm HE Grenade: 3
+  Bee Grenade: 13
+  Molotov Cocktail: 8
+  Scattershot: 2
+  Bee Catapult Bomb: 13
+
+BLOCK HP VALUES:
+  Foundation: 250 HP (standard)
+  Triangle Foundation: 150 HP
+  Wall: 250 HP (standard)
+  Half Wall: 125 HP
+  Low Wall: 125 HP
+  Wall Frame: 250 HP (standard)
+  Doorway: 250 HP (standard)
+  Window Frame: 250 HP (standard)
+  Floor: 250 HP (standard)
+  Triangle Floor: 150 HP
+  Floor Frame: 250 HP (standard)
+  Roof: 250 HP (standard)
+  Triangle Roof: 150 HP
+  L Shaped Stairs: 250 HP (standard)
+  U Shaped Stairs: 250 HP (standard)
+  Ramp: 250 HP (standard)

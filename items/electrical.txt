@@ -1,0 +1,845 @@
+RUST ITEMS: ELECTRICAL
+Total items in this category: 89
+
+============================================================
+
+## AND Switch (electric.andswitch)
+
+Description: A logic gate that allows electrical passthrough if BOTH inputs receives power, passthrough amount is the greater of either power source
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 2, 30.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Audio Alarm (electric.audioalarm)
+
+Description: A speaker which will emit a loud warning alarm when powered
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Auto Turret (autoturret)
+
+Description: This automated electric sentry turret will engage and neutralize any moving targets it has line of sight to. You must equip it with a projectile weapon and the corresponding ammunition. Note : The turret will search for targets in a 180 degree arc facing *you* when you place it. Requires 10 power.
+Rarity: VeryRare
+Crafting: Workbench 2, 45.0s, 1.0 targeting.computer, 1.0 cctv.camera, 10.0 metal.refined
+Recycler Output: 5 metal.refined
+
+----------------------------------------
+
+## Blocker (electric.blocker)
+
+Description: This object prevents passthrough while power is received through its second input.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Blue Industrial Wall Light (industrial.wall.light.blue)
+
+Description: A small blue light source.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Bulb String Lights (electric.bulbstringlights)
+
+Description: A string of glowing bulbs, can be deployed point by point to light up your base.
+Rarity: None
+Stack Size: 150
+Crafting: Workbench 0, 10.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Button (electric.button)
+
+Description: A simple electric button.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Cable Tunnel (electric.cabletunnel)
+
+Description: Allows you to pass a cable through a wall. Each input will forward the amount it receives to the corresponding output on the other side.
+Rarity: None
+
+----------------------------------------
+
+## Ceiling Fluorescent Light (electric.fluorescentlight.ceiling)
+
+Description: A flicker-free fluorescent light.
+Rarity: Common
+Stack Size: 10
+
+----------------------------------------
+
+## Ceiling Light (ceilinglight)
+
+Description: A small ceiling mounted light source.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Chandelier (electric.chandelier)
+
+Description: A large adjustable electric chandelier. Very fancy.
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Command Block (command.block)
+
+Description: A block that runs commands
+Rarity: None
+Stack Size: 64
+
+----------------------------------------
+
+## Computer Station (computerstation)
+
+Description: A Computer station for remote control access
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 5.0 metal.refined, 1.0 targeting.computer, 1.0 electric.rf.broadcaster, 1.0 electric.rf.receiver
+Recycler Output: 2 metal.refined
+
+----------------------------------------
+
+## Counter (electric.counter)
+
+Description: A basic cathode ray tube screen combined with an incremental counter. Can display power received, or can count upwards and allow passthrough when a target is reached.
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 2, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Deluxe Christmas Lights (xmas.lightstring.advanced)
+
+Description: Colored, animated, powered Lights that can be deployed point by point to light up your base.
+Rarity: None
+Stack Size: 150
+Crafting: Workbench 0, 10.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Digital Clock (electric.digitalclock)
+
+Description: A digital clock that displays the server time and lets you set alarms to pass power through when ringing. Ideal for synchronizing traps or timed events.
+Rarity: Uncommon
+Stack Size: 10
+Crafting: Workbench 2, 30.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Door Controller (electric.doorcontroller)
+
+Description: A Door Controller. Will manipulate the state of the closest door when it receives power
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Electric Furnace (electric.furnace)
+
+Description: An electrical version of a furnace that uses electricity instead of a fuel source.
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 5.0 metal.refined, 200.0 metal.fragments
+Recycler Output: 2 metal.refined, 100 metal.fragments
+
+----------------------------------------
+
+## Electric Heater (electric.heater)
+
+Description: Provides warmth in a radius when on
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 200.0 metal.fragments
+Recycler Output: 100 metal.fragments
+
+----------------------------------------
+
+## Electric Table Lamp (electric.tablelight)
+
+Description: A small light source made out of an old oil can.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Electrical Branch (electrical.branch)
+
+Description: This object allows you to branch power off from a main line by a set amount.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Elevator (elevator)
+
+Description: A powered elevator. Place another elevator above or below this to connect it. Requires power.
+Rarity: Rare
+Stack Size: 5
+Crafting: Workbench 2, 30.0s, 3.0 metal.refined, 200.0 metal.fragments, 1.0 gears
+Recycler Output: 1 metal.refined, 100 metal.fragments
+
+----------------------------------------
+
+## Fairy Lights (electric.fairylights)
+
+Description: A wire of small fairy bulbs, can be deployed point by point to light up your base.
+Rarity: None
+Stack Size: 150
+Crafting: Workbench 1, 10.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Flasher Light (electric.flasherlight)
+
+Description: A flashing blue light
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 120.0 metal.fragments
+Recycler Output: 60 metal.fragments
+
+----------------------------------------
+
+## Fluid Combiner (fluid.combiner)
+
+Description: Combines three separate fluid connections into one connection.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Fluid Splitter (fluid.splitter)
+
+Description: Splits a fluid connection into three separate connections.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Fluid Switch & Pump (fluid.switch)
+
+Description: A simple switch that enables fluid to pass through. Can be switched on/off manually or via electricity. Can also pump water upwards to higher entities when powered.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 150.0 metal.fragments
+Recycler Output: 75 metal.fragments
+
+----------------------------------------
+
+## Fluorescent Light (electric.fluorescentlight)
+
+Description: Bright enough to see what you’re doing.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Fridge (fridge)
+
+Description: A fridge you can store food into!
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 150.0 metal.fragments
+Recycler Output: 75 metal.fragments
+
+----------------------------------------
+
+## Green Industrial Wall Light (industrial.wall.light.green)
+
+Description: A small green light source.
+Rarity: Common
+Stack Size: 10
+
+----------------------------------------
+
+## HBHF Sensor (electric.hbhfsensor)
+
+Description: A Heartbeat, Breathing, Humidity and Footstep sensor. Passthrough is equal to the number of humans detected in a 10m radius
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 2, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Hopper (hopper)
+
+Description: Will suck up any dropped items in it's radius while powered
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 200.0 metal.fragments, 1.0 gears
+Recycler Output: 100 metal.fragments
+
+----------------------------------------
+
+## Hose Tool (hosetool)
+
+Description: A tool used to make fluid connections between objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection.
+Rarity: Common
+Crafting: Workbench 1, 1.0s, 2.0 metal.refined
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Igniter (electric.igniter)
+
+Description: Ignites nearby objects such as furnaces and campfires when power is received
+Rarity: Common
+Stack Size: 3
+Crafting: Workbench 0, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Industrial Combiner (industrial.combiner)
+
+Description: Combines three separate industrial connections into one connection.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Industrial Conveyor (industrial.conveyor)
+
+Description: Moves an item from one container to another.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Industrial Crafter (industrial.crafter)
+
+Description: Attaches to a workbench to allow automated crafting.
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 2, 30.0s, 3.0 metal.refined, 2.0 techparts
+Recycler Output: 1 metal.refined, 1 techparts
+
+----------------------------------------
+
+## Industrial Splitter (industrial.splitter)
+
+Description: Splits an industrial connection into three separate connections.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Industrial Wall Light (industrial.wall.light)
+
+Description: A small light source.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 30.0 metal.fragments
+Recycler Output: 15 metal.fragments
+
+----------------------------------------
+
+## Large Animated Neon Sign (sign.neon.xl.animated)
+
+Description: A large, animated neon sign!
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 2, 15.0s, 350.0 metal.fragments, 5.0 metal.refined
+Recycler Output: 175 metal.fragments, 2 metal.refined
+
+----------------------------------------
+
+## Large Neon Sign (sign.neon.xl)
+
+Description: A large neon sign!
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 1, 15.0s, 250.0 metal.fragments
+Recycler Output: 125 metal.fragments
+
+----------------------------------------
+
+## Large Rechargeable Battery (electric.battery.rechargable.large)
+
+Description: A Large Rechargeable Battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 10.0 metal.refined, 2.0 techparts
+Recycler Output: 5 metal.refined, 1 techparts
+
+----------------------------------------
+
+## Large Solar Panel (electric.solarpanel.large)
+
+Description: A solar panel which converts sunlight into energy. The amount of energy generated is dependent on the sun's intensity and angle to the panel.
+Rarity: Uncommon
+Stack Size: 3
+Crafting: Workbench 1, 30.0s, 5.0 metal.refined, 1.0 techparts
+Recycler Output: 2 metal.refined
+
+----------------------------------------
+
+## Laser Detector (electric.laserdetector)
+
+Description: A gate which allows power to flow while a player is in the beam
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 2, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Medium Animated Neon Sign (sign.neon.125x215.animated)
+
+Description: An animated neon sign!
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 2, 15.0s, 300.0 metal.fragments, 2.0 metal.refined
+Recycler Output: 150 metal.fragments, 1 metal.refined
+
+----------------------------------------
+
+## Medium Neon Sign (sign.neon.125x215)
+
+Description: A medium neon sign!
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 1, 15.0s, 200.0 metal.fragments
+Recycler Output: 100 metal.fragments
+
+----------------------------------------
+
+## Medium Rechargeable Battery (electric.battery.rechargable.medium)
+
+Description: A Medium Rechargable Battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 5.0 metal.refined, 1.0 techparts
+Recycler Output: 2 metal.refined
+
+----------------------------------------
+
+## Memory Cell (electrical.memorycell)
+
+Description: A 1 bit storage component. SET input will set the value to 1 CLEAR input sets the value to 0. Output will provide connected power if value is 1, Inverted output will provide connected power if value is 0. This is also known as a D-Type Flip Flop
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 2, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Mini Fridge (mini fridge)
+
+Description: Ideal for preserving food and keeping items cool.
+Rarity: Common
+Crafting: Workbench 1, 15.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Modular Car Lift (modularcarlift)
+
+Description: This allows you to modify modular vehicles
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 200.0 metal.fragments, 5.0 metal.refined, 1.0 gears
+Recycler Output: 100 metal.fragments, 2 metal.refined
+
+----------------------------------------
+
+## OR Switch (electric.orswitch)
+
+Description: A logic gate that allows electrical passthrough if EITHER input receives power, passthrough amount is the greater of either power source
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Pipe Tool (pipetool)
+
+Description: A tool used to make connections between industrial objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.
+Rarity: None
+Crafting: Workbench 1, 1.0s, 2.0 metal.refined
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Powered Water Purifier (powered.water.purifier)
+
+Description: A device that converts salt water to fresh water while powered.
+Rarity: Uncommon
+Stack Size: 3
+Crafting: Workbench 2, 30.0s, 300.0 metal.fragments, 20.0 cloth, 100.0 wood
+Recycler Output: 150 metal.fragments, 10 cloth, 50 wood
+
+----------------------------------------
+
+## Pressure Pad (electric.pressurepad)
+
+Description: A gate which allows power to flow while a player is standing on it
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 150.0 wood, 1.0 metalspring, 1.0 gears
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## PTZ CCTV Camera (ptz.cctv.camera)
+
+Description: A CCTV Camera system can be used for realtime surveillance and security when paired with the Computer Station. This camera has pan, tilt, and zoom capability.
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 2, 1.0s, 1.0 cctv.camera, 150.0 metal.fragments
+Recycler Output: 75 metal.fragments
+
+----------------------------------------
+
+## RAND Switch (electric.random.switch)
+
+Description: This switch will allow passthrough based on a random number. Each time the SET input receives power it will roll true or false to allow passthrough
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 2, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Reactive Target (target.reactive)
+
+Description: A reactive target that knocks down when hit, can be reset.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 100.0 wood, 150.0 metal.fragments, 1.0 gears
+Recycler Output: 50 wood, 75 metal.fragments
+
+----------------------------------------
+
+## Red Industrial Wall Light (industrial.wall.light.red)
+
+Description: A small red light source.
+Rarity: Common
+Stack Size: 10
+
+----------------------------------------
+
+## RF Broadcaster (electric.rf.broadcaster)
+
+Description: An RF Broadcaster
+Rarity: Common
+Crafting: Workbench 2, 30.0s, 150.0 metal.fragments
+Recycler Output: 75 metal.fragments
+
+----------------------------------------
+
+## RF Pager (rf_pager)
+
+Description: An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.
+Rarity: Common
+Crafting: Workbench 2, 20.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## RF Receiver (electric.rf.receiver)
+
+Description: An RF Receiver
+Rarity: Common
+Crafting: Workbench 2, 30.0s, 150.0 metal.fragments
+Recycler Output: 75 metal.fragments
+
+----------------------------------------
+
+## Root Combiner (electrical.combiner)
+
+Description: This object combines two root electrical sources into a single signal. Helpful for stringing together low energy batteries or solar panels to produce higher power output. Can be wired in series, can not be used with any non energy producing electrical components.
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Search Light (searchlight)
+
+Description: A Large, wide beam, aimable light source.
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 500.0 wood, 200.0 metal.fragments
+Recycler Output: 250 wood, 100 metal.fragments
+
+----------------------------------------
+
+## Seismic Sensor (electric.seismicsensor)
+
+Description: A small device that detects vibrations within a set range. Will output a different power value depending on the explosive type detected, ideal to know when your time has come.
+Rarity: Uncommon
+Stack Size: 10
+Crafting: Workbench 2, 30.0s, 3.0 metal.refined, 1.0 techparts
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Simple Light (electric.simplelight)
+
+Description: A simple debugging light
+Rarity: None
+
+----------------------------------------
+
+## Siren Light (electric.sirenlight)
+
+Description: A spinning siren light
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 120.0 metal.fragments
+Recycler Output: 60 metal.fragments
+
+----------------------------------------
+
+## Small Generator (electric.fuelgenerator.small)
+
+Description: A small electric generator powered by Low Grade Fuel that outputs 40 power.
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 5.0 metal.refined, 2.0 gears
+Recycler Output: 2 metal.refined, 1 gears
+
+----------------------------------------
+
+## Small Neon Sign (sign.neon.125x125)
+
+Description: A small neon sign!
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 1, 15.0s, 150.0 metal.fragments
+Recycler Output: 75 metal.fragments
+
+----------------------------------------
+
+## Small Rechargeable Battery (electric.battery.rechargable.small)
+
+Description: A small rechargable battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 5.0 metal.refined
+Recycler Output: 2 metal.refined
+
+----------------------------------------
+
+## Smart Alarm (smart.alarm)
+
+Description: Sends a notifications to your phone when powered on.
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 2, 30.0s, 3.0 metal.refined, 1.0 techparts
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Smart Switch (smart.switch)
+
+Description: A smart electric switch.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 2, 30.0s, 3.0 metal.refined, 1.0 techparts
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Splitter (electric.splitter)
+
+Description: Splits an electrical signal into 3 multiple signals. the amount passed through is equal to the input amount divided by the number of used output slots.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Spot Light (electric.spotlight)
+
+Description: A spotlight you can orient with a hammer.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Sprinkler (electric.sprinkler)
+
+Description: A small sprinkler that sprays water around it. Requires a hose connection to supply it with water.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Storage Adaptor (storageadaptor)
+
+Description: Attach to a storage container to allow industrial input/output connections.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Storage Monitor (storage.monitor)
+
+Description: The Storage Monitor attaches to the Tool Cupboard and Large Storage Box to monitor the container contents. Output sends a pulse when the container is updated.
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 3.0 metal.refined, 1.0 techparts
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Switch (electric.switch)
+
+Description: A simple electric switch.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Tesla Coil (electric.teslacoil)
+
+Description: An electrical trap that zaps nearby players when powered. More power supplied will result in higher damage. Loses durability with use.
+Rarity: Common
+Stack Size: 3
+Crafting: Workbench 2, 30.0s, 3.0 metal.refined, 1.0 techparts
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Test Generator (electric.generator.small)
+
+Description: A Mailbox that accepts notes. Only you can access the mail due to a one way slit.
+Rarity: Uncommon
+
+----------------------------------------
+
+## Timer (electric.timer)
+
+Description: A Timer switch, will pass power through for duration.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Tripod Spot Light (electric.spotlight.tripod)
+
+Description: A spotlight you can orient with a hammer.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Twitch Rivals Desk (twitchrivals2023desk)
+
+Description: Twitch Rivals Desk
+Rarity: Common
+Stack Size: 5
+
+----------------------------------------
+
+## Twitch Rivals Neon Sign (neonsigntr)
+
+Description: A Twitch Rivals Light-Up Neon Sign
+Rarity: Common
+Crafting: Workbench 0, 20.0s, 1.0 can.tuna.empty, 20.0 wood, 10.0 lowgradefuel
+Recycler Output: 10 wood, 5 lowgradefuel
+
+----------------------------------------
+
+## Water Pump (waterpump)
+
+Description: Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.
+Rarity: Uncommon
+Stack Size: 3
+Crafting: Workbench 2, 30.0s, 250.0 wood, 200.0 metal.fragments, 1.0 gears
+Recycler Output: 125 wood, 100 metal.fragments
+
+----------------------------------------
+
+## Weapon Rack Double Light (weaponrack.doublelight)
+
+Description: A weapon rack light.
+Rarity: None
+
+----------------------------------------
+
+## Weapon Rack Light (weaponrack.light)
+
+Description: A weapon rack light.
+Rarity: None
+
+----------------------------------------
+
+## Wind Turbine (generator.wind.scrap)
+
+Description: Converts kinetic energy harvested from the wind into electricity. Amount generated will vary depending on wind speed. Higher altitudes will yield stronger winds.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 500.0 wood, 10.0 metal.refined, 3.0 gears, 3.0 sheetmetal
+Recycler Output: 250 wood, 5 metal.refined, 1 gears, 1 sheetmetal
+
+----------------------------------------
+
+## Wire Tool (wiretool)
+
+Description: A tool used to make connections between electrical objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.
+Rarity: None
+Crafting: Workbench 1, 1.0s, 2.0 metal.refined
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## XOR Switch (electric.xorswitch)
+
+Description: An exclusive-or logic gate that allows electrical passthrough if ONLY ONE input receives power, passthrough amount is whichever single input is active. If BOTH inputs recieve power, passthrough will be zero.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------

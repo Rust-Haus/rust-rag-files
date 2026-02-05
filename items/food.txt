@@ -1,0 +1,1309 @@
+RUST ITEMS: FOOD
+Total items in this category: 159
+
+============================================================
+
+## Advanced Anti-Rad Tea (radiationresisttea.advanced)
+
+Description: An advanced tea that provides some hydration and temporarily increases your resistance to radiation a moderate amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Advanced Cooling Tea (advancedcoolingtea)
+
+Description: An advanced cooling tea, provides hydration and temporarily decreases your max and core temperature.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Advanced Crafting Quality Tea (advancedcraftingtea_quality)
+
+Description: An advanced crafting tea, provides hydration and temporarily increases the chances of a higher quality crafting outcome.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Advanced Harvesting Tea (advanceharvestingtea)
+
+Description: An advanced harvesting tea, provides hydration and temporarily boosts the amount of resources you receive from harvesting corpses a moderate amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Advanced Healing Tea (healingtea.advanced)
+
+Description: An advanced healing tea, provides hydration and heals you a moderate amount over time.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Advanced Max Health Tea (maxhealthtea.advanced)
+
+Description: An advanced health tea, provides hydration and temporarily boosts maximum health a moderate amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Advanced Ore Tea (oretea.advanced)
+
+Description: An advanced ore tea, provides hydration and temporarily increases your yield from ores a moderate amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Advanced Rad. Removal Tea (radiationremovetea.advanced)
+
+Description: A tea that removes some radiation.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Advanced Scrap Tea (scraptea.advanced)
+
+Description: An advanced scrap tea, temporarily increases the amount of scrap you receive from barrels a moderate amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Advanced Warming Tea (advancedwarmingtea)
+
+Description: An advanced warming tea that temporarily increases both your core and minimum temperature.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Advanced Wood Tea (woodtea.advanced)
+
+Description: An advanced wood tea, temporarily increases the yield from cutting trees a moderate amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Anchovy (fish.anchovy)
+
+Description: A small bony fish commonly found in large schools.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Apple (apple)
+
+Description: An Apple. Eating it provides a small boost to health, hunger, and thirst.
+Rarity: Common
+Stack Size: 10
+
+----------------------------------------
+
+## Apple Pie (pie.apple)
+
+Description: A delicious apple pie, always too hot. Provides a boost to hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a short time.
+Rarity: None
+Stack Size: 3
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=10, DamageBreakdown={'Blunt': 10.0}
+
+----------------------------------------
+
+## Basic Anti-Rad Tea (radiationresisttea)
+
+Description: A basic tea that provides hydration and temporarily increases your resistance to radiation a small amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Basic Cooling Tea (coolingtea)
+
+Description: A basic cooling tea that temporarily decreases your max and core temperature.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Basic Crafting Quality Tea (craftingtea_quality)
+
+Description: A basic crafting tea. provides hydration and increases the chances of a higher quality crafting outcome for a short time.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Basic Harvesting Tea (harvestingtea)
+
+Description: A basic harvesting tea, provides hydration and temporarily increases the amount of resources you receive from harvesting corpses a small amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Basic Healing Tea (healingtea)
+
+Description: A basic healing tea, provides hydration and heals you a small amount over time.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Basic Max Health Tea (maxhealthtea)
+
+Description: A basic health tea, provides hydration and temporarily boosts maximum health a small amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Basic Ore Tea (oretea)
+
+Description: A basic ore tea, provides hydration and temporarily increases your yield from harvesting ores a small amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Basic Scrap Tea (scraptea)
+
+Description: A basic scrap tea, temporarily increases the amount of scrap you receive from barrels a small amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Basic Warming Tea (warmingtea)
+
+Description: A basic warming tea that temporarily increases both your core and minimum temperature.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Basic Wood Tea (woodtea)
+
+Description: A basic wood tea, temporarily increases the yield from cutting trees a small amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Bear Pie (pie.bear)
+
+Description: A pie made of bear meat, provides a boost to hunger, health and hydration. Increases effect of harvesting teas but reduces their duration.
+Rarity: None
+Stack Size: 3
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=10, DamageBreakdown={'Blunt': 10.0}
+
+----------------------------------------
+
+## Big Cat Pie (pie.bigcat)
+
+Description: A pie made from jungle cat meat, purrfect temperature. Boosts hunger, health and hydration. Shows nearby animal tracks for a short time.
+Rarity: None
+Stack Size: 3
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=10, DamageBreakdown={'Blunt': 10.0}
+
+----------------------------------------
+
+## Black Berry (black.berry)
+
+Description: A black berry.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Black Berry Clone (clone.black.berry)
+
+Description: A clipping of a Black Berry Plant.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Black Berry Seed (seed.black.berry)
+
+Description: These black berry seeds can be planted in the ground and grown to collect additional food.
+
+
+Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Black Raspberries (black.raspberries)
+
+Description: Black Raspberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Blue Berry (blue.berry)
+
+Description: A blue berry. Can be eaten or used in mixing table recipes to create teas.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Blue Berry Clone (clone.blue.berry)
+
+Description: A clipping of a Blue Berry Plant.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Blue Berry Seed (seed.blue.berry)
+
+Description: These blue berry seeds can be planted in the ground and grown to collect additional food.
+
+
+Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Blueberries (blueberries)
+
+Description: Blueberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Bread Loaf (bread.loaf)
+
+Description: A loaf of bread, eating it provides a boost to health, hunger and hydration. Feeding to a horse will provide a boost to its digestion and dung production for a short time.
+Rarity: Common
+Stack Size: 10
+
+----------------------------------------
+
+## Burnt Bear Meat (bearmeat.burned)
+
+Description: Bear Meat that has been overcooked.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Burnt Chicken (chicken.burned)
+
+Description: Burned chicken. Eating it will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Burnt Deer Meat (deermeat.burned)
+
+Description: Burned Deer Meat. Eating it will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Burnt Horse Meat (horsemeat.burned)
+
+Description: Burned horse meat. Eating it will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Burnt Human Meat (humanmeat.burned)
+
+Description: Burned Meat from a human being. Consuming will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Burnt Pork (meat.pork.burned)
+
+Description: This little piggy has been in the oven for too long.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Burnt Wolf Meat (wolfmeat.burned)
+
+Description: Spoiled Wolf Meat. Consuming will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Cactus Flesh (cactusflesh)
+
+Description: Flesh of a Cactus, contains water.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Can of Beans (can.beans)
+
+Description: Beans found as loot. Eating it provides a small boost to health, hunger, and thirst.
+Rarity: Common
+Stack Size: 10
+
+----------------------------------------
+
+## Can of Tuna (can.tuna)
+
+Description: Chunked tuna found as loot. Eating it provides a small boost to health, hunger, and thirst.
+Rarity: Common
+Stack Size: 10
+
+----------------------------------------
+
+## Candy Cane (candycane)
+
+Description: A very old candy cane from 2014
+Rarity: None
+
+----------------------------------------
+
+## Catfish (fish.catfish)
+
+Description: A large, whiskered fresh water based predator. Eats everything, so you never know what you'll find in it's stomach.
+Rarity: None
+Stack Size: 5
+
+----------------------------------------
+
+## Chicken Pie (pie.chicken)
+
+Description: Just like mom used to make. Provides a boost to hunger, health and hydration. Increases the chance of better genes from crops for short time.
+Rarity: None
+Stack Size: 3
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=10, DamageBreakdown={'Blunt': 10.0}
+
+----------------------------------------
+
+## Chocolate Bar (chocolate)
+
+Description: Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.
+Rarity: Common
+Stack Size: 10
+
+----------------------------------------
+
+## Coconut (coconut)
+
+Description: A coconut. Consuming it restores hydration, and the flesh yields a modest amount of calories.
+Rarity: Common
+Stack Size: 20
+
+----------------------------------------
+
+## Cooked Bear Meat (bearmeat.cooked)
+
+Description: Delicious Bear Meat, Eating it will restore some health, hunger, and thirst.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Cooked Big Cat Meat (bigcatmeat.cooked)
+
+Description: Delicious Big Cat Meat, Eating it will restore some health, hunger, and thirst.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Cooked Chicken (chicken.cooked)
+
+Description: Cooked chicken. Eating it will restore some health, hunger, and thirst.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Cooked Crocodile Meat (crocodilemeat.cooked)
+
+Description: Delicious Crocodile Meat, Eating it will restore some health, hunger, and thirst.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Cooked Deer Meat (deermeat.cooked)
+
+Description: Cooked Deer Meat. Eating it will restore some health, hunger, and thirst.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Cooked Fish (fish.cooked)
+
+Description: Cooked Fish. Eating it provides a small boost to health, hunger, and thirst.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Cooked Horse Meat (horsemeat.cooked)
+
+Description: Cooked Horse Meat. Eating it will restore some health, hunger, and thirst.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Cooked Human Meat (humanmeat.cooked)
+
+Description: Salty meat from a human being, eating this will restore some hunger and health but reduces hydration. Maybe you should look for a better food source.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Cooked Pork (meat.pork.cooked)
+
+Description: Cooked pork, Eating it will restore some health, hunger, and thirst.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Cooked Snake Meat (snakemeat.cooked)
+
+Description: Delicious Snake Meat, Eating it will restore some health, hunger, and thirst.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Cooked Wolf Meat (wolfmeat.cooked)
+
+Description: Cooked Wolf Meat. Eating it will restore some health, hunger, and thirst.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Corn (corn)
+
+Description: An ear of corn. Eating it provides a small boost to health, hunger, and thirst.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Corn Clone (clone.corn)
+
+Description: A Clipping of a Corn Plant.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Corn Seed (seed.corn)
+
+Description: Corn seeds can be found when picking wild Corn plants. These seeds can be planted in the ground and grown to collect additional food.
+
+
+Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more corn and faster growth.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Crocodile Pie (pie.crocodile)
+
+Description: A pie made from crocodile meat, may cause a reptile dysfunction. Boosts hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a short time.
+Rarity: None
+Stack Size: 3
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=10, DamageBreakdown={'Blunt': 10.0}
+
+----------------------------------------
+
+## Egg (egg)
+
+Description: An egg laid by a chicken, will hatch in a coop. Can be eaten raw but best saved for a recipe.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Fish Pie (pie.fish)
+
+Description: Delightful fish pie. Provides a boost to hunger, health and hydration. Increases base comfort level for a short time.
+Rarity: None
+Stack Size: 3
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=10, DamageBreakdown={'Blunt': 10.0}
+
+----------------------------------------
+
+## Granola Bar (granolabar)
+
+Description: Granola Bar found as loot. Eating it provides a small boost to health, hunger.
+Rarity: Common
+Stack Size: 10
+
+----------------------------------------
+
+## Green Berry (green.berry)
+
+Description: A green berry. Can be eaten or used in mixing table recipes to create teas.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Green Berry Clone (clone.green.berry)
+
+Description: A clipping of a Green Berry Plant.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Green Berry Seed (seed.green.berry)
+
+Description: These green berry seeds can be planted in the ground and grown to collect additional food.
+
+
+Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Grub (grub)
+
+Description: A pale, fleshy insect that can be used for bait. Could also be eaten in desperate situations.
+Rarity: None
+Stack Size: 25
+
+----------------------------------------
+
+## Hemp Clone (clone.hemp)
+
+Description: A clipping of a hemp plant.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Hemp Seed (seed.hemp)
+
+Description: Hemp seeds can be found when picking wild Hemp. These seeds can be planted in the ground and grown to collect additional cloth.
+
+
+Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more cloth and faster growth.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Herring (fish.herring)
+
+Description: A small fish commonly found in a variety of water sources.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Honeycomb (honeycomb)
+
+Description: Building blocks of a hive, taken from a natural beehive. Can be cooked in a furnace to guarantee honey, or extracted for honey and a small chance of a nucleus.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Hunters Pie (pie.hunters)
+
+Description: Tasty hunters pie, made with real deer. Provides a boost to hunger, health and hydration. Reduces bleeding for a short time.
+Rarity: None
+Stack Size: 3
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=10, DamageBreakdown={'Blunt': 10.0}
+
+----------------------------------------
+
+## Jar of Honey (honey)
+
+Description: A jar of honey. Good for reducing hunger and radiation, or could be saved for recipes. The source of the glass jar is a mystery.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Minnows (fish.minnows)
+
+Description: A Small group of edible fish.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Mr Spice Can (mrspice.can)
+
+Description: A delicious and refreshing beverage, with a delightful spicy undertone.
+Rarity: None
+
+----------------------------------------
+
+## Mushroom (mushroom)
+
+Description: A Mushroom found on the ground. Eating it provides a small boost to health, hunger, and thirst.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Orange Roughy (fish.orangeroughy)
+
+Description: A rare fish found in the depths of the ocean. Eats everything, so you never know what you'll find in it's stomach.
+Rarity: None
+Stack Size: 5
+
+----------------------------------------
+
+## Orchid (orchid)
+
+Description: Smells nice.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Orchid Clone (clone.orchid)
+
+Description: A clipping of an orchid plant.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Orchid Seed (seed.orchid)
+
+Description: Orchid seeds can be found when picking wild Orchids.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Pickles (jar.pickle)
+
+Description: Cucumbers in a vinegar bath, jarred by an amateur. Eat at your own risk.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Pork Pie (pie.pork)
+
+Description: Tempting pork pie, provides a boost to hunger, health and hydration. Improves healing rate from other sources for a short time.
+Rarity: None
+Stack Size: 3
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=10, DamageBreakdown={'Blunt': 10.0}
+
+----------------------------------------
+
+## Potato (potato)
+
+Description: Potato.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Potato Clone (clone.potato)
+
+Description: A Clipping of a Potato Plant.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Potato Seed (seed.potato)
+
+Description: These potato seeds can be planted in the ground and grown to collect additional food.
+
+
+Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more potatoes and faster growth.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Pumpkin (pumpkin)
+
+Description: An edible vegetable that can also be worn as a hat. Eating it provides a small boost to health, hunger, and thirst.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Pumpkin Pie (pie.pumpkin)
+
+Description: Spooky pumpkin pie, provides a boost to health, hunger and hydration. Increases maximum health for a short time.
+Rarity: None
+Stack Size: 3
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=10, DamageBreakdown={'Blunt': 10.0}
+
+----------------------------------------
+
+## Pumpkin Plant Clone (clone.pumpkin)
+
+Description: A Clipping of a pumpkin plant.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Pumpkin Seed (seed.pumpkin)
+
+Description: Pumpkin Seeds can be found when picking wild Pumpkin plants. These seeds can be planted in the ground and grown to collect additional food.
+
+
+Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more pumpkins and faster growth.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Pure Anti-Rad Tea (radiationresisttea.pure)
+
+Description: A pure tea that provides hydration and temporarily increases your resistance to radiation a large amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Pure Cooling Tea (purecoolingtea)
+
+Description: A pure cooling tea that temporarily decreases your max and core temperature.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Pure Crafting Quality Tea (purecraftingtea_quality)
+
+Description: A pure crafting tea. provides hydration and increases the chances of a higher quality crafting outcome for a short time.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Pure Harvesting Tea (pureharvestingtea)
+
+Description: A pure harvesting tea, provides hydration and temporarily increases the amount of resources you receive from harvesting corpses a large amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Pure Healing Tea (healingtea.pure)
+
+Description: A pure healing tea, provides hydration and heals you a large amount over time.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Pure Max Health Tea (maxhealthtea.pure)
+
+Description: A pure health tea, provides hydration and temporarily boosts maximum health a large amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Pure Ore Tea (oretea.pure)
+
+Description: A pure ore tea, provides hydration and temporarily increases your yield when harvesting ores a large amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Pure Rad. Removal Tea (radiationremovetea.pure)
+
+Description: A tea that removes some radiation.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Pure Scrap Tea (scraptea.pure)
+
+Description: A pure scrap tea, temporarily increases the amount of scrap you receive from barrels a large amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Pure Warming Tea (purewarmingtea)
+
+Description: A pure warming tea that temporarily increases both your core and minimum temperature.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Pure Wood Tea (woodtea.pure)
+
+Description: A pure wood tea, temporarily increases the yield from cutting trees a large amount.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Rad. Removal Tea (radiationremovetea)
+
+Description: A tea that removes some radiation.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Raw Bear Meat (bearmeat)
+
+Description: Raw Bear Meat. Eating it will damage your health, try cooking it first.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Raw Big Cat Meat (bigcatmeat)
+
+Description: Raw Big Cat Meat. Eating it will damage your health, try cooking it first.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Raw Chicken Breast (chicken.raw)
+
+Description: Raw chicken breast. Eating it will damage your health, try cooking it first.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Raw Crocodile Meat (crocodilemeat)
+
+Description: Raw Crocodile Meat. Eating it will damage your health, try cooking it first.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Raw Deer Meat (deermeat.raw)
+
+Description: Raw Deer Meat. Eating it will damage your health, try cooking it first.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Raw Fish (fish.raw)
+
+Description: Raw Fish.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Raw Horse Meat (horsemeat.raw)
+
+Description: Raw Horse Meat. Eating it will damage your health, try cooking it first.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Raw Human Meat (humanmeat.raw)
+
+Description: Raw human meat. Consuming will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Raw Pork (meat.boar)
+
+Description: Raw pork. Eating it will damage your health, try cooking it first.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Raw Snake Meat (snakemeat)
+
+Description: Raw Snake Meat. Eating it will damage your health, try cooking it first.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Raw Wolf Meat (wolfmeat.raw)
+
+Description: Raw Wolf Meat. Eating it will damage your health, try cooking it first.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Red Berry (red.berry)
+
+Description: A red berry. Can be eaten or used in mixing table recipes to create teas.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Red Berry Clone (clone.red.berry)
+
+Description: A clipping of a Red Berry Plant.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Red Berry Seed (seed.red.berry)
+
+Description: These red berry seeds can be planted in the ground and grown to collect additional food.
+
+
+Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Rose (rose)
+
+Description: Romantic AF.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Rose Clone (clone.rose)
+
+Description: A clipping of a rose plant.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Rose Seed (seed.rose)
+
+Description: Rose seeds can be found when picking wild Roses.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Rotten Apple (apple.spoiled)
+
+Description: A rotten apple. Eating it currently provides a tiny boost to health, hunger, and thirst.
+Rarity: None
+
+----------------------------------------
+
+## Salmon (fish.salmon)
+
+Description: A large Salmon, found in fresh and salt water. Eats everything, so you never know what you'll find in it's stomach.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Sardine (fish.sardine)
+
+Description: A small oily fish, commonly found in large schools.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Small Shark (fish.smallshark)
+
+Description: A small, surprisingly aggressive deep sea predator. Eats everything, so you never know what you'll find in it's stomach.
+Rarity: None
+Stack Size: 5
+
+----------------------------------------
+
+## Small Trout (fish.troutsmall)
+
+Description: A Small Trout. Good for a few meals.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Small Water Bottle (smallwaterbottle)
+
+Description: A Small Water Bottle. Left click to drink, right click to fill from water sources, or to pour out.
+Rarity: Common
+
+----------------------------------------
+
+## Spoiled Bear Meat (bearmeat.spoiled)
+
+Description: Spoiled Bear Meat. Consuming will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Spoiled Big Cat Meat (bigcatmeat.spoiled)
+
+Description: Spoiled Big Cat Meat. Consuming will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Spoiled Chicken (chicken.spoiled)
+
+Description: Spoiled Chicken. Eating it will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Spoiled Crocodile Meat (crocodilemeat.spoiled)
+
+Description: Spoiled Crocodile Meat. Consuming will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Spoiled Deer Meat (deermeat.spoiled)
+
+Description: Spoiled Deer Meat. Consuming will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Spoiled Fish Meat (fish.spoiled)
+
+Description: Spoiled Fish Meat. Consuming will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Spoiled Horse Meat (horsemeat.spoiled)
+
+Description: Spoiled Horse Meat. Consuming will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Spoiled Human Meat (humanmeat.spoiled)
+
+Description: Spoiled Human Meat. Consuming will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Spoiled Pork Meat (porkmeat.spoiled)
+
+Description: Spoiled Pork Meat. Consuming will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Spoiled Produce (spoiled.produce)
+
+Description: A spoiled fruit or vegetable. It's so far gone it's hard to tell what it originally was.
+Rarity: Common
+Stack Size: 10
+
+----------------------------------------
+
+## Spoiled Snake Meat (snakemeat.spoiled)
+
+Description: Spoiled Snake Meat. Consuming will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Spoiled Wolf Meat (wolfmeat.spoiled)
+
+Description: Spoiled Wolf Meat. Consuming will damage your health.
+Rarity: None
+Stack Size: 20
+
+----------------------------------------
+
+## Sunflower (sunflower)
+
+Description: Very tall.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Sunflower Clone (clone.sunflower)
+
+Description: A clipping of a sunflower plant.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Sunflower Seed (seed.sunflower)
+
+Description: Sunflower seeds can be found when picking wild Sunflowers.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Super Serum (supertea)
+
+Description: Super Serum,  more ore, more wood, more scrap
+Rarity: None
+
+----------------------------------------
+
+## Survivor's Pie (pie.survivors)
+
+Description: It's people. Survivor's pie is made out of people. Provides a boost to health, hunger and hydration. Increases yield when harvesting corpses for a short time.
+Rarity: None
+Stack Size: 3
+Ammo Stats: projectileSpread=1, projectileVelocity=18, TotalDamage=10, DamageBreakdown={'Blunt': 10.0}
+
+----------------------------------------
+
+## Vodka Bottle (bottle.vodka)
+
+Description: A bottle of Russian Vodka.
+Rarity: None
+
+----------------------------------------
+
+## Water Jug (waterjug)
+
+Description: A large jerry can for all kinds of water. Holds up to 5000ml. Careful not to throw it all away!
+Rarity: Uncommon
+
+----------------------------------------
+
+## Wheat (wheat)
+
+Description: A bundle of wheat. Edible, but better off in a cooking recipe.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Wheat Clone (clone.wheat)
+
+Description: A Clipping of a Wheat Plant.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Wheat Seed (seed.wheat)
+
+Description: Wheat seeds, found when eating wheat or harvesting wild crops. Plant in the ground or a planter to grow more.  Seeds grown in good conditions will have higher yields and grow faster.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## White Berry (white.berry)
+
+Description: A white berry. Can be eaten or used in mixing table recipes to create teas.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## White Berry Clone (clone.white.berry)
+
+Description: A clipping of a White Berry Plant.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## White Berry Seed (seed.white.berry)
+
+Description: These white berry seeds can be planted in the ground and grown to collect additional food.
+
+
+Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Worm (worm)
+
+Description: A small, writhing worm that can be used for bait. Could also be eaten in desperate situations.
+Rarity: None
+Stack Size: 25
+
+----------------------------------------
+
+## Yellow Berry (yellow.berry)
+
+Description: A yellow berry. Can be eaten or used in mixing table recipes to create teas.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Yellow Berry Clone (clone.yellow.berry)
+
+Description: A clipping of a Yellow Berry Plant.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Yellow Berry Seed (seed.yellow.berry)
+
+Description: These yellow berry seeds can be planted in the ground and grown to collect additional food.
+
+
+Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.
+Rarity: None
+Stack Size: 50
+
+----------------------------------------
+
+## Yellow Perch (fish.yellowperch)
+
+Description: A Yellow Perch, commonly found in freshwater rivers.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------

@@ -1,0 +1,55 @@
+WORKBENCH LEVEL 3 CRAFTING GUIDE
+Items requiring a Level 3 Workbench.
+
+Total recipes: 30
+
+## Ammunition (4 items)
+
+- Explosive 5.56 Rifle Ammo: 3.0s, 10.0 metal.fragments, 20.0 gunpowder, 10.0 sulfur
+- HV 5.56 Rifle Ammo: 3.0s, 10.0 metal.fragments, 10.0 gunpowder
+- Incendiary 5.56 Rifle Ammo: 3.0s, 10.0 metal.fragments, 10.0 gunpowder, 5.0 sulfur
+- Rocket: 10.0s, 2.0 metalpipe, 150.0 gunpowder, 10.0 explosives
+
+## Attire (2 items)
+
+- Metal Chest Plate: 45.0s, 50.0 leather, 18.0 metal.refined, 8.0 sewingkit
+- Metal Facemask: 45.0s, 50.0 leather, 15.0 metal.refined, 6.0 sewingkit
+
+## Component (12 items)
+
+- Armored Cockpit Vehicle Module: 30.0s, 150.0 metal.fragments, 5.0 metal.refined
+- Armored Passenger Vehicle Module: 30.0s, 150.0 metal.fragments, 5.0 metal.refined
+- Gears: 1.0s, 25.0 metal.fragments, 100.0 scrap
+- High Quality Carburetor: 10.0s, 170.0 metal.fragments
+- High Quality Crankshaft: 10.0s, 120.0 metal.fragments
+- High Quality Pistons: 10.0s, 120.0 metal.fragments
+- High Quality Spark Plugs: 10.0s, 120.0 metal.fragments
+- High Quality Valves: 10.0s, 120.0 metal.fragments
+- Metal Pipe: 1.0s, 2.0 metal.refined, 20.0 scrap
+- Metal Spring: 1.0s, 2.0 metal.refined, 50.0 scrap
+- Road Signs: 1.0s, 2.0 metal.refined, 20.0 scrap
+- Sewing Kit: 1.0s, 20.0 cloth, 3.0 rope
+
+## Construction (3 items)
+
+- Armored Door: 30.0s, 20.0 metal.refined, 5.0 gears
+- Armored Double Door: 30.0s, 25.0 metal.refined, 5.0 gears
+- Reinforced Glass Window: 15.0s, 4.0 metal.refined
+
+## Resources (1 items)
+
+- Explosives: 5.0s, 50.0 gunpowder, 3.0 lowgradefuel, 10.0 sulfur, 10.0 metal.fragments
+
+## Tool (1 items)
+
+- Timed Explosive Charge: 30.0s, 20.0 explosives, 5.0 cloth, 2.0 techparts
+
+## Weapon (7 items)
+
+- 8x Zoom Scope: 30.0s, 50.0 metal.refined
+- Assault Rifle: 45.0s, 50.0 metal.refined, 200.0 wood, 1.0 riflebody, 4.0 metalspring
+- Bolt Action Rifle: 45.0s, 20.0 metal.refined, 1.0 riflebody, 3.0 metalpipe, 1.0 metalspring
+- HMLMG: 30.0s, 60.0 metal.refined, 1.0 riflebody, 3.0 metalspring, 2.0 gears
+- MP5A4: 30.0s, 15.0 metal.refined, 1.0 smgbody, 2.0 metalspring
+- SKS: 30.0s, 1.0 semibody, 2.0 metalspring, 200.0 metal.fragments, 12.0 metal.refined
+- Weapon Lasersight: 30.0s, 3.0 metal.refined, 1.0 techparts

@@ -1,0 +1,175 @@
+WORKBENCH LEVEL 2 CRAFTING GUIDE
+Items requiring a Level 2 Workbench.
+
+Total recipes: 141
+
+## Ammunition (19 items)
+
+- 12 Gauge Buckshot: 3.0s, 5.0 metal.fragments, 10.0 gunpowder
+- 12 Gauge Incendiary Shell: 3.0s, 5.0 metal.fragments, 10.0 gunpowder, 20.0 sulfur
+- 12 Gauge Slug: 3.0s, 5.0 metal.fragments, 10.0 gunpowder
+- 5.56 Rifle Ammo: 3.0s, 10.0 metal.fragments, 5.0 gunpowder
+- Bee Catapult Bomb: 10.0s, 2.0 grenade.bee, 200.0 wood
+- Firebomb: 10.0s, 150.0 gunpowder, 50.0 lowgradefuel, 2.0 rope
+- HV Pistol Ammo: 3.0s, 10.0 metal.fragments, 10.0 gunpowder
+- Hammerhead Bolt: 10.0s, 5.0 metal.refined, 75.0 metal.fragments
+- High Velocity Rocket: 10.0s, 1.0 metalpipe, 100.0 gunpowder
+- Homing Missile: 10.0s, 2.0 metalpipe, 100.0 gunpowder, 1.0 techparts
+- Incendiary Bolt: 10.0s, 50.0 metal.fragments, 10.0 cloth, 10.0 lowgradefuel
+- Incendiary Pistol Bullet: 3.0s, 10.0 metal.fragments, 10.0 gunpowder, 5.0 sulfur
+- Incendiary Rocket: 10.0s, 2.0 metalpipe, 150.0 gunpowder, 75.0 lowgradefuel
+- Piercer Bolt: 10.0s, 5.0 metal.refined, 75.0 metal.fragments
+- Pitchfork Bolt: 10.0s, 100.0 wood, 50.0 metal.fragments
+- Propane Explosive Bomb: 10.0s, 1.0 propanetank, 450.0 gunpowder, 20.0 lowgradefuel
+- SAM Ammo: 10.0s, 1.0 metalpipe, 30.0 gunpowder
+- Scattershot: 10.0s, 200.0 stones
+- Torpedo: 10.0s, 1.0 metalpipe, 30.0 gunpowder
+
+## Attire (15 items)
+
+- Boots: 30.0s, 20.0 leather, 15.0 metal.fragments, 1.0 sewingkit
+- Coffee Can Helmet: 30.0s, 15.0 cloth, 60.0 metal.fragments, 1.0 sewingkit
+- Hazmat Suit: 20.0s, 5.0 tarp, 2.0 sewingkit, 8.0 metal.refined
+- Heavy Plate Helmet: 45.0s, 1.0 sheetmetal, 4.0 metal.refined
+- Heavy Plate Jacket: 45.0s, 2.0 sheetmetal, 4.0 metal.refined
+- Heavy Plate Pants: 45.0s, 1.0 sheetmetal, 4.0 metal.refined
+- High Quality Horse Shoes: 30.0s, 4.0 metal.refined
+- Hoodie: 30.0s, 40.0 cloth, 1.0 sewingkit
+- Metal Shield: 15.0s, 300.0 metal.fragments, 10.0 leather, 50.0 cloth
+- Night Vision Goggles: 30.0s, 10.0 metal.refined, 2.0 techparts
+- Parachute: 15.0s, 2.0 tarp, 2.0 sewingkit, 50.0 cloth
+- Road Sign Gloves: 30.0s, 20.0 leather, 1.0 roadsigns, 2.0 sewingkit
+- Road Sign Jacket: 30.0s, 20.0 leather, 2.0 roadsigns, 2.0 sewingkit
+- Road Sign Kilt: 30.0s, 10.0 leather, 1.0 roadsigns, 2.0 sewingkit
+- Roadsign Horse Armor: 30.0s, 4.0 roadsigns, 2.0 sewingkit
+
+## Component (18 items)
+
+- Camper Vehicle Module: 30.0s, 175.0 metal.fragments, 125.0 wood
+- Cockpit Vehicle Module: 30.0s, 150.0 metal.fragments, 100.0 wood
+- Cockpit With Engine Vehicle Module: 30.0s, 150.0 metal.fragments, 5.0 metal.refined, 100.0 wood
+- Empty Propane Tank: 1.0s, 100.0 metal.fragments, 10.0 scrap
+- Engine Vehicle Module: 30.0s, 100.0 metal.fragments, 3.0 metal.refined
+- Flatbed Vehicle Module: 30.0s, 100.0 metal.fragments, 100.0 wood
+- Fuel Tank Vehicle Module: 30.0s, 175.0 metal.fragments, 100.0 wood
+- Large Flatbed Vehicle Module: 30.0s, 150.0 metal.fragments, 150.0 wood
+- Medium Quality Carburetor: 10.0s, 100.0 metal.fragments
+- Medium Quality Crankshaft: 10.0s, 70.0 metal.fragments
+- Medium Quality Pistons: 10.0s, 70.0 metal.fragments
+- Medium Quality Spark Plugs: 10.0s, 70.0 metal.fragments
+- Medium Quality Valves: 10.0s, 70.0 metal.fragments
+- Metal Blade: 1.0s, 30.0 metal.fragments, 10.0 scrap
+- Passenger Vehicle Module: 30.0s, 175.0 metal.fragments, 125.0 wood
+- Rear Seats Vehicle Module: 30.0s, 150.0 metal.fragments, 100.0 wood
+- Storage Vehicle Module: 30.0s, 50.0 metal.fragments, 125.0 wood
+- Taxi Vehicle Module: 30.0s, 175.0 metal.fragments, 125.0 wood, 5.0 metal.refined
+
+## Construction (13 items)
+
+- Concrete Barricade: 30.0s, 200.0 stones
+- Garage Door: 30.0s, 300.0 metal.fragments, 2.0 gears
+- High External Stone Gate: 35.0s, 3000.0 stones, 5.0 gears
+- High External Stone Wall: 30.0s, 4000.0 stones, 1.0 sheetmetal
+- Ladder Hatch: 30.0s, 1.0 ladder.wooden.wall, 300.0 metal.fragments, 3.0 gears
+- Large Water Catcher: 30.0s, 500.0 wood, 200.0 metal.fragments, 2.0 tarp
+- Metal Barricade: 30.0s, 200.0 metal.fragments, 2.0 metalblade
+- Metal Vertical embrasure: 10.0s, 100.0 metal.fragments
+- Metal horizontal embrasure: 10.0s, 100.0 metal.fragments
+- Prison Cell Gate: 30.0s, 150.0 metal.fragments
+- Prison Cell Wall: 30.0s, 150.0 metal.fragments
+- Strengthened Glass Window: 15.0s, 50.0 metal.fragments
+- Triangle Ladder Hatch: 30.0s, 1.0 ladder.wooden.wall, 300.0 metal.fragments, 3.0 gears
+
+## Electrical (31 items)
+
+- AND Switch: 30.0s, 100.0 metal.fragments
+- Auto Turret: 45.0s, 1.0 targeting.computer, 1.0 cctv.camera, 10.0 metal.refined
+- Computer Station: 30.0s, 5.0 metal.refined, 1.0 targeting.computer, 1.0 electric.rf.broadcaster, 1.0 electric.rf.receiver
+- Counter: 30.0s, 75.0 metal.fragments
+- Digital Clock: 30.0s, 100.0 metal.fragments
+- Electric Furnace: 30.0s, 5.0 metal.refined, 200.0 metal.fragments
+- Elevator: 30.0s, 3.0 metal.refined, 200.0 metal.fragments, 1.0 gears
+- HBHF Sensor: 30.0s, 75.0 metal.fragments
+- Industrial Crafter: 30.0s, 3.0 metal.refined, 2.0 techparts
+- Large Animated Neon Sign: 15.0s, 350.0 metal.fragments, 5.0 metal.refined
+- Large Rechargeable Battery: 30.0s, 10.0 metal.refined, 2.0 techparts
+- Laser Detector: 30.0s, 75.0 metal.fragments
+- Medium Animated Neon Sign: 15.0s, 300.0 metal.fragments, 2.0 metal.refined
+- Medium Rechargeable Battery: 30.0s, 5.0 metal.refined, 1.0 techparts
+- Memory Cell: 30.0s, 75.0 metal.fragments
+- Modular Car Lift: 30.0s, 200.0 metal.fragments, 5.0 metal.refined, 1.0 gears
+- PTZ CCTV Camera: 1.0s, 1.0 cctv.camera, 150.0 metal.fragments
+- Powered Water Purifier: 30.0s, 300.0 metal.fragments, 20.0 cloth, 100.0 wood
+- RAND Switch: 30.0s, 75.0 metal.fragments
+- RF Broadcaster: 30.0s, 150.0 metal.fragments
+- RF Pager: 20.0s, 100.0 metal.fragments
+- RF Receiver: 30.0s, 150.0 metal.fragments
+- Search Light: 30.0s, 500.0 wood, 200.0 metal.fragments
+- Seismic Sensor: 30.0s, 3.0 metal.refined, 1.0 techparts
+- Small Generator: 30.0s, 5.0 metal.refined, 2.0 gears
+- Smart Alarm: 30.0s, 3.0 metal.refined, 1.0 techparts
+- Smart Switch: 30.0s, 3.0 metal.refined, 1.0 techparts
+- Storage Monitor: 30.0s, 3.0 metal.refined, 1.0 techparts
+- Tesla Coil: 30.0s, 3.0 metal.refined, 1.0 techparts
+- Water Pump: 30.0s, 250.0 wood, 200.0 metal.fragments, 1.0 gears
+- Wind Turbine: 30.0s, 500.0 wood, 10.0 metal.refined, 3.0 gears, 3.0 sheetmetal
+
+## Items (10 items)
+
+- Asbestos Armor Insert: 30.0s, 50.0 metal.fragments
+- Cooking Workbench: 30.0s, 200.0 metal.fragments, 200.0 stones, 100.0 wood
+- Diver propulsion vehicle: 30.0s, 1.0 techparts, 150.0 metal.fragments
+- Drone: 30.0s, 200.0 metal.fragments, 1.0 cctv.camera
+- Large Furnace: 40.0s, 500.0 stones, 600.0 wood, 75.0 lowgradefuel
+- Lead Armor Insert: 30.0s, 4.0 metal.refined
+- Locker: 30.0s, 100.0 metal.fragments, 50.0 wood
+- Small Boat Engine: 30.0s, 5.0 metal.refined, 2.0 gears, 50.0 lowgradefuel
+- Small Oil Refinery: 30.0s, 200.0 wood, 500.0 metal.fragments, 250.0 lowgradefuel
+- Workbench Level 3: 60.0s, 1000.0 metal.fragments, 100.0 metal.refined, 5.0 advancedblueprintfragment
+
+## Medical (2 items)
+
+- Large Medkit: 15.0s, 2.0 syringe.medical, 10.0 lowgradefuel
+- Medical Syringe: 10.0s, 15.0 cloth, 10.0 metal.fragments, 10.0 lowgradefuel
+
+## Tool (7 items)
+
+- Chainsaw: 30.0s, 5.0 metal.refined, 2.0 gears, 6.0 metalblade
+- Handcuffs: 15.0s, 70.0 metal.fragments
+- RF Transmitter: 30.0s, 100.0 metal.fragments
+- Salvaged Axe: 30.0s, 1.0 metalpipe, 5.0 metalblade
+- Salvaged Icepick: 30.0s, 1.0 metalpipe, 5.0 metalblade
+- Smoke Grenade: 10.0s, 35.0 gunpowder, 50.0 metal.fragments
+- Survey Charge: 15.0s, 30.0 gunpowder, 5.0 cloth, 10.0 metal.fragments, 20.0 lowgradefuel
+
+## Traps (1 items)
+
+- Homemade Landmine: 20.0s, 50.0 metal.fragments, 30.0 gunpowder
+
+## Weapon (25 items)
+
+- Ballista: 30.0s, 250.0 metal.fragments, 1.0 gears, 2.0 sheetmetal
+- Battering Ram: 30.0s, 500.0 wood, 2.0 sheetmetal, 1.0 tarp, 100.0 metal.refined
+- Catapult: 30.0s, 500.0 wood, 20.0 metal.refined, 1.0 rope, 1.0 gears
+- Custom SMG: 30.0s, 8.0 metal.refined, 1.0 smgbody, 1.0 metalspring
+- Extended Magazine: 30.0s, 10.0 metal.refined
+- F1 Grenade: 10.0s, 30.0 gunpowder, 25.0 metal.fragments
+- Flame Thrower: 40.0s, 15.0 metal.refined, 6.0 metalpipe, 100.0 lowgradefuel, 2.0 propanetank
+- Flashbang: 10.0s, 25.0 gunpowder, 50.0 metal.fragments
+- Gas Compression Overdrive: 30.0s, 10.0 metal.refined
+- High Caliber Revolver: 30.0s, 4.0 metalpipe, 1.0 metalspring, 1.0 gears, 6.0 metal.refined
+- Holosight: 30.0s, 12.0 metal.refined, 1.0 techparts
+- Homing Missile Launcher: 30.0s, 20.0 metal.refined, 3.0 metalpipe, 1.0 techparts, 1.0 cctv.camera
+- Longsword: 30.0s, 2.0 metalblade, 100.0 metal.fragments
+- Molotov Cocktail: 10.0s, 10.0 cloth, 50.0 lowgradefuel
+- Mounted Ballista: 30.0s, 250.0 metal.fragments, 1.0 gears, 2.0 sheetmetal
+- Muzzle Boost: 30.0s, 10.0 metal.refined
+- Muzzle Brake: 30.0s, 8.0 metal.refined
+- Oil Filter Silencer: 30.0s, 10.0 metal.refined
+- Pump Shotgun: 40.0s, 15.0 metal.refined, 2.0 metalpipe, 1.0 metalspring
+- Python Revolver: 30.0s, 3.0 metalpipe, 1.0 metalspring, 10.0 metal.refined
+- Rocket Launcher: 60.0s, 40.0 metal.refined, 4.0 metalpipe
+- Semi-Automatic Pistol: 30.0s, 1.0 semibody, 4.0 metal.refined, 1.0 metalpipe
+- Semi-Automatic Rifle: 30.0s, 1.0 semibody, 1.0 metalspring, 450.0 metal.fragments, 4.0 metal.refined
+- Targeting Attachment: 30.0s, 10.0 metal.refined, 1.0 techparts
+- Thompson: 30.0s, 10.0 metal.refined, 100.0 wood, 1.0 smgbody, 1.0 metalspring

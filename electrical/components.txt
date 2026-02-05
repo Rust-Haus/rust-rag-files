@@ -1,0 +1,236 @@
+RUST ELECTRICAL COMPONENTS REFERENCE
+
+This guide lists all electrical components with their inputs and outputs.
+
+============================================================
+
+## AND Switch (electric.andswitch)
+Type: ANDSwitch
+Inputs: Input A (Electric), Input B (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------
+
+## Auto Turret (autoturret)
+Type: AutoTurret
+Inputs: Power In (Electric)
+Outputs: Has Target (Electric), Low Ammo (Electric), No Ammo (Electric)
+Power Consumption: 10
+
+----------------------------------------
+
+## Blocker (electric.blocker)
+Type: ElectricalBlocker
+Inputs: Power In (Electric), Block Passthrough (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------
+
+## Bulb String Lights (electric.bulbstringlights)
+Type: StringLights
+Inputs: Power In (Electric)
+Outputs: Passthrough (Electric)
+
+----------------------------------------
+
+## Button (electric.button)
+Type: PressButton
+Inputs: Power In (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------
+
+## Ceiling Light (ceilinglight)
+Type: SimpleLight
+Inputs: Power In (Electric)
+Outputs: Passthrough (Electric)
+
+----------------------------------------
+
+## Chandelier (electric.chandelier)
+Type: Chandelier
+Inputs: Power In (Electric)
+Outputs: Passthrough (Electric)
+
+----------------------------------------
+
+## Counter (electric.counter)
+Type: PowerCounter
+Inputs: Power In (Electric), Increment Counter (Electric), Decrement Counter (Electric), Clear Counter (Electric)
+Outputs: Passthrough (Electric)
+
+----------------------------------------
+
+## Door Controller (electric.doorcontroller)
+Type: CustomDoorManipulator
+Inputs: Power In (Electric), Open (Electric), Close (Electric)
+Outputs: Passthrough (Electric)
+
+----------------------------------------
+
+## Electric Furnace (electric.furnace)
+
+----------------------------------------
+
+## Fairy Lights (electric.fairylights)
+Type: StringLights
+Inputs: Power In (Electric)
+Outputs: Passthrough (Electric)
+
+----------------------------------------
+
+## Flasher Light (electric.flasherlight)
+Type: FlasherLight
+Inputs: Power In (Electric)
+Outputs: Passthrough (Electric)
+
+----------------------------------------
+
+## HBHF Sensor (electric.hbhfsensor)
+Type: HBHFSensor
+Inputs: Power In (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------
+
+## Igniter (electric.igniter)
+Type: Igniter
+Inputs: Power In (Electric)
+
+----------------------------------------
+
+## Large Solar Panel (electric.solarpanel.large)
+Type: SolarPanel
+Outputs: Electric Output (Electric)
+Power Generation: 20
+
+----------------------------------------
+
+## Laser Detector (electric.laserdetector)
+Type: LaserDetector
+Inputs: Power In (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------
+
+## OR Switch (electric.orswitch)
+Type: ORSwitch
+Inputs: Input A (Electric), Input B (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------
+
+## Powered Water Purifier (powered.water.purifier)
+Type: PoweredWaterPurifier
+Inputs: Water In (Fluidic), Power In (Electric)
+
+----------------------------------------
+
+## Pressure Pad (electric.pressurepad)
+Type: PressurePad
+Inputs: Power In (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------
+
+## RAND Switch (electric.random.switch)
+Type: RANDSwitch
+Inputs: Power In (Electric), Set (Electric), Reset (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------
+
+## RF Broadcaster (electric.rf.broadcaster)
+Type: RFBroadcaster
+Inputs: Power In (Electric)
+
+----------------------------------------
+
+## RF Receiver (electric.rf.receiver)
+Type: RFReceiver
+Inputs: Power In (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------
+
+## Search Light (searchlight)
+Type: SearchLight
+Inputs: Power In (Electric)
+Outputs: Passthrough (Electric)
+
+----------------------------------------
+
+## Seismic Sensor (electric.seismicsensor)
+Type: SeismicSensor
+Inputs: Power In (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------
+
+## Siren Light (electric.sirenlight)
+Type: SirenLight
+Inputs: Power In (Electric)
+Outputs: Passthrough (Electric)
+
+----------------------------------------
+
+## Smart Alarm (smart.alarm)
+Type: SmartAlarm
+Inputs: Power In (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------
+
+## Smart Switch (smart.switch)
+Type: SmartSwitch
+Inputs: Power In (Electric), Switch On (Electric), Switch Off (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------
+
+## Splitter (electric.splitter)
+Type: Splitter
+Inputs: Power In (Electric)
+Outputs: Power Out 1 (Electric), Power Out 2 (Electric), Power Out 3 (Electric)
+
+----------------------------------------
+
+## Sprinkler (electric.sprinkler)
+Type: Sprinkler
+Inputs: Water In (Fluidic)
+Outputs: Passthrough (Fluidic)
+
+----------------------------------------
+
+## Switch (electric.switch)
+Type: ElectricSwitch
+Inputs: Power In (Electric), Switch On (Electric), Switch Off (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------
+
+## Tesla Coil (electric.teslacoil)
+Type: TeslaCoil
+Inputs: Power In (Electric)
+
+----------------------------------------
+
+## Test Generator (electric.generator.small)
+Type: ElectricGenerator
+Outputs: Power Output 1 (Electric), Power Output 2 (Electric), Power Output 3 (Electric)
+
+----------------------------------------
+
+## Timer (electric.timer)
+Type: CustomTimerSwitch
+Inputs: Power In (Electric), Toggle On (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------
+
+## XOR Switch (electric.xorswitch)
+Type: XORSwitch
+Inputs: Input A (Electric), Input B (Electric)
+Outputs: Power Out (Electric)
+
+----------------------------------------

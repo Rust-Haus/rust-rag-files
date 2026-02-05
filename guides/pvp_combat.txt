@@ -1,0 +1,29 @@
+RUST PVP COMBAT GUIDE
+=====================
+Combat skills are essential for survival.
+
+## WEAPONS BY TIER
+Early: Bow, Crossbow, Eoka, Waterpipe
+Mid: Revolver, Semi-Auto Pistol, Thompson, Custom SMG
+Late: AK-47, LR-300, M249, Bolt Action
+
+## COMBAT TIPS
+- Headshots deal 2x damage
+- Crouching improves accuracy
+- Strafe while shooting
+- Use cover constantly
+- Reload behind cover
+
+## ARMOR PRIORITY
+- Head: Metal Facemask or Coffee Can
+- Chest: Metal Chest Plate or Road Sign
+- Legs: Road Sign Kilt
+- Hazmat suit for radiation areas
+
+## HEALING
+- Bandages: Slow heal over time
+- Syringes: Instant 15 HP, fast craft
+- Med Kits: Full heal but slow
+- Food: Passive healing when full
+
+For more details: https://www.corrosionhour.com/rust-pvp-guide/

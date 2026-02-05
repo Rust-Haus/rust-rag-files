@@ -1,0 +1,1519 @@
+RUST ITEMS: ATTIRE
+Total items in this category: 170
+
+============================================================
+
+## #clothingmannequin (clothing.mannequin)
+
+Description: #clothing.mannequin.desc
+Rarity: Rare
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## A Barrel Costume (barrelcostume)
+
+Description: A stupid barrel costume, so you can hide like a pro..p
+Rarity: Uncommon
+
+----------------------------------------
+
+## Abyss Pack (hazmatsuit.diver)
+
+Description: A damaged deep-water survival suit was found in the abyss. Although it may no longer serve its original purpose, it functions reliably as a Hazmat suit. Owning this suit also grants access to the Abyss Pickaxe, Abyss Hatchet, Abyss Torch, and Abyss AR.
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Arctic Scientist Suit (hazmatsuit_scientist_arctic)
+
+Description: A hazmat suit made from radiation resistant rubber.
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Arctic Suit (hazmatsuit.arcticsuit)
+
+Description: An arctic variant of the hazmat suit which trades radiation for cold protection.
+Rarity: Rare
+Protection: ProjectileProtection=0.30, MeleeProtection=0.20, ColdProtection=0, ExplosionProtection=0.20, RadiationProtection=0, BiteProtection=0.30
+
+----------------------------------------
+
+## Bandana Mask (mask.bandana)
+
+Description: A square of cloth which is tied around the face over the nose and mouth.
+Rarity: Common
+Protection: ProjectileProtection=0.05, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 30.0s, 5.0 cloth
+Recycler Output: 2 cloth
+
+----------------------------------------
+
+## Bandit Guard Gear (attire.banditguard)
+
+Description: A bandit guard suit
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=1, RadiationProtection=0, BiteProtection=0.90
+
+----------------------------------------
+
+## Baseball Cap (hat.cap)
+
+Description: Simple hat for your head. Offers basic protection from damage and the cold.
+Rarity: Rare
+Protection: ProjectileProtection=0.10, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 30.0s, 5.0 cloth
+Recycler Output: 2 cloth
+
+----------------------------------------
+
+## Basic Horse Shoes (horse.shoes.basic)
+
+Description: Equipping these horse shoes will grant your horse additional movement speed
+Rarity: None
+Crafting: Workbench 1, 30.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Beenie Hat (hat.beenie)
+
+Description: A wooly hat, offering some basic protection from damage and cold for your head.
+Rarity: Common
+Protection: ProjectileProtection=0.10, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 30.0s, 15.0 cloth
+Recycler Output: 7 cloth
+
+----------------------------------------
+
+## Birthday Candle Hat (hat.candle.birthday)
+
+Description: A hat with a birthday candle on top. You can turn the candle on in your inventory.
+Rarity: None
+Protection: ProjectileProtection=0.10, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+
+----------------------------------------
+
+## Blue Jumpsuit (jumpsuit.suit.blue)
+
+Description: A Blue Jumpsuit
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.40, ColdProtection=0, ExplosionProtection=0.40, RadiationProtection=0, BiteProtection=0.80
+
+----------------------------------------
+
+## Bone Armor (bone.armor.suit)
+
+Description: A primitive suit of armor made of bones, weak protection from damage and the elements but better than nothing.
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.40, ColdProtection=0, ExplosionProtection=0.40, RadiationProtection=0, BiteProtection=0.80
+Crafting: Workbench 0, 30.0s, 15.0 cloth, 70.0 bone.fragments
+Recycler Output: 7 cloth, 35 bone.fragments
+
+----------------------------------------
+
+## Bone Helmet (deer.skull.mask)
+
+Description: A primitive helmet made from bone. Moderate protection from projectiles and melee damage.
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.40, ColdProtection=0, ExplosionProtection=0.40, RadiationProtection=0, BiteProtection=0.80
+Crafting: Workbench 0, 30.0s, 15.0 cloth, 30.0 bone.fragments
+Recycler Output: 7 cloth, 15 bone.fragments
+
+----------------------------------------
+
+## Boonie Hat (hat.boonie)
+
+Description: A boonie hat, offering minor protection from damage and cold for your head.
+Rarity: Common
+Protection: ProjectileProtection=0.15, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 30.0s, 10.0 cloth
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Boots (shoes.boots)
+
+Description: Sturdy work boots to keep your toes safe, you'd feel nothing if you kicked a table leg. Strong protection against the cold and incoming damage.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.10, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0.20, BiteProtection=0.15
+Crafting: Workbench 2, 30.0s, 20.0 leather, 15.0 metal.fragments, 1.0 sewingkit
+Recycler Output: 10 leather, 7 metal.fragments
+
+----------------------------------------
+
+## Bucket Helmet (bucket.helmet)
+
+Description: A Bucket Helmet. It provides a level of regional protection from inflicted damage.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.20, MeleeProtection=0.50, ColdProtection=0, ExplosionProtection=0.50, RadiationProtection=0, BiteProtection=0.50
+Crafting: Workbench 1, 30.0s, 35.0 metal.fragments
+Recycler Output: 17 metal.fragments
+
+----------------------------------------
+
+## Bunny Ears (attire.bunnyears)
+
+Description: Bunny Ears. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.
+Rarity: None
+Protection: ProjectileProtection=0.15, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+
+----------------------------------------
+
+## Bunny Hat (hat.bunnyhat)
+
+Description: A silly Bunny Hat with wobbly ears to celebrate Easter 2021
+Rarity: None
+Protection: ProjectileProtection=0.15, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 5.0s, 10.0 cloth
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Bunny Onesie (attire.bunny.onesie)
+
+Description: A Bunny Onesie. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.
+Rarity: Rare
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Burlap Gloves (burlap.gloves.new)
+
+Description: Basic burlap gloves, offering protection from the elements
+Rarity: Common
+Protection: ProjectileProtection=0.05, MeleeProtection=0.05, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.10
+Crafting: Workbench 0, 15.0s, 5.0 cloth
+Recycler Output: 2 cloth
+
+----------------------------------------
+
+## Burlap Headwrap (burlap.headwrap)
+
+Description: A Headwrap made out of burlap.
+Rarity: None
+Protection: ProjectileProtection=0.15, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 15.0s, 10.0 cloth
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Burlap Shirt (burlap.shirt)
+
+Description: A Shirt made out of burlap.
+Rarity: None
+Protection: ProjectileProtection=0.10, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 15.0s, 20.0 cloth
+Recycler Output: 10 cloth
+
+----------------------------------------
+
+## Burlap Shoes (burlap.shoes)
+
+Description: Shoes made out of burlap.
+Rarity: None
+Protection: ProjectileProtection=0.05, MeleeProtection=0.05, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.10
+Crafting: Workbench 0, 15.0s, 10.0 cloth
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Burlap Trousers (burlap.trousers)
+
+Description: Trousers made out of burlap.
+Rarity: None
+Protection: ProjectileProtection=0.10, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 15.0s, 20.0 cloth
+Recycler Output: 10 cloth
+
+----------------------------------------
+
+## Candle Hat (hat.candle)
+
+Description: A hat with a candle on top. You can turn the candle on in your inventory.
+Rarity: Common
+Protection: ProjectileProtection=0.10, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 30.0s, 15.0 cloth, 5.0 lowgradefuel
+Recycler Output: 7 cloth, 2 lowgradefuel
+
+----------------------------------------
+
+## Card Movember Moustache (movembermoustachecard)
+
+Description: A fake moustache for Movember
+Rarity: None
+Protection: ProjectileProtection=0.05, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+
+----------------------------------------
+
+## Chicken Costume (chicken.costume)
+
+Description: An inflatable chicken costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.
+Rarity: None
+Protection: ProjectileProtection=0.10, MeleeProtection=0.40, ColdProtection=0, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.30
+Crafting: Workbench 0, 15.0s, 25.0 cloth, 200.0 wood
+Recycler Output: 12 cloth, 100 wood
+
+----------------------------------------
+
+## Clatter Helmet (clatter.helmet)
+
+Description: Special helmet for players who own Clatter and have played for at least 30 minutes, replaces the bucket helmet.
+Rarity: None
+Protection: ProjectileProtection=0.20, MeleeProtection=0.50, ColdProtection=0, ExplosionProtection=0.50, RadiationProtection=0, BiteProtection=0.50
+Crafting: Workbench 0, 30.0s, 35.0 metal.fragments
+Recycler Output: 17 metal.fragments
+
+----------------------------------------
+
+## Coconut Armor Chestplate (cocoknight.armor.torso)
+
+Description: A shoddy piece of body armor made from coconut and plants, provides some basic protection from melee and ranged attacks.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.10, MeleeProtection=0.40, ColdProtection=0, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.30
+
+----------------------------------------
+
+## Coconut Armor Gloves (cocoknight.armor.gloves)
+
+Description: Hand protection made of bark and plants, offers some protection to the upper body.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.07, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.30
+
+----------------------------------------
+
+## Coconut Armor Helmet (cocoknight.armor.helmet)
+
+Description: A shoddy helmet made from coconut, provides some basic protection from melee and ranged attacks.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.15, MeleeProtection=0.25, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+
+----------------------------------------
+
+## Coconut Armor Pants (cocoknight.armor.pants)
+
+Description: A shoddy piece of leg armor made from coconut and plants, provides some basic protection from melee and ranged attacks.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.10, MeleeProtection=0.40, ColdProtection=0, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.30
+
+----------------------------------------
+
+## Coffee Can Helmet (coffeecan.helmet)
+
+Description: A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.35, MeleeProtection=0.50, ColdProtection=0, ExplosionProtection=0.50, RadiationProtection=0, BiteProtection=0.50
+Crafting: Workbench 2, 30.0s, 15.0 cloth, 60.0 metal.fragments, 1.0 sewingkit
+Recycler Output: 7 cloth, 30 metal.fragments
+
+----------------------------------------
+
+## Crate Costume (cratecostume)
+
+Description: A sneaky crate costume. Use with a friend to expertly troll other players
+Rarity: Uncommon
+
+----------------------------------------
+
+## Diving Fins (diving.fins)
+
+Description: Diving Fins. Significantly boosts your speed underwater but greatly reduces mobility on land.
+Rarity: Uncommon
+
+----------------------------------------
+
+## Diving Mask (diving.mask)
+
+Description: A diving mask that provides clear vision under water at the cost of reduced peripheral vision.
+Rarity: Uncommon
+
+----------------------------------------
+
+## Diving Tank (diving.tank)
+
+Description: An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench or repair bench.
+Rarity: Uncommon
+
+----------------------------------------
+
+## Double Diving Tank (diving.tank.double)
+
+Description: An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench. Holds 80% more Oxygen than a standard diving tank
+Rarity: Uncommon
+
+----------------------------------------
+
+## Double Horse Saddle (horse.saddle.double)
+
+Description: A horse saddle with two seats. Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option
+Rarity: None
+
+----------------------------------------
+
+## Dracula Cape (draculacape)
+
+Description: A Halloween themed replacement for the Vagabond Jacket which flows in the wind.
+Rarity: Rare
+Protection: ProjectileProtection=0.15, MeleeProtection=0.25, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0.20, BiteProtection=0.40
+Crafting: Workbench 1, 30.0s, 50.0 cloth, 2.0 sewingkit
+Recycler Output: 25 cloth, 1 sewingkit
+
+----------------------------------------
+
+## Dracula Mask (draculamask)
+
+Description: A classic halloween costume mask which provides decent protection.
+Rarity: None
+Protection: ProjectileProtection=0.20, MeleeProtection=0.25, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.40
+Crafting: Workbench 0, 30.0s, 10.0 cloth
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Dragon Mask (hat.dragonmask)
+
+Description: A special dragon mask to celebrate Chinese New Year
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.60, ColdProtection=0, ExplosionProtection=0.80, RadiationProtection=0, BiteProtection=0.60
+Crafting: Workbench 0, 5.0s, 10.0 cloth, 1.0 skull.wolf
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Egg Suit (attire.egg.suit)
+
+Description: An eggsquisite egg costume, can be painted when unequipped.
+Rarity: Rare
+Protection: ProjectileProtection=0.25, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+Crafting: Workbench 0, 15.0s, 60.0 cloth, 2.0 sewingkit
+Recycler Output: 30 cloth, 1 sewingkit
+
+----------------------------------------
+
+## Frankenstein Mask (frankensteinmask)
+
+Description: Frankenstein halloween costume mask which provides decent protection.
+Rarity: None
+Protection: ProjectileProtection=0.35, MeleeProtection=0.50, ColdProtection=0, ExplosionProtection=0.50, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Frog Boots (boots.frog)
+
+Description: Thank you for playing the game through its early access run. Enjoy these boots made from radiation resistant frog rubber.
+Rarity: None
+Protection: ProjectileProtection=0, MeleeProtection=0, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0
+Crafting: Workbench 0, 1.0s, 1.0 tarp
+
+----------------------------------------
+
+## Frontier Suit (hazmatsuit.frontier)
+
+Description: A Frontier suit
+Rarity: Rare
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Gas Mask (hat.gas.mask)
+
+Description: A Gas Mask
+Rarity: None
+Protection: ProjectileProtection=0.20, MeleeProtection=0.50, ColdProtection=0, ExplosionProtection=0.50, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Ghost Costume (ghostsheet)
+
+Description: Definitely not a last minute costume idea.
+Rarity: Rare
+Protection: ProjectileProtection=0.20, MeleeProtection=0.20, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.35
+
+----------------------------------------
+
+## Gingerbread Suit (gingerbreadsuit)
+
+Description: A suit made of gingerbread, slightly crunchy.
+Rarity: Rare
+Protection: ProjectileProtection=0, MeleeProtection=0.10, ColdProtection=1, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.30
+
+----------------------------------------
+
+## Glowing Eyes (gloweyes)
+
+Description: glowing eyes
+Rarity: None
+
+----------------------------------------
+
+## Hazmat Suit (hazmatsuit)
+
+Description: A hazmat suit made from radiation resistant rubber.
+Rarity: Rare
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+Crafting: Workbench 2, 20.0s, 5.0 tarp, 2.0 sewingkit, 8.0 metal.refined
+Recycler Output: 2 tarp, 1 sewingkit, 4 metal.refined
+
+----------------------------------------
+
+## Headset (twitch.headset)
+
+Description: Every gamer needs a headset! - Gained from Rust's first Twitch drop event.
+Rarity: None
+Protection: ProjectileProtection=0.20, MeleeProtection=0.25, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.40
+Crafting: Workbench 0, 30.0s, 10.0 cloth
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Heavy Frankenstein Head (frankensteins.monster.03.head)
+
+Description: Slightly slower, slightly stronger.
+
+Combined at a Frankenstein Table to create your very own monster.
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Heavy Frankenstein Legs (frankensteins.monster.03.legs)
+
+Description: Slightly slower, slightly stronger.
+
+Combined at a Frankenstein Table to create your very own monster.
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Heavy Frankenstein Torso (frankensteins.monster.03.torso)
+
+Description: Slightly slower, slightly stronger.
+
+Combined at a Frankenstein Table to create your very own monster.
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Heavy Plate Helmet (heavy.plate.helmet)
+
+Description: Offers superior protection at the cost of reduced vision and movement speed.
+Rarity: Rare
+Protection: ProjectileProtection=0.90, MeleeProtection=0.80, ColdProtection=0, ExplosionProtection=1, RadiationProtection=0, BiteProtection=0.80
+Crafting: Workbench 2, 45.0s, 1.0 sheetmetal, 4.0 metal.refined
+Recycler Output: 2 metal.refined
+
+----------------------------------------
+
+## Heavy Plate Jacket (heavy.plate.jacket)
+
+Description: Offers superior protection at the cost of aiming down sights and reduced movement speed.
+Rarity: Rare
+Protection: ProjectileProtection=0.75, MeleeProtection=0.70, ColdProtection=0, ExplosionProtection=1, RadiationProtection=0, BiteProtection=0.70
+Crafting: Workbench 2, 45.0s, 2.0 sheetmetal, 4.0 metal.refined
+Recycler Output: 1 sheetmetal, 2 metal.refined
+
+----------------------------------------
+
+## Heavy Plate Pants (heavy.plate.pants)
+
+Description: Offers superior protection at the cost of reduced movement speed.
+Rarity: Rare
+Protection: ProjectileProtection=0.75, MeleeProtection=0.70, ColdProtection=0, ExplosionProtection=1, RadiationProtection=0, BiteProtection=0.70
+Crafting: Workbench 2, 45.0s, 1.0 sheetmetal, 4.0 metal.refined
+Recycler Output: 2 metal.refined
+
+----------------------------------------
+
+## Heavy Scientist Suit (scientistsuit_heavy)
+
+Description: A heavy hazmat suit made from radiation resistant rubber.
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=1, RadiationProtection=0, BiteProtection=0.90
+
+----------------------------------------
+
+## Hide Boots (attire.hide.boots)
+
+Description: Simple hide boots, made with common materials. Basic all-round protection.
+Rarity: None
+Protection: ProjectileProtection=0.05, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 30.0s, 10.0 leather
+Recycler Output: 5 leather
+
+----------------------------------------
+
+## Hide Halterneck (attire.hide.helterneck)
+
+Description: A Halterneck made from the hide of an animal.
+Rarity: None
+Protection: ProjectileProtection=0.10, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 30.0s, 10.0 leather
+Recycler Output: 5 leather
+
+----------------------------------------
+
+## Hide Pants (attire.hide.pants)
+
+Description: Trousers made from the hide of an animal. Moderate protection against animal attacks.
+Rarity: None
+Protection: ProjectileProtection=0.10, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.45
+Crafting: Workbench 0, 30.0s, 10.0 leather
+Recycler Output: 5 leather
+
+----------------------------------------
+
+## Hide Poncho (attire.hide.poncho)
+
+Description: Primitive armour for the chest made from animal skin. One size fits all. Offers some basic protection from damage and the elements.
+Rarity: None
+Protection: ProjectileProtection=0.10, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.30
+Crafting: Workbench 0, 30.0s, 15.0 leather
+Recycler Output: 7 leather
+
+----------------------------------------
+
+## Hide Skirt (attire.hide.skirt)
+
+Description: Simple hide skirt, made with common materials. Basic all-round protection.
+Rarity: None
+Protection: ProjectileProtection=0.10, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 30.0s, 10.0 leather
+Recycler Output: 5 leather
+
+----------------------------------------
+
+## Hide Vest (attire.hide.vest)
+
+Description: Simple hide vest, made with common materials. Basic all-round protection.
+Rarity: None
+Protection: ProjectileProtection=0.15, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0.20, BiteProtection=0.50
+Crafting: Workbench 0, 30.0s, 10.0 leather
+Recycler Output: 5 leather
+
+----------------------------------------
+
+## High Quality Horse Shoes (horse.shoes.advanced)
+
+Description: Equipping these horse shoes will grant your horse additional movement speed
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 4.0 metal.refined
+Recycler Output: 2 metal.refined
+
+----------------------------------------
+
+## Hockey Mask (metal.facemask.hockey)
+
+Description: A protective facemask which provides the user with excellent head protection from all forms of attacks.
+Rarity: None
+Protection: ProjectileProtection=0.50, MeleeProtection=0.70, ColdProtection=0, ExplosionProtection=0.50, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Hoodie (hoodie)
+
+Description: A hoodie.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.20, MeleeProtection=0.20, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.35
+Crafting: Workbench 2, 30.0s, 40.0 cloth, 1.0 sewingkit
+Recycler Output: 20 cloth
+
+----------------------------------------
+
+## Horse Costume (horse.costume)
+
+Description: An inflatable horse costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.
+Rarity: None
+Protection: ProjectileProtection=0.10, MeleeProtection=0.40, ColdProtection=0, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.30
+Crafting: Workbench 0, 15.0s, 25.0 cloth, 200.0 wood
+Recycler Output: 12 cloth, 100 wood
+
+----------------------------------------
+
+## Horse Mask (hat.horsemask)
+
+Description: A Beautifully crafted red and gold Horse mask to celebrate the 2026 Lunar New Year. This item replaces the wolf headdress.
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.60, ColdProtection=0, ExplosionProtection=0.80, RadiationProtection=0, BiteProtection=0.60
+Crafting: Workbench 0, 5.0s, 10.0 cloth, 1.0 skull.wolf
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Horse Saddle (horse.saddle)
+
+Description: Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option
+Rarity: None
+
+----------------------------------------
+
+## Hot Air Balloon Armor (hab.armor)
+
+Description: Armor for the Hot Air Balloon
+Rarity: Uncommon
+Crafting: Workbench 1, 30.0s, 200.0 metal.fragments
+Recycler Output: 100 metal.fragments
+
+----------------------------------------
+
+## Ice Metal Chest Plate (metal.plate.torso.icevest)
+
+Description: A metal plate covering your torso, provides excellent protection from all forms of attacks.
+Rarity: VeryRare
+Protection: ProjectileProtection=0.25, MeleeProtection=0.20, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+
+----------------------------------------
+
+## Ice Metal Facemask (metal.facemask.icemask)
+
+Description: A protective facemask which provides the user with excellent head protection from all forms of attacks.
+Rarity: VeryRare
+Protection: ProjectileProtection=0.50, MeleeProtection=0.70, ColdProtection=0, ExplosionProtection=0.50, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Improvised Balaclava (mask.balaclava)
+
+Description: A makeshift balaclava. Cost effective protection from the cold, but unremarkable at preventing melee and projectile damage.
+Rarity: Common
+Protection: ProjectileProtection=0.15, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0.20, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 30.0s, 15.0 cloth
+Recycler Output: 7 cloth
+
+----------------------------------------
+
+## Improvised Shield (improvised.shield)
+
+Description: A makeshift metal shield, sturdy but only protects a small area. Usable with single handed weapons and tools.
+Rarity: Rare
+
+----------------------------------------
+
+## Jacket (jacket)
+
+Description: A rugged jacket, will help keep you warm. High cold protection but incompatible with other chest attire.
+Rarity: Common
+Protection: ProjectileProtection=0.15, MeleeProtection=0.25, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0.20, BiteProtection=0.40
+Crafting: Workbench 1, 30.0s, 50.0 cloth, 2.0 sewingkit
+Recycler Output: 25 cloth, 1 sewingkit
+
+----------------------------------------
+
+## Jumpsuit (jumpsuit.suit)
+
+Description: A Jumpsuit
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.40, ColdProtection=0, ExplosionProtection=0.40, RadiationProtection=0, BiteProtection=0.80
+
+----------------------------------------
+
+## Kick Hazmat (hazmatsuit.kick)
+
+Description: Hazmat obtained during Kick Drops 2025
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Knights armour cuirass (knighttorso.armour)
+
+Description: A well made collection of scrap metal formed into a knights armour.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.20, MeleeProtection=0.25, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.60
+
+----------------------------------------
+
+## Knights armour helmet (knightsarmour.helmet)
+
+Description: A medieval knights helmet. Made from scrap metal. Excellent craftmanship.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.35, MeleeProtection=0.50, ColdProtection=0, ExplosionProtection=0.50, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Knights armour skirt plates (knightsarmour.skirt)
+
+Description: A well made set of knights plate that covers the hips and thighs. Made of scrap metal.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.20, MeleeProtection=0.25, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.60
+
+----------------------------------------
+
+## Krieg Hazmat (hazmat.krieg)
+
+Description: A Krieg Hazmat Suit, standard issue for those who never retreat.
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Krieg Large Backpack (kriegbackpack)
+
+Description: Carry your essentials in a rugged military pack, built for endurance and practicality.
+Rarity: None
+
+----------------------------------------
+
+## Large Backpack (largebackpack)
+
+Description: A larger military backpack that can hold items inside it
+Rarity: Rare
+
+----------------------------------------
+
+## Leather Gloves (burlap.gloves)
+
+Description: Gloves made out of leather, offers a small amount of protection to the upper body.
+Rarity: Common
+Protection: ProjectileProtection=0.05, MeleeProtection=0.05, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.10
+Crafting: Workbench 0, 30.0s, 20.0 leather
+Recycler Output: 10 leather
+
+----------------------------------------
+
+## Light Frankenstein Head (frankensteins.monster.01.head)
+
+Description: Slightly faster, slightly weaker.
+
+Combined at a Frankenstein Table to create your very own monster.
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Light Frankenstein Legs (frankensteins.monster.01.legs)
+
+Description: Slightly faster, slightly weaker.
+
+Combined at a Frankenstein Table to create your very own monster.
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Light Frankenstein Torso (frankensteins.monster.01.torso)
+
+Description: Slightly faster, slightly weaker.
+
+Combined at a Frankenstein Table to create your very own monster.
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Longsleeve T-Shirt (tshirt.long)
+
+Description: Long sleeve tshirt, versatile clothing for protection against damage and the elements.
+Rarity: Common
+Protection: ProjectileProtection=0.15, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.35
+Crafting: Workbench 1, 30.0s, 30.0 cloth
+Recycler Output: 15 cloth
+
+----------------------------------------
+
+## Lumberjack Hoodie (lumberjack hoodie)
+
+Description: A lumberjack themed hoodie, earned by helping the Lumberjack. Offers the same protection as the standard hoodie.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.20, MeleeProtection=0.20, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.35
+
+----------------------------------------
+
+## Lumberjack Suit (hazmatsuit.lumberjack)
+
+Description: A Lumberjack Suit
+Rarity: Rare
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Lunar New Year Horse Armor (horse.armor.lny26)
+
+Description: A full body Lunar New Year themed armor for a horse. Provides strong protection for you and your steed, at the cost of greatly reduced movement speed.
+Rarity: None
+
+----------------------------------------
+
+## Medium Frankenstein Head (frankensteins.monster.02.head)
+
+Description: A balanced head.
+
+Combined at a Frankenstein Table to create your very own monster.
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Medium Frankenstein Legs (frankensteins.monster.02.legs)
+
+Description: A balanced set of legs.
+
+Combined at a Frankenstein Table to create your very own monster.
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Medium Frankenstein Torso (frankensteins.monster.02.torso)
+
+Description: A balanced torso.
+
+Combined at a Frankenstein Table to create your very own monster.
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Metal Chest Plate (metal.plate.torso)
+
+Description: A metal plate covering your torso, provides excellent protection from all forms of attacks.
+Rarity: VeryRare
+Protection: ProjectileProtection=0.25, MeleeProtection=0.20, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 3, 45.0s, 50.0 leather, 18.0 metal.refined, 8.0 sewingkit
+Recycler Output: 25 leather, 9 metal.refined, 4 sewingkit
+
+----------------------------------------
+
+## Metal Facemask (metal.facemask)
+
+Description: A protective facemask which provides the user with excellent head protection from all forms of attacks.
+Rarity: VeryRare
+Protection: ProjectileProtection=0.50, MeleeProtection=0.70, ColdProtection=0, ExplosionProtection=0.50, RadiationProtection=0, BiteProtection=0.50
+Crafting: Workbench 3, 45.0s, 50.0 leather, 15.0 metal.refined, 6.0 sewingkit
+Recycler Output: 25 leather, 7 metal.refined, 3 sewingkit
+
+----------------------------------------
+
+## Metal Shield (metal.shield)
+
+Description: A large sturdy metal shield, keeps arrows and bullets at bay. Usable with single handed weapons and tools.
+Rarity: Rare
+Crafting: Workbench 2, 15.0s, 300.0 metal.fragments, 10.0 leather, 50.0 cloth
+Recycler Output: 150 metal.fragments, 5 leather, 25 cloth
+
+----------------------------------------
+
+## Miners Hat (hat.miner)
+
+Description: A leather cap with a flashlight attached. It uses Low Grade Fuel and can be activated from the inventory.
+Rarity: Common
+Protection: ProjectileProtection=0.20, MeleeProtection=0.25, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.40
+Crafting: Workbench 1, 30.0s, 15.0 cloth, 10.0 lowgradefuel, 50.0 metal.fragments
+Recycler Output: 7 cloth, 5 lowgradefuel, 25 metal.fragments
+
+----------------------------------------
+
+## Minigun Ammo Pack (minigunammopack)
+
+Description: A backpack designed to store ammunition for a minigun.
+Rarity: None
+
+----------------------------------------
+
+## Movember Moustache (movembermoustache)
+
+Description: A magnificent moustache (it acts as a hairy bandana) - all proceeds go to Movember, a charity promoting men's health awareness,
+Rarity: None
+Protection: ProjectileProtection=0.05, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 1.0s, 10.0 cloth
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Mummy Mask (mummymask)
+
+Description: A classic halloween costume mask which provides decent protection.
+Rarity: None
+Protection: ProjectileProtection=0.35, MeleeProtection=0.50, ColdProtection=0, ExplosionProtection=0.50, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Mummy Suit (halloween.mummysuit)
+
+Description: A mummy suit
+Rarity: Rare
+Protection: ProjectileProtection=0, MeleeProtection=0.10, ColdProtection=1, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.30
+
+----------------------------------------
+
+## Naval Scientist Suit (hazmatsuit_scientist_naval)
+
+Description: A hazmat suit made from radiation resistant rubber.
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Nest Hat (attire.nesthat)
+
+Description: An extremely silly easter nest hat with googly eyes.
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.60, ColdProtection=0, ExplosionProtection=0.80, RadiationProtection=0, BiteProtection=0.60
+Crafting: Workbench 0, 30.0s, 10.0 cloth, 1.0 skull.wolf
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Night Vision Goggles (nightvisiongoggles)
+
+Description: Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.
+Rarity: Rare
+Protection: ProjectileProtection=0.15, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 2, 30.0s, 10.0 metal.refined, 2.0 techparts
+Recycler Output: 5 metal.refined, 1 techparts
+
+----------------------------------------
+
+## Ninja Suit (attire.ninja.suit)
+
+Description: BaboAbe Ninja Suit
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+Crafting: Workbench 0, 1.0s, 60.0 cloth, 2.0 sewingkit
+Recycler Output: 30 cloth, 1 sewingkit
+
+----------------------------------------
+
+## Nomad Suit (hazmatsuit.nomadsuit)
+
+Description: A nomad suit.
+Rarity: Rare
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## NVGM Scientist Suit (hazmatsuit_scientist_nvgm)
+
+Description: A hazmat suit made from radiation resistant rubber.
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Outbreak Scientist Suit (oubreak_scientist)
+
+Description: A outbreak scientist suit
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Ox Mask (hat.oxmask)
+
+Description: An Ox mask to celebrate the 2021 Lunar New Year.
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.60, ColdProtection=0, ExplosionProtection=0.80, RadiationProtection=0, BiteProtection=0.60
+Crafting: Workbench 0, 5.0s, 10.0 cloth, 1.0 skull.wolf
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Paintball Overalls (paintballoveralls.suit)
+
+Description: A set of paintball overalls.
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+Crafting: Workbench 0, 15.0s, 60.0 cloth, 2.0 sewingkit
+Recycler Output: 30 cloth, 1 sewingkit
+
+----------------------------------------
+
+## Pants (pants)
+
+Description: A pair of pants, highly capable undergarment for your legs. Great all round protection from damage and the elements.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.15, MeleeProtection=0.20, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 1, 30.0s, 40.0 cloth, 1.0 sewingkit
+Recycler Output: 20 cloth
+
+----------------------------------------
+
+## Parachute (parachute)
+
+Description: Once equipped, press [+jump] while in mid-air to pull the cord. Must be repacked after use. Must be at least 15m above the ground in order to deploy.
+Rarity: Rare
+Crafting: Workbench 2, 15.0s, 2.0 tarp, 2.0 sewingkit, 50.0 cloth
+Recycler Output: 1 tarp, 1 sewingkit, 25 cloth
+
+----------------------------------------
+
+## Parachute (Deployed) (parachute.deployed)
+
+Description: Deployed version of parachute. Hidden.
+Rarity: Uncommon
+
+----------------------------------------
+
+## Party Hat (partyhat)
+
+Description: A very stupid looking party hat
+Rarity: None
+
+----------------------------------------
+
+## Pilot Hazmat (hazmatsuit.pilot)
+
+Description: A hazmat suit made from a fighter pilot's flight suit.
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Prisoner Hood (prisonerhood)
+
+Description: A hood for prisoners, restricts vision.
+Rarity: Common
+Crafting: Workbench 1, 15.0s, 20.0 cloth
+Recycler Output: 10 cloth
+
+----------------------------------------
+
+## Purple Sunglasses (twitchsunglasses)
+
+Description: Sunglasses - Gained from Rust's first Twitch drop.
+Rarity: None
+Crafting: Workbench 0, 15.0s, 30.0 metal.fragments
+Recycler Output: 15 metal.fragments
+
+----------------------------------------
+
+## Rabbit Mask (hat.rabbitmask)
+
+Description: A Beautifully crafted Rabbit mask to celebrate the 2023 Lunar New Year
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.60, ColdProtection=0, ExplosionProtection=0.80, RadiationProtection=0, BiteProtection=0.60
+Crafting: Workbench 0, 5.0s, 10.0 cloth, 1.0 skull.wolf
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Rat Mask (hat.ratmask)
+
+Description: A Beautifully crafted bronze and gold Rat mask to celebrate the 2020 Lunar New Year. This item replaces the wolf headdress.
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.60, ColdProtection=0, ExplosionProtection=0.80, RadiationProtection=0, BiteProtection=0.60
+Crafting: Workbench 0, 5.0s, 10.0 cloth, 1.0 skull.wolf
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Reindeer Antlers (attire.reindeer.headband)
+
+Description: A festive reindeer antlers headband and nose.
+Rarity: None
+Protection: ProjectileProtection=0.15, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+
+----------------------------------------
+
+## Reinforced Wooden Shield (reinforced.wooden.shield)
+
+Description: A basic wooden shield with added protection, keeps you safe but not for long. Usable with single handed weapons and tools.
+Rarity: Rare
+Crafting: Workbench 1, 15.0s, 1.0 roadsigns, 10.0 cloth, 200.0 wood
+Recycler Output: 5 cloth, 100 wood
+
+----------------------------------------
+
+## Riot Helmet (riot.helmet)
+
+Description: A makeshift riot Helmet. Great at deflecting melee attacks.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.25, MeleeProtection=0.80, ColdProtection=0, ExplosionProtection=0.50, RadiationProtection=0, BiteProtection=0.80
+Crafting: Workbench 1, 30.0s, 10.0 cloth, 50.0 metal.fragments
+Recycler Output: 5 cloth, 25 metal.fragments
+
+----------------------------------------
+
+## Road Sign Gloves (roadsign.gloves)
+
+Description: Gloves made out of metal, offer a good amount of protection to the upper body.
+Rarity: Common
+Protection: ProjectileProtection=0.10, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.60
+Crafting: Workbench 2, 30.0s, 20.0 leather, 1.0 roadsigns, 2.0 sewingkit
+Recycler Output: 10 leather, 1 sewingkit
+
+----------------------------------------
+
+## Road Sign Jacket (roadsign.jacket)
+
+Description: A shoddy piece of body armor made from roadsigns.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.20, MeleeProtection=0.25, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.60
+Crafting: Workbench 2, 30.0s, 20.0 leather, 2.0 roadsigns, 2.0 sewingkit
+Recycler Output: 10 leather, 1 roadsigns, 1 sewingkit
+
+----------------------------------------
+
+## Road Sign Kilt (roadsign.kilt)
+
+Description: A shoddy piece of leg armor made from roadsigns. Moderate protection from melee and projectiles.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.20, MeleeProtection=0.25, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.60
+Crafting: Workbench 2, 30.0s, 10.0 leather, 1.0 roadsigns, 2.0 sewingkit
+Recycler Output: 5 leather, 1 sewingkit
+
+----------------------------------------
+
+## Roadsign Horse Armor (horse.armor.roadsign)
+
+Description: A full body armor for a horse. Provides strong protection for you and your steed, at the cost of greatly reduced movement speed.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 4.0 roadsigns, 2.0 sewingkit
+Recycler Output: 2 roadsigns, 1 sewingkit
+
+----------------------------------------
+
+## Saddle bag (horse.saddlebag)
+
+Description: Equipping this saddle bag will add extra storage space on your horse
+Rarity: None
+Crafting: Workbench 1, 30.0s, 20.0 leather
+Recycler Output: 10 leather
+
+----------------------------------------
+
+## Santa Beard (santabeard)
+
+Description: A santa beard. Ho Ho ho. This item acts as a hairy bandana.
+Rarity: None
+Protection: ProjectileProtection=0.05, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 1.0s, 10.0 cloth
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Santa Hat (santahat)
+
+Description: A santa hat. Ho Ho ho.
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.40, ColdProtection=0, ExplosionProtection=0.40, RadiationProtection=0, BiteProtection=0.80
+
+----------------------------------------
+
+## Scarecrow Suit (scarecrow.suit)
+
+Description: A spooky scarecrow suit
+Rarity: Rare
+Protection: ProjectileProtection=0, MeleeProtection=0.10, ColdProtection=1, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.30
+
+----------------------------------------
+
+## Scarecrow Wrap (scarecrowhead)
+
+Description: A creepy burlap scarecrow hat
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.60, ColdProtection=0, ExplosionProtection=0.80, RadiationProtection=0, BiteProtection=0.60
+
+----------------------------------------
+
+## Scientist Suit (hazmatsuit_scientist_peacekeeper)
+
+Description: A hazmat suit made from radiation resistant rubber.
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Scientist Suit (hazmatsuit_scientist)
+
+Description: A hazmat suit made from radiation resistant rubber.
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Shirt (shirt.collared)
+
+Description: A smart casual shirt. Might make you look more trustworthy. Moderate clothing for protection against damage and the elements.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.15, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.30
+Crafting: Workbench 1, 30.0s, 25.0 cloth
+Recycler Output: 12 cloth
+
+----------------------------------------
+
+## Shorts (pants.shorts)
+
+Description: Trusty pair of shorts, may provide a breeze in undesired places. Worse than their full length counterparts with only basic protection from damage and the elements.
+Rarity: Common
+Protection: ProjectileProtection=0.10, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 30.0s, 30.0 cloth
+Recycler Output: 15 cloth
+
+----------------------------------------
+
+## Silly Horse Mask (silly.horse.mask)
+
+Description: A silly rubber horse mask to celebrate Lunar New Year 2026. Comes in three varieties.
+Rarity: None
+Protection: ProjectileProtection=0.20, MeleeProtection=0.25, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.40
+Crafting: Workbench 0, 30.0s, 10.0 cloth
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Single Horse Saddle (horse.saddle.single)
+
+Description: A horse saddle with one seat. Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option
+Rarity: None
+
+----------------------------------------
+
+## Small Backpack (smallbackpack)
+
+Description: A small, makeshift backpack
+Rarity: Uncommon
+Crafting: Workbench 1, 30.0s, 5.0 sewingkit, 50.0 cloth
+Recycler Output: 2 sewingkit, 25 cloth
+
+----------------------------------------
+
+## Snake mask (hat.snakemask)
+
+Description: A Beautifully crafted Snake mask to celebrate the 2025 Lunar New Year
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.60, ColdProtection=0, ExplosionProtection=0.80, RadiationProtection=0, BiteProtection=0.60
+Crafting: Workbench 0, 5.0s, 10.0 cloth, 1.0 skull.wolf
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Snow Jacket (jacket.snow)
+
+Description: A thick, high visibility Jacket. It will help keep you warm in any climate.
+Rarity: Common
+Protection: ProjectileProtection=0.20, MeleeProtection=0.30, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0.10, BiteProtection=0.30
+Crafting: Workbench 1, 30.0s, 60.0 cloth, 1.0 sewingkit
+Recycler Output: 30 cloth
+
+----------------------------------------
+
+## Snowman Helmet (attire.snowman.helmet)
+
+Description: A snowman helmet which provides ample protection.
+Rarity: None
+Protection: ProjectileProtection=0.20, MeleeProtection=0.25, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.40
+Crafting: Workbench 0, 30.0s, 10.0 cloth
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Space Suit (hazmatsuit.spacesuit)
+
+Description: A spacesuit built for harsh conditions.
+Rarity: Rare
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Sunglasses (sunglasses02camo)
+
+Description: A pair of sunglasses. Functional and stylish!
+Rarity: None
+
+----------------------------------------
+
+## Sunglasses (sunglasses03chrome)
+
+Description: A pair of sunglasses. Functional and stylish!
+Rarity: None
+
+----------------------------------------
+
+## Sunglasses (sunglasses03gold)
+
+Description: A pair of sunglasses. Functional and stylish!
+Rarity: None
+
+----------------------------------------
+
+## Sunglasses (sunglasses03black)
+
+Description: A pair of sunglasses. Functional and stylish!
+Rarity: None
+
+----------------------------------------
+
+## Sunglasses (sunglasses)
+
+Description: A pair of sunglasses. Functional and stylish!
+Rarity: Uncommon
+Crafting: Workbench 0, 15.0s, 30.0 metal.fragments
+Recycler Output: 15 metal.fragments
+
+----------------------------------------
+
+## Sunglasses (sunglasses02black)
+
+Description: A pair of sunglasses. Functional and stylish!
+Rarity: None
+
+----------------------------------------
+
+## Sunglasses (sunglasses02red)
+
+Description: A pair of sunglasses. Functional and stylish!
+Rarity: None
+
+----------------------------------------
+
+## Surgeon Scrubs (halloween.surgeonsuit)
+
+Description: A bloody surgeon outfit. Protects your entire body and provides good protection while giving off a creepy halloween vibe.
+Rarity: Rare
+Protection: ProjectileProtection=0.25, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+Crafting: Workbench 0, 1.0s, 60.0 cloth, 2.0 sewingkit
+Recycler Output: 30 cloth, 1 sewingkit
+
+----------------------------------------
+
+## T-Shirt (tshirt)
+
+Description: A tshirt, simple undergarment. Good protection from damage and the elements.
+Rarity: Common
+Protection: ProjectileProtection=0.15, MeleeProtection=0.15, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.30
+Crafting: Workbench 1, 30.0s, 25.0 cloth
+Recycler Output: 12 cloth
+
+----------------------------------------
+
+## Tactical Gloves (tactical.gloves)
+
+Description: Military issue tactical gloves provide protection as well as weapon stabilization leading to higher accuracy when used.
+Rarity: Common
+Protection: ProjectileProtection=0.10, MeleeProtection=0.05, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.10
+
+----------------------------------------
+
+## Tank Top (shirt.tanktop)
+
+Description: A tank top, comes with free stains. Basic protection, but better than nothing.
+Rarity: Common
+Protection: ProjectileProtection=0.10, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 15.0s, 20.0 cloth
+Recycler Output: 10 cloth
+
+----------------------------------------
+
+## Tiger Mask (hat.tigermask)
+
+Description: A special tiger mask to celebrate Chinese New Year
+Rarity: None
+Protection: ProjectileProtection=0.30, MeleeProtection=0.60, ColdProtection=0, ExplosionProtection=0.80, RadiationProtection=0, BiteProtection=0.60
+Crafting: Workbench 0, 5.0s, 10.0 cloth, 1.0 skull.wolf
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Twitch Rivals Flag (twitchrivalsflag)
+
+Description: A wearable flag for Twitch Rivals
+Rarity: Rare
+
+----------------------------------------
+
+## Twitch Rivals Hazmat Suit (hazmatsuittwitch)
+
+Description: A purple hazmat suit made from radiation resistant rubber.
+Rarity: Rare
+Protection: ProjectileProtection=0.30, MeleeProtection=0.30, ColdProtection=0.50, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.50
+
+----------------------------------------
+
+## Waterwell NPC Jumpsuit (jumpsuit.waterwellnpc)
+
+Description: A green jumpsuit and gasmask worn by the waterwell NPC
+Rarity: None
+Protection: ProjectileProtection=0.25, MeleeProtection=0.40, ColdProtection=0, ExplosionProtection=0.40, RadiationProtection=0, BiteProtection=0.80
+
+----------------------------------------
+
+## Wellipets Hat (hat.wellipets)
+
+Description: A hat made of wellipets boots
+Rarity: None
+Protection: ProjectileProtection=0.20, MeleeProtection=0.25, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.40
+Crafting: Workbench 0, 5.0s, 10.0 cloth
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Wetsuit (diving.wetsuit)
+
+Description: A Wetsuit providing protection from frigid waters.
+Rarity: Rare
+Protection: ProjectileProtection=0, MeleeProtection=0.10, ColdProtection=1, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.30
+
+----------------------------------------
+
+## Wolf Headdress (hat.wolf)
+
+Description: A headdress made out of the scraped out head of a wolf.
+Rarity: Rare
+Protection: ProjectileProtection=0.30, MeleeProtection=0.60, ColdProtection=0, ExplosionProtection=0.80, RadiationProtection=0, BiteProtection=0.60
+Crafting: Workbench 0, 30.0s, 10.0 cloth, 1.0 skull.wolf
+Recycler Output: 5 cloth
+
+----------------------------------------
+
+## Wood Armor Gloves (woodarmor.gloves)
+
+Description: Gloves made out of wood and leather, offers some protection to the upper body.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.07, MeleeProtection=0.10, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.30
+Crafting: Workbench 0, 30.0s, 100.0 wood, 15.0 cloth
+Recycler Output: 50 wood, 7 cloth
+
+----------------------------------------
+
+## Wood Armor Helmet (wood.armor.helmet)
+
+Description: A shoddy helmet made from simple materials, provides some basic protection from melee and ranged attacks.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.15, MeleeProtection=0.25, ColdProtection=0, ExplosionProtection=0, RadiationProtection=0, BiteProtection=0.20
+Crafting: Workbench 0, 20.0s, 15.0 cloth, 150.0 wood
+Recycler Output: 7 cloth, 75 wood
+
+----------------------------------------
+
+## Wood Armor Pants (wood.armor.pants)
+
+Description: A shoddy piece of leg armor made from simple materials, provides some basic protection from melee and ranged attacks.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.10, MeleeProtection=0.40, ColdProtection=0, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.30
+Crafting: Workbench 0, 20.0s, 15.0 cloth, 150.0 wood
+Recycler Output: 7 cloth, 75 wood
+
+----------------------------------------
+
+## Wood Chestplate (wood.armor.jacket)
+
+Description: A shoddy piece of body armor made from simple materials, provides some basic protection from melee and ranged attacks.
+Rarity: Uncommon
+Protection: ProjectileProtection=0.10, MeleeProtection=0.40, ColdProtection=0, ExplosionProtection=0.30, RadiationProtection=0, BiteProtection=0.30
+Crafting: Workbench 0, 30.0s, 20.0 cloth, 250.0 wood
+Recycler Output: 10 cloth, 125 wood
+
+----------------------------------------
+
+## Wooden Horse Armor (horse.armor.wood)
+
+Description: A full body armor for a horse made of wood. Provides moderate protection for you and your steed, but with a reduction in movement speed.
+Rarity: None
+Crafting: Workbench 1, 30.0s, 2.0 rope, 300.0 wood
+Recycler Output: 1 rope, 150 wood
+
+----------------------------------------
+
+## Wooden Shield (wooden.shield)
+
+Description: A basic wooden shield, won't last very long. Usable with single handed weapons and tools.
+Rarity: Rare
+Crafting: Workbench 0, 15.0s, 250.0 wood, 20.0 cloth
+Recycler Output: 125 wood, 10 cloth
+
+----------------------------------------

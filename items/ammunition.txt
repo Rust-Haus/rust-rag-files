@@ -1,0 +1,477 @@
+RUST ITEMS: AMMUNITION
+Total items in this category: 43
+
+============================================================
+
+## 12 Gauge Buckshot (ammo.shotgun)
+
+Description: Ammunition for a Shotgun.
+Rarity: Uncommon
+Stack Size: 64
+Ammo Stats: projectileSpread=12, projectileVelocity=225, projectileVelocitySpread=20, TotalDamage=15, DamageBreakdown={'Bullet': 15.0}
+Crafting: Workbench 2, 3.0s, 5.0 metal.fragments, 10.0 gunpowder
+Recycler Output: 2 metal.fragments, 5 gunpowder
+
+----------------------------------------
+
+## 12 Gauge Incendiary Shell (ammo.shotgun.fire)
+
+Description: Incendiary Shotgun Ammunition
+Rarity: Uncommon
+Stack Size: 64
+Ammo Stats: projectileSpread=12, projectileVelocity=100, projectileVelocitySpread=40, TotalDamage=15, DamageBreakdown={'Bullet': 10.0, 'Heat': 5.0}
+Crafting: Workbench 2, 3.0s, 5.0 metal.fragments, 10.0 gunpowder, 20.0 sulfur
+Recycler Output: 2 metal.fragments, 5 gunpowder, 10 sulfur
+
+----------------------------------------
+
+## 12 Gauge Slug (ammo.shotgun.slug)
+
+Description: Single large projectile for a Shotgun.
+Rarity: Uncommon
+Stack Size: 32
+Ammo Stats: projectileVelocity=225, TotalDamage=80, DamageBreakdown={'Bullet': 80.0}
+Crafting: Workbench 2, 3.0s, 5.0 metal.fragments, 10.0 gunpowder
+Recycler Output: 2 metal.fragments, 5 gunpowder
+
+----------------------------------------
+
+## 40mm HE Grenade (ammo.grenadelauncher.he)
+
+Description: Ammunition for a 40mm Grenade Launcher.
+Rarity: None
+Stack Size: 12
+Ammo Stats: projectileVelocity=100
+Explosive Stats: FuseLength=8, FuseLengthMax=10, ExplosionRadius=4, TotalDamage=90, DamageBreakdown={'Explosion': 35.0, 'Blunt': 55.0}
+
+----------------------------------------
+
+## 40mm Shotgun Round (ammo.grenadelauncher.buckshot)
+
+Description: Ammunition for a 40mm Grenade Launcher.
+Rarity: None
+Stack Size: 24
+Ammo Stats: projectileSpread=15, projectileVelocity=225, projectileVelocitySpread=20, TotalDamage=15, DamageBreakdown={'Bullet': 15.0}
+
+----------------------------------------
+
+## 40mm Smoke Grenade (ammo.grenadelauncher.smoke)
+
+Description: Ammunition for a 40mm Grenade Launcher.
+Rarity: None
+Stack Size: 12
+Ammo Stats: projectileVelocity=100
+Explosive Stats: FuseLength=3, FuseLengthMax=3, ExplosionRadius=4.50
+
+----------------------------------------
+
+## 5.56 Rifle Ammo (ammo.rifle)
+
+Description: Ammunition for a Rifle. Loses velocity when fired over long distances resulting in slightly decreased damage.
+Rarity: Rare
+Stack Size: 128
+Ammo Stats: projectileVelocity=375, TotalDamage=50, DamageBreakdown={'Bullet': 50.0}
+Crafting: Workbench 2, 3.0s, 10.0 metal.fragments, 5.0 gunpowder
+Recycler Output: 5 metal.fragments, 2 gunpowder
+
+----------------------------------------
+
+## Bee Catapult Bomb (catapult.ammo.bee)
+
+Description: A bunch of Bee Grenades in a single catapult projectile. Creates swarms of Bees on impact.
+Rarity: Uncommon
+Stack Size: 4
+Ammo Stats: projectileVelocity=100
+Explosive Stats: FuseLength=20, FuseLengthMax=20, ExplosionRadius=3, TotalDamage=20, DamageBreakdown={'Blunt': 20.0}
+Crafting: Workbench 2, 10.0s, 2.0 grenade.bee, 200.0 wood
+Recycler Output: 1 grenade.bee, 100 wood
+
+----------------------------------------
+
+## Bone Arrow (arrow.bone)
+
+Description: An Arrow equipped with a large bone arrowhead making it very easy to hit targets at the expense of damage
+Rarity: None
+Stack Size: 64
+Ammo Stats: projectileVelocity=45, TotalDamage=40, DamageBreakdown={'Arrow': 40.0}
+Crafting: Workbench 0, 3.0s, 25.0 wood, 10.0 bone.fragments
+Recycler Output: 12 wood, 5 bone.fragments
+
+----------------------------------------
+
+## Cannonball (cannonball)
+
+Description: Round solid ammo for the cannon
+Rarity: Uncommon
+Stack Size: 6
+Ammo Stats: projectileVelocity=100
+Explosive Stats: FuseLength=8, FuseLengthMax=10, ExplosionRadius=3, TotalDamage=300, DamageBreakdown={'AntiVehicle': 50.0, 'Bullet': 100.0, 'Blunt': 100.0, 'Cannon': 50.0}
+Crafting: Workbench 1, 15.0s, 50.0 metal.fragments, 15.0 gunpowder
+Recycler Output: 25 metal.fragments, 7 gunpowder
+
+----------------------------------------
+
+## Explosive 5.56 Rifle Ammo (ammo.rifle.explosive)
+
+Description: This ammo explodes on contact dealing a small amount of fragmentation damage to nearby objects.
+Rarity: Rare
+Stack Size: 128
+Ammo Stats: projectileSpread=0.50, projectileVelocity=225, barrelConditionLoss=0.50, TotalDamage=50.01, DamageBreakdown={'Bullet': 50.0, 'Explosion': 0.01}
+Crafting: Workbench 3, 3.0s, 10.0 metal.fragments, 20.0 gunpowder, 10.0 sulfur
+Recycler Output: 5 metal.fragments, 10 gunpowder, 5 sulfur
+
+----------------------------------------
+
+## Fire Arrow (arrow.fire)
+
+Description: A fuel soaked arrow, ignite it by aiming.
+Rarity: Common
+Stack Size: 64
+Ammo Stats: projectileVelocity=40, TotalDamage=40, DamageBreakdown={'Arrow': 40.0}
+Crafting: Workbench 1, 3.0s, 20.0 wood, 2.0 cloth, 10.0 lowgradefuel
+Recycler Output: 10 wood, 1 cloth, 5 lowgradefuel
+
+----------------------------------------
+
+## Firebomb (catapult.ammo.incendiary)
+
+Description: A crude firebomb made of fuel-filled jugs wrapped in a net. Can be placed or used as a projectile in a catapult.
+Rarity: Uncommon
+Stack Size: 4
+Ammo Stats: projectileVelocity=40
+Explosive Stats: FuseLength=100, FuseLengthMax=100, ExplosionRadius=6, TotalDamage=50, DamageBreakdown={'Heat': 50.0}
+Crafting: Workbench 2, 10.0s, 150.0 gunpowder, 50.0 lowgradefuel, 2.0 rope
+Recycler Output: 75 gunpowder, 25 lowgradefuel, 1 rope
+
+----------------------------------------
+
+## Hammerhead Bolt (ballista.bolt.hammerhead)
+
+Description: Heavy and solid bolt for a ballista, designed to hammer through doors.
+Rarity: Uncommon
+Stack Size: 3
+Ammo Stats: projectileVelocity=80, TotalDamage=65, DamageBreakdown={'Arrow': 50.0, 'AntiVehicle': 15.0}
+Crafting: Workbench 2, 10.0s, 5.0 metal.refined, 75.0 metal.fragments
+Recycler Output: 2 metal.refined, 37 metal.fragments
+
+----------------------------------------
+
+## Handmade Shell (ammo.handmade.shell)
+
+Description: Shoddy ammo with multiple projectiles.
+Rarity: None
+Stack Size: 64
+Ammo Stats: projectileSpread=12, projectileVelocity=100, projectileVelocitySpread=20, TotalDamage=9, DamageBreakdown={'Bullet': 9.0}
+Crafting: Workbench 0, 3.0s, 5.0 stones, 5.0 gunpowder
+Recycler Output: 2 stones, 2 gunpowder
+
+----------------------------------------
+
+## High Velocity Arrow (arrow.hv)
+
+Description: Lighter, faster arrow that deals less damage.
+Rarity: Common
+Stack Size: 64
+Ammo Stats: projectileVelocity=80, TotalDamage=40, DamageBreakdown={'Arrow': 40.0}
+Crafting: Workbench 1, 3.0s, 20.0 wood, 5.0 metal.fragments
+Recycler Output: 10 wood, 2 metal.fragments
+
+----------------------------------------
+
+## High Velocity Rocket (ammo.rocket.hv)
+
+Description: Fast moving rocket ammunition. Short to medium range self-propelled, unguided rocket which deals large splash damage on impact but less damage than a normal rocket.
+Rarity: Rare
+Stack Size: 3
+Ammo Stats: projectileVelocity=100
+Explosive Stats: FuseLength=8, FuseLengthMax=10, ExplosionRadius=3.50, TotalDamage=480, DamageBreakdown={'Explosion': 30.0, 'Bullet': 150.0, 'AntiVehicle': 300.0}
+Crafting: Workbench 2, 10.0s, 1.0 metalpipe, 100.0 gunpowder
+Recycler Output: 50 gunpowder
+
+----------------------------------------
+
+## Homing Missile (ammo.rocket.seeker)
+
+Description: Fast moving rocket ammunition. Uses a type of radar for active target guidance from a Homing Launcher
+Rarity: Rare
+Stack Size: 4
+Ammo Stats: projectileVelocity=100
+Explosive Stats: FuseLength=12, FuseLengthMax=12, ExplosionRadius=3.50, TotalDamage=530, DamageBreakdown={'Explosion': 10.0, 'Bullet': 20.0, 'AntiVehicle': 500.0}
+Crafting: Workbench 2, 10.0s, 2.0 metalpipe, 100.0 gunpowder, 1.0 techparts
+Recycler Output: 1 metalpipe, 50 gunpowder
+
+----------------------------------------
+
+## HV 5.56 Rifle Ammo (ammo.rifle.hv)
+
+Description: This ammunition travels faster, resulting in less drop and slightly higher damage when fired over long distances.
+Rarity: Rare
+Stack Size: 128
+Ammo Stats: projectileVelocity=450, TotalDamage=50, DamageBreakdown={'Bullet': 50.0}
+Crafting: Workbench 3, 3.0s, 10.0 metal.fragments, 10.0 gunpowder
+Recycler Output: 5 metal.fragments, 5 gunpowder
+
+----------------------------------------
+
+## HV Pistol Ammo (ammo.pistol.hv)
+
+Description: This ammunition travels faster, resulting in less drop and slightly higher damage when fired over long distances.
+Rarity: Rare
+Stack Size: 128
+Ammo Stats: projectileVelocity=400, TotalDamage=50, DamageBreakdown={'Bullet': 50.0}
+Crafting: Workbench 2, 3.0s, 10.0 metal.fragments, 10.0 gunpowder
+Recycler Output: 5 metal.fragments, 5 gunpowder
+
+----------------------------------------
+
+## Incapacitate Dart (dart.incapacitate)
+
+Description: A dart that slows your target and blocks their vision briefly.
+Rarity: Uncommon
+Stack Size: 64
+Ammo Stats: projectileVelocity=55, TotalDamage=15, DamageBreakdown={'Arrow': 15.0}
+Crafting: Workbench 1, 3.0s, 5.0 wood, 1.0 venom.snake
+Recycler Output: 2 wood
+
+----------------------------------------
+
+## Incendiary 5.56 Rifle Ammo (ammo.rifle.incendiary)
+
+Description: Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.
+Rarity: Rare
+Stack Size: 128
+Ammo Stats: projectileVelocity=225, TotalDamage=56, DamageBreakdown={'Bullet': 50.0, 'Heat': 6.0}
+Crafting: Workbench 3, 3.0s, 10.0 metal.fragments, 10.0 gunpowder, 5.0 sulfur
+Recycler Output: 5 metal.fragments, 5 gunpowder, 2 sulfur
+
+----------------------------------------
+
+## Incendiary Bolt (ballista.bolt.incendiary)
+
+Description: A fire-tipped bolt for a ballista, wrapped in burning cloth, ignites upon impact.
+Rarity: Uncommon
+Stack Size: 3
+Ammo Stats: projectileVelocity=100, TotalDamage=90, DamageBreakdown={'Arrow': 75.0, 'AntiVehicle': 15.0}
+Crafting: Workbench 2, 10.0s, 50.0 metal.fragments, 10.0 cloth, 10.0 lowgradefuel
+Recycler Output: 25 metal.fragments, 5 cloth, 5 lowgradefuel
+
+----------------------------------------
+
+## Incendiary Pistol Bullet (ammo.pistol.fire)
+
+Description: Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.
+Rarity: Rare
+Stack Size: 128
+Ammo Stats: projectileVelocity=225, TotalDamage=56, DamageBreakdown={'Bullet': 50.0, 'Heat': 6.0}
+Crafting: Workbench 2, 3.0s, 10.0 metal.fragments, 10.0 gunpowder, 5.0 sulfur
+Recycler Output: 5 metal.fragments, 5 gunpowder, 2 sulfur
+
+----------------------------------------
+
+## Incendiary Rocket (ammo.rocket.fire)
+
+Description: Creates flames upon impact.
+Rarity: Rare
+Stack Size: 3
+Ammo Stats: projectileVelocity=80
+Explosive Stats: FuseLength=8, FuseLengthMax=10, ExplosionRadius=5, TotalDamage=50, DamageBreakdown={'Heat': 50.0}
+Crafting: Workbench 2, 10.0s, 2.0 metalpipe, 150.0 gunpowder, 75.0 lowgradefuel
+Recycler Output: 1 metalpipe, 75 gunpowder, 37 lowgradefuel
+
+----------------------------------------
+
+## MLRS Rocket (ammo.rocket.mlrs)
+
+Description: A rocket intended for use in an MLRS (Multiple Launch Rocket System).
+Rarity: Rare
+Stack Size: 6
+Ammo Stats: projectileVelocity=1
+Explosive Stats: FuseLength=60, FuseLengthMax=70, ExplosionRadius=15, TotalDamage=500, DamageBreakdown={'Explosion': 350.0, 'Blunt': 75.0, 'AntiVehicle': 75.0}
+
+----------------------------------------
+
+## Nailgun Nails (ammo.nailgun.nails)
+
+Description: Standard nailgun ammunition
+Rarity: None
+Stack Size: 64
+Ammo Stats: projectileVelocity=50, TotalDamage=18, DamageBreakdown={'Arrow': 18.0}
+Crafting: Workbench 0, 2.0s, 8.0 metal.fragments
+Recycler Output: 4 metal.fragments
+
+----------------------------------------
+
+## Paintball (ammo.paintball)
+
+Description: Ammo for a paintball gun.
+Rarity: None
+Stack Size: 128
+Ammo Stats: projectileVelocity=90, TotalDamage=0.20, DamageBreakdown={'Paintball': 0.2}
+Crafting: Workbench 0, 3.0s, 10.0 cloth, 2.0 yellow.berry
+Recycler Output: 5 cloth, 1 yellow.berry
+
+----------------------------------------
+
+## Piercer Bolt (ballista.bolt.piercer)
+
+Description: A piercing bolt for a ballista, capable of penetrating armored vehicles.
+Rarity: Uncommon
+Stack Size: 3
+Ammo Stats: projectileVelocity=100, TotalDamage=140, DamageBreakdown={'Arrow': 80.0, 'AntiVehicle': 60.0}
+Crafting: Workbench 2, 10.0s, 5.0 metal.refined, 75.0 metal.fragments
+Recycler Output: 2 metal.refined, 37 metal.fragments
+
+----------------------------------------
+
+## Pistol Bullet (ammo.pistol)
+
+Description: Ammunition for a Pistol. Loses velocity when fired over long distances resulting in slightly decreased damage.
+Rarity: Uncommon
+Stack Size: 128
+Ammo Stats: projectileVelocity=300, TotalDamage=50, DamageBreakdown={'Bullet': 50.0}
+Crafting: Workbench 1, 3.0s, 10.0 metal.fragments, 5.0 gunpowder
+Recycler Output: 5 metal.fragments, 2 gunpowder
+
+----------------------------------------
+
+## Pitchfork Bolt (ballista.bolt.pitchfork)
+
+Description: A wide-impact bolt for a ballista, covering a large area while dealing moderate damage.
+Rarity: Uncommon
+Stack Size: 3
+Ammo Stats: projectileVelocity=100, TotalDamage=130, DamageBreakdown={'Arrow': 120.0, 'AntiVehicle': 10.0}
+Crafting: Workbench 2, 10.0s, 100.0 wood, 50.0 metal.fragments
+Recycler Output: 50 wood, 25 metal.fragments
+
+----------------------------------------
+
+## Propane Explosive Bomb (catapult.ammo.explosive)
+
+Description: An explosive propane-filled keg, devastating to structures. Can be placed or used as a projectile in a catapult.
+Rarity: Uncommon
+Stack Size: 4
+Ammo Stats: projectileVelocity=40
+Explosive Stats: FuseLength=8, FuseLengthMax=10, ExplosionRadius=5.20, TotalDamage=350, DamageBreakdown={'Explosion': 275.0, 'Blunt': 75.0}
+Crafting: Workbench 2, 10.0s, 1.0 propanetank, 450.0 gunpowder, 20.0 lowgradefuel
+Recycler Output: 225 gunpowder, 10 lowgradefuel
+
+----------------------------------------
+
+## Radiation Dart (dart.radiation)
+
+Description: A dart that applies stackable radiation.
+Rarity: Uncommon
+Stack Size: 64
+Ammo Stats: projectileVelocity=55, TotalDamage=20, DamageBreakdown={'Arrow': 20.0}
+Crafting: Workbench 1, 3.0s, 25.0 wood, 5.0 metal.fragments
+Recycler Output: 12 wood, 2 metal.fragments
+
+----------------------------------------
+
+## Rocket (ammo.rocket.basic)
+
+Description: Ammunition for a Rocket Launcher. A short to medium range self-propelled, unguided rocket which deals large splash damage on impact.
+Rarity: Rare
+Stack Size: 3
+Ammo Stats: projectileVelocity=100
+Explosive Stats: FuseLength=8, FuseLengthMax=10, ExplosionRadius=3.80, TotalDamage=350, DamageBreakdown={'Explosion': 275.0, 'Blunt': 75.0}
+Crafting: Workbench 3, 10.0s, 2.0 metalpipe, 150.0 gunpowder, 10.0 explosives
+Recycler Output: 1 metalpipe, 75 gunpowder, 5 explosives
+
+----------------------------------------
+
+## SAM Ammo (ammo.rocket.sam)
+
+Description: Ammunition for a SAM Site. This missile contains a rudimentary guidance system to help it navigate through strong winds.
+Rarity: Uncommon
+Stack Size: 1000
+Crafting: Workbench 2, 10.0s, 1.0 metalpipe, 30.0 gunpowder
+Recycler Output: 15 gunpowder
+
+----------------------------------------
+
+## Scatter Dart (dart.scatter)
+
+Description: A spread shot dart that fires multiple smaller darts.
+Rarity: Uncommon
+Stack Size: 64
+Ammo Stats: projectileSpread=8, projectileVelocity=55, projectileVelocitySpread=10, TotalDamage=5, DamageBreakdown={'Arrow': 5.0}
+Crafting: Workbench 1, 3.0s, 25.0 wood, 10.0 stones
+Recycler Output: 12 wood, 5 stones
+
+----------------------------------------
+
+## Scattershot (catapult.ammo.boulder)
+
+Description: A cluster of heavy rock projectiles for a catapult. Wide spread, pure kinetic damage on impact.
+Rarity: Uncommon
+Stack Size: 4
+Ammo Stats: projectileVelocity=100
+Explosive Stats: FuseLength=20, FuseLengthMax=20, ExplosionRadius=3, TotalDamage=130, DamageBreakdown={'Blunt': 80.0, 'AntiVehicle': 50.0}
+Crafting: Workbench 2, 10.0s, 200.0 stones
+Recycler Output: 100 stones
+
+----------------------------------------
+
+## Smoke Rocket WIP!!!! (ammo.rocket.smoke)
+
+Description: Emits thick, visibility blocking smoke upon impact.
+Rarity: None
+Stack Size: 3
+Ammo Stats: projectileVelocity=100
+Explosive Stats: FuseLength=8, FuseLengthMax=10, ExplosionRadius=5, TotalDamage=5, DamageBreakdown={'Poison': 5.0}
+
+----------------------------------------
+
+## Snowball Gun Ammo (ammo.snowballgun)
+
+Rarity: None
+Stack Size: 128
+Ammo Stats: projectileVelocity=50, TotalDamage=8, DamageBreakdown={'Blunt': 8.0}
+
+----------------------------------------
+
+## Speargun Spear (speargun.spear)
+
+Description: Ammunition for a speargun.
+Rarity: Common
+Stack Size: 64
+Ammo Stats: projectileVelocity=25, TotalDamage=50, DamageBreakdown={'Arrow': 50.0}
+Crafting: Workbench 1, 3.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Torpedo (submarine.torpedo.straight)
+
+Description: A torpedo for use in a submarine. Fires ahead in a straight line.
+Rarity: Uncommon
+Stack Size: 100
+Ammo Stats: projectileVelocity=20
+Explosive Stats: FuseLength=15, FuseLengthMax=20, ExplosionRadius=5, TotalDamage=430, DamageBreakdown={'Explosion': 10.0, 'AntiVehicle': 300.0, 'Bullet': 120.0}
+Crafting: Workbench 2, 10.0s, 1.0 metalpipe, 30.0 gunpowder
+Recycler Output: 15 gunpowder
+
+----------------------------------------
+
+## Wood Dart (dart.wood)
+
+Description: A basic damage dart.
+Rarity: Uncommon
+Stack Size: 64
+Ammo Stats: projectileVelocity=75, TotalDamage=40, DamageBreakdown={'Arrow': 40.0}
+Crafting: Workbench 1, 3.0s, 25.0 wood
+Recycler Output: 12 wood
+
+----------------------------------------
+
+## Wooden Arrow (arrow.wooden)
+
+Description: An arrow for a Hunting Bow and Crossbow.
+Rarity: None
+Stack Size: 64
+Ammo Stats: projectileVelocity=50, TotalDamage=50, DamageBreakdown={'Arrow': 50.0}
+Crafting: Workbench 0, 3.0s, 25.0 wood, 10.0 stones
+Recycler Output: 12 wood, 5 stones
+
+----------------------------------------

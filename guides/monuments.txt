@@ -1,0 +1,31 @@
+RUST MONUMENTS GUIDE
+====================
+Monuments are points of interest with loot and puzzles.
+
+## EASY MONUMENTS (No cards needed)
+- Supermarket: Food, components
+- Gas Station: Fuel, components
+- Mining Outpost: Recycler, refinery
+- Fishing Village: Boats, fishing gear
+- Lighthouse: Basic loot
+- Oxum's Gas Station: Recycler access
+
+## MEDIUM MONUMENTS (Green/Blue card)
+- Harbor: Green card puzzle
+- Sewer Branch: Green card puzzle
+- Satellite Dish: Green card puzzle
+- Water Treatment: Blue card puzzle
+- Airfield: Blue card puzzle
+- Trainyard: Blue card puzzle
+
+## HARD MONUMENTS (Red card)
+- Launch Site: Red card puzzle, Bradley APC
+- Military Tunnels: Red card, elite crates
+- Oil Rig (Small/Large): Blue card puzzle areas
+- Underwater Labs: Some sections require keycards
+
+## SAFE ZONES
+- Outpost: No PvP, vending machines, recycler
+- Bandit Camp: No PvP, gambling, recycler
+
+For more details: https://www.corrosionhour.com/rust-monuments-guide/

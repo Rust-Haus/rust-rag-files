@@ -1,0 +1,504 @@
+RUST ITEMS: COMPONENT
+Total items in this category: 56
+
+============================================================
+
+## Advanced Blueprint Fragment (advancedblueprintfragment)
+
+Description: Precision schematics with complex information, multiple fragments are necessary for crafting a Tier 3 Workbench.
+Rarity: None
+Stack Size: 100
+
+----------------------------------------
+
+## Armored Cockpit Vehicle Module (vehicle.1mod.cockpit.armored)
+
+Description: Single module armored cockpit for a driver and one passenger.
+Rarity: Rare
+Crafting: Workbench 3, 30.0s, 150.0 metal.fragments, 5.0 metal.refined
+Recycler Output: 75 metal.fragments, 2 metal.refined
+
+----------------------------------------
+
+## Armored Passenger Vehicle Module (vehicle.1mod.passengers.armored)
+
+Description: Single module armored seating for two passengers.
+Rarity: Rare
+Crafting: Workbench 3, 30.0s, 150.0 metal.fragments, 5.0 metal.refined
+Recycler Output: 75 metal.fragments, 2 metal.refined
+
+----------------------------------------
+
+## Basic Blueprint Fragment (basicblueprintfragment)
+
+Description: Damaged diagrams containing partial information to constuct a Tier 2 Workbench for advanced crafting. Several fragments are needed.
+
+20 Basic Fragments can be pieced together to make an Advanced Fragment.
+Rarity: None
+Stack Size: 100
+
+----------------------------------------
+
+## Bleach (bleach)
+
+Description: A powerful oxidizing agent. Can be used as a disinfectant.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Burst Module (weapon.mod.burstmodule)
+
+Description: A weapon attachment that modifies recoil and rate of fire. Allows weapon to fire in 3 round bursts when turned on. Use [+firemode] to toggle on or off.
+Rarity: Rare
+
+----------------------------------------
+
+## Camper Vehicle Module (vehicle.2mod.camper)
+
+Description: Dual module camper that allows up to 4 players to respawn. Also includes a barbecue, a locker and a small box for item storage.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 175.0 metal.fragments, 125.0 wood
+Recycler Output: 87 metal.fragments, 62 wood
+
+----------------------------------------
+
+## Cockpit Vehicle Module (vehicle.1mod.cockpit)
+
+Description: Single module cockpit for a driver and one passenger.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 150.0 metal.fragments, 100.0 wood
+Recycler Output: 75 metal.fragments, 50 wood
+
+----------------------------------------
+
+## Cockpit With Engine Vehicle Module (vehicle.1mod.cockpit.with.engine)
+
+Description: Single module cockpit for a driver and one passenger, with a small engine.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 150.0 metal.fragments, 5.0 metal.refined, 100.0 wood
+Recycler Output: 75 metal.fragments, 2 metal.refined, 50 wood
+
+----------------------------------------
+
+## Duct Tape (ducttape)
+
+Description: A versatile adhesive tape reinforced with cloth.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Electric Fuse (fuse)
+
+Description: An unreliable electric fuse. Will allow electrical passthrough for a period of time.
+Rarity: Rare
+Stack Size: 10
+
+----------------------------------------
+
+## Empty Propane Tank (propanetank)
+
+Description: Strong metal object.
+Rarity: Uncommon
+Stack Size: 20
+Crafting: Workbench 2, 1.0s, 100.0 metal.fragments, 10.0 scrap
+Recycler Output: 50 metal.fragments, 5 scrap
+
+----------------------------------------
+
+## Engine Vehicle Module (vehicle.1mod.engine)
+
+Description: Single module large engine.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 100.0 metal.fragments, 3.0 metal.refined
+Recycler Output: 50 metal.fragments, 1 metal.refined
+
+----------------------------------------
+
+## Flatbed Vehicle Module (vehicle.1mod.flatbed)
+
+Description: Single module flatbed.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 100.0 metal.fragments, 100.0 wood
+Recycler Output: 50 metal.fragments, 50 wood
+
+----------------------------------------
+
+## Fuel Tank Vehicle Module (vehicle.2mod.fuel.tank)
+
+Description: Dual module large fuel tank.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 175.0 metal.fragments, 100.0 wood
+Recycler Output: 87 metal.fragments, 50 wood
+
+----------------------------------------
+
+## Gears (gears)
+
+Description: A selection of gears. Some functional, some not.
+Rarity: Rare
+Stack Size: 20
+Crafting: Workbench 3, 1.0s, 25.0 metal.fragments, 100.0 scrap
+Recycler Output: 12 metal.fragments, 50 scrap
+
+----------------------------------------
+
+## Generic vehicle chassis (vehicle.chassis)
+
+Description: Generic vehicle chassis
+Rarity: None
+
+----------------------------------------
+
+## Generic vehicle module (vehicle.module)
+
+Description: Generic vehicle module
+Rarity: Rare
+
+----------------------------------------
+
+## Glue (glue)
+
+Description: A strong adhesive.
+Rarity: Uncommon
+Stack Size: 10
+
+----------------------------------------
+
+## High Quality Carburetor (carburetor3)
+
+Description: A high quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 3, 10.0s, 170.0 metal.fragments
+Recycler Output: 85 metal.fragments
+
+----------------------------------------
+
+## High Quality Crankshaft (crankshaft3)
+
+Description: A high quality crankshaft for a combustion engine. Converts piston movement into rotational motion.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 3, 10.0s, 120.0 metal.fragments
+Recycler Output: 60 metal.fragments
+
+----------------------------------------
+
+## High Quality Pistons (piston3)
+
+Description: High quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 3, 10.0s, 120.0 metal.fragments
+Recycler Output: 60 metal.fragments
+
+----------------------------------------
+
+## High Quality Spark Plugs (sparkplug3)
+
+Description: High quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.
+Rarity: Common
+Stack Size: 20
+Crafting: Workbench 3, 10.0s, 120.0 metal.fragments
+Recycler Output: 60 metal.fragments
+
+----------------------------------------
+
+## High Quality Valves (valve3)
+
+Description: High quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.
+Rarity: Common
+Stack Size: 15
+Crafting: Workbench 3, 10.0s, 120.0 metal.fragments
+Recycler Output: 60 metal.fragments
+
+----------------------------------------
+
+## Large Chassis (vehicle.chassis.4mod)
+
+Description: Four-socket vehicle chassis.
+Rarity: None
+
+----------------------------------------
+
+## Large Flatbed Vehicle Module (vehicle.2mod.flatbed)
+
+Description: Dual module large flatbed.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 150.0 metal.fragments, 150.0 wood
+Recycler Output: 75 metal.fragments, 75 wood
+
+----------------------------------------
+
+## Low Quality Carburetor (carburetor1)
+
+Description: A low quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 10.0s, 40.0 metal.fragments
+Recycler Output: 20 metal.fragments
+
+----------------------------------------
+
+## Low Quality Crankshaft (crankshaft1)
+
+Description: A low quality crankshaft for a combustion engine. Converts piston movement into rotational motion.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 1, 10.0s, 25.0 metal.fragments
+Recycler Output: 12 metal.fragments
+
+----------------------------------------
+
+## Low Quality Pistons (piston1)
+
+Description: Low quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 1, 10.0s, 25.0 metal.fragments
+Recycler Output: 12 metal.fragments
+
+----------------------------------------
+
+## Low Quality Spark Plugs (sparkplug1)
+
+Description: Low quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.
+Rarity: Common
+Stack Size: 20
+Crafting: Workbench 1, 10.0s, 25.0 metal.fragments
+Recycler Output: 12 metal.fragments
+
+----------------------------------------
+
+## Low Quality Valves (valve1)
+
+Description: Low quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.
+Rarity: Common
+Stack Size: 15
+Crafting: Workbench 1, 10.0s, 25.0 metal.fragments
+Recycler Output: 12 metal.fragments
+
+----------------------------------------
+
+## Medium Chassis (vehicle.chassis.3mod)
+
+Description: Three-socket vehicle chassis.
+Rarity: None
+
+----------------------------------------
+
+## Medium Quality Carburetor (carburetor2)
+
+Description: A medium quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 2, 10.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Medium Quality Crankshaft (crankshaft2)
+
+Description: A medium quality crankshaft for a combustion engine. Converts piston movement into rotational motion.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 2, 10.0s, 70.0 metal.fragments
+Recycler Output: 35 metal.fragments
+
+----------------------------------------
+
+## Medium Quality Pistons (piston2)
+
+Description: Medium quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 2, 10.0s, 70.0 metal.fragments
+Recycler Output: 35 metal.fragments
+
+----------------------------------------
+
+## Medium Quality Spark Plugs (sparkplug2)
+
+Description: Medium quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.
+Rarity: Common
+Stack Size: 20
+Crafting: Workbench 2, 10.0s, 70.0 metal.fragments
+Recycler Output: 35 metal.fragments
+
+----------------------------------------
+
+## Medium Quality Valves (valve2)
+
+Description: Medium quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.
+Rarity: Common
+Stack Size: 15
+Crafting: Workbench 2, 10.0s, 70.0 metal.fragments
+Recycler Output: 35 metal.fragments
+
+----------------------------------------
+
+## Metal Blade (metalblade)
+
+Description: A Metal Blade for making melee weapons.
+Rarity: Uncommon
+Stack Size: 20
+Crafting: Workbench 2, 1.0s, 30.0 metal.fragments, 10.0 scrap
+Recycler Output: 15 metal.fragments, 5 scrap
+
+----------------------------------------
+
+## Metal Pipe (metalpipe)
+
+Description: Metal Pipe.
+Rarity: Rare
+Stack Size: 20
+Crafting: Workbench 3, 1.0s, 2.0 metal.refined, 20.0 scrap
+Recycler Output: 1 metal.refined, 10 scrap
+
+----------------------------------------
+
+## Metal Spring (metalspring)
+
+Description: A metal spring. Used to provide motion or resistance in objects.
+Rarity: Rare
+Stack Size: 20
+Crafting: Workbench 3, 1.0s, 2.0 metal.refined, 50.0 scrap
+Recycler Output: 1 metal.refined, 25 scrap
+
+----------------------------------------
+
+## MLRS Aiming Module (aiming.module.mlrs)
+
+Description: An aiming system computer module for an MLRS vehicle.
+Rarity: None
+
+----------------------------------------
+
+## Passenger Vehicle Module (vehicle.2mod.passengers)
+
+Description: Dual module seating.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 175.0 metal.fragments, 125.0 wood
+Recycler Output: 87 metal.fragments, 62 wood
+
+----------------------------------------
+
+## Rear Seats Vehicle Module (vehicle.1mod.rear.seats)
+
+Description: Single module seating for two passengers.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 150.0 metal.fragments, 100.0 wood
+Recycler Output: 75 metal.fragments, 50 wood
+
+----------------------------------------
+
+## Rifle Body (riflebody)
+
+Description: The firing mechanism of a rifle. Used in construction of a weapon that can fire 5.56 ammo fully automatic.
+Rarity: VeryRare
+Stack Size: 10
+
+----------------------------------------
+
+## Road Signs (roadsigns)
+
+Description: Some road signs made of metal.
+Rarity: Uncommon
+Stack Size: 20
+Crafting: Workbench 3, 1.0s, 2.0 metal.refined, 20.0 scrap
+Recycler Output: 1 metal.refined, 10 scrap
+
+----------------------------------------
+
+## Rope (rope)
+
+Description: A Length of Rope.
+Rarity: Uncommon
+Stack Size: 50
+
+----------------------------------------
+
+## Semi Automatic Body (semibody)
+
+Description: The firing mechanism of a semi automatic weapon.
+Rarity: Rare
+Stack Size: 10
+
+----------------------------------------
+
+## Sewing Kit (sewingkit)
+
+Description: A Sewing kit. Used to make advanced clothing.
+Rarity: Uncommon
+Stack Size: 20
+Crafting: Workbench 3, 1.0s, 20.0 cloth, 3.0 rope
+Recycler Output: 10 cloth, 1 rope
+
+----------------------------------------
+
+## Sheet Metal (sheetmetal)
+
+Description: Sheet metal scraps.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Small Chassis (vehicle.chassis.2mod)
+
+Description: Two-socket vehicle chassis.
+Rarity: None
+
+----------------------------------------
+
+## SMG Body (smgbody)
+
+Description: The firing mechanism of a submachinegun. Used in construction of a weapon that can fire pistol ammo fully automatic.
+Rarity: Rare
+Stack Size: 10
+
+----------------------------------------
+
+## Sticks (sticks)
+
+Description: Some long, some short.
+Rarity: Uncommon
+Stack Size: 100
+
+----------------------------------------
+
+## Storage Vehicle Module (vehicle.1mod.storage)
+
+Description: Single module storage.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 50.0 metal.fragments, 125.0 wood
+Recycler Output: 25 metal.fragments, 62 wood
+
+----------------------------------------
+
+## Tarp (tarp)
+
+Description: A waterproof tarp.
+Rarity: Uncommon
+Stack Size: 20
+
+----------------------------------------
+
+## Taxi Vehicle Module (vehicle.1mod.taxi)
+
+Description: Single module seating for two passengers, with protection at the front.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 175.0 metal.fragments, 125.0 wood, 5.0 metal.refined
+Recycler Output: 87 metal.fragments, 62 wood, 2 metal.refined
+
+----------------------------------------
+
+## Tech Trash (techparts)
+
+Description: A collection of random tech parts.
+Rarity: VeryRare
+Stack Size: 50
+
+----------------------------------------

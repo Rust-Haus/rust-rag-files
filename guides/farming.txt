@@ -1,0 +1,30 @@
+RUST FARMING GUIDE
+==================
+Farming provides food and crafting materials.
+
+## CROPS
+- Corn: Food, can craft Tea
+- Pumpkin: Food, hydration
+- Hemp: Cloth for armor/meds
+- Potatoes: Food, corn alternative
+- Berries: Quick food source
+
+## SETUP
+- Water: Connect to water source or use sprinklers
+- Light: Natural sunlight or grow lights
+- Planters: Large planter holds 9 plants
+- Genetics: Crossbreed for better yields
+
+## GENETICS (YHGW)
+- Y: Yield (more per harvest)
+- H: Hardiness (survives longer)
+- G: Growth speed
+- W: Water efficiency
+- X: Empty slot (bad)
+
+## OPTIMAL GENES
+- GGGGGG or YYYYYY for single focus
+- Mix of Y and G for balance
+- Remove X genes through crossbreeding
+
+For more details: https://www.corrosionhour.com/rust-farming-guide/

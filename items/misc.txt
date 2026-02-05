@@ -1,0 +1,605 @@
+RUST ITEMS: MISC
+Total items in this category: 79
+
+============================================================
+
+## 2 Module Car (2module car)
+
+Description: A motorbike.
+Rarity: Rare
+
+----------------------------------------
+
+## 2 Module Car Chassis (2module car chassis)
+
+Description: 2 Module Car Chassis
+Rarity: Rare
+
+----------------------------------------
+
+## 3 Module Car (3module car)
+
+Description: 3 Module Car
+Rarity: Rare
+
+----------------------------------------
+
+## 3 Module Car Chassis (3module car chassis)
+
+Description: 3 Module Car Chassis
+Rarity: Rare
+
+----------------------------------------
+
+## 4 Module Car (4module car)
+
+Description: 4 Module Car
+Rarity: Rare
+
+----------------------------------------
+
+## 4 Module Car Chassis (4module car chassis)
+
+Description: 4 Module Car Chassis
+Rarity: Rare
+
+----------------------------------------
+
+## Attack Helicopter (attackhelicopter)
+
+Description: A fairly solid helicopter with weapons capability.
+Rarity: None
+
+----------------------------------------
+
+## Bicycle (bicycle)
+
+Description: A pedal bike.
+Rarity: Rare
+
+----------------------------------------
+
+## Blue Keycard (keycard_blue)
+
+Description: A keycard with medium level clearance.
+Rarity: Common
+
+----------------------------------------
+
+## Blueprint (blueprintbase)
+
+Description: Blueprint
+Rarity: None
+Stack Size: 1000
+
+----------------------------------------
+
+## Bronze Egg (easter.bronzeegg)
+
+Description: A Bronze Egg. Open for a surprise or collect 10 to upgrade to a silver egg.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Caboose (caboose)
+
+Description: Caboose
+Rarity: Rare
+
+----------------------------------------
+
+## Captain's Log (captainslog)
+
+Description: A deteriorating piece of paper with information relating to the last moments of this vessel.
+Rarity: None
+
+----------------------------------------
+
+## Coffin (coffin.storage)
+
+Description: An old wooden coffin, can store up to 42 items
+Rarity: None
+
+----------------------------------------
+
+## Cursed Cauldron (cursedcauldron)
+
+Description: A spooky cast iron cauldron with a green goo.
+Rarity: None
+Crafting: Workbench 0, 25.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Decorative Baubels (xmas.decoration.baubels)
+
+Description: Decorative Baubels you can hang on your Christmas tree
+Rarity: None
+
+----------------------------------------
+
+## Decorative Gingerbread Men (xmas.decoration.gingerbreadmen)
+
+Description: Decorative Gingerbread Men you can hang on your Christmas tree
+Rarity: None
+
+----------------------------------------
+
+## Decorative Pinecones (xmas.decoration.pinecone)
+
+Description: Decorative Pinecones you can hang on your Christmas tree
+Rarity: None
+
+----------------------------------------
+
+## Decorative Plastic Candy Canes (xmas.decoration.candycanes)
+
+Description: Decorative Plastic Candy Canes you can hang on your Christmas tree
+Rarity: None
+
+----------------------------------------
+
+## Decorative Tinsel (xmas.decoration.tinsel)
+
+Description: Decorative Tinsel you can hang on your Christmas tree
+Rarity: None
+
+----------------------------------------
+
+## Door Key (door.key)
+
+Description: A key to a door, created from a Lock. Keep this item safe; if lost you'll be unable to open the door again!
+Rarity: None
+
+----------------------------------------
+
+## Duo Submarine (submarineduo)
+
+Description: A small two-person submarine.
+Rarity: Rare
+
+----------------------------------------
+
+## Egg Basket (easterbasket)
+
+Description: An easter egg basket. Equip to pick up eggs during an easter egg hunt with left click. Use right click to throw
+Rarity: Uncommon
+
+----------------------------------------
+
+## Fogger-3000 (fogmachine)
+
+Description: A Fog machine which runs on low grade fuel. Can be set to fill an area with a dense fog or triggered by motion.
+Rarity: None
+Crafting: Workbench 0, 15.0s, 100.0 metal.fragments, 30.0 lowgradefuel, 1.0 metalpipe
+Recycler Output: 50 metal.fragments, 15 lowgradefuel
+
+----------------------------------------
+
+## Giant Candy Decor (giantcandycanedecor)
+
+Description: Get into the holiday spirit with this decorative inflated giant candy cane
+Rarity: None
+Crafting: Workbench 0, 30.0s, 30.0 cloth
+Recycler Output: 15 cloth
+
+----------------------------------------
+
+## Giant Lollipop Decor (giantlollipops)
+
+Description: Get into the holiday spirit with these decorative giant lollipops
+Rarity: None
+Crafting: Workbench 0, 30.0s, 20.0 cloth
+Recycler Output: 10 cloth
+
+----------------------------------------
+
+## Gold Egg (easter.goldegg)
+
+Description: A Gold Egg. Containing the best easter loot.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Gravestone (gravestone)
+
+Description: A Gravestone marking the remains of an unknown soul
+Rarity: None
+
+----------------------------------------
+
+## Graveyard Fence (wall.graveyard.fence)
+
+Description: A Spooky Fence
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 0, 30.0s, 250.0 stones, 75.0 metal.fragments
+Recycler Output: 125 stones, 37 metal.fragments
+
+----------------------------------------
+
+## Green Keycard (keycard_green)
+
+Description: A low level clearance card granting access to basic areas.
+Rarity: Common
+
+----------------------------------------
+
+## Halloween Candy (halloween.candy)
+
+Description: Some loose halloween candy Collect 10 to upgrade to a Small Loot Bag!
+Rarity: None
+Stack Size: 1000
+
+----------------------------------------
+
+## Head Bag (head.bag)
+
+Description: A sack containing the head of a defeated foe. Can be added to trophies.
+Rarity: None
+
+----------------------------------------
+
+## Horse (horse)
+
+Description: Horse
+Rarity: None
+
+----------------------------------------
+
+## Hot Air Balloon (hab)
+
+Description: A Hot Air Balloon.
+Rarity: None
+
+----------------------------------------
+
+## Large Candle Set (largecandles)
+
+Description: Large Candles
+Rarity: None
+Crafting: Workbench 0, 15.0s, 20.0 fat.animal, 10.0 cloth
+Recycler Output: 10 fat.animal, 5 cloth
+
+----------------------------------------
+
+## Large Loot Bag (halloween.lootbag.large)
+
+Description: A massive haul. Contains the best halloween loot
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Large Present (xmas.present.large)
+
+Description: A Large Present, the best there is. Unwrap it now!
+Rarity: None
+
+----------------------------------------
+
+## Locomotive (locomotive)
+
+Description: A powerful locomotive.
+Rarity: Rare
+
+----------------------------------------
+
+## Medium Loot Bag (halloween.lootbag.medium)
+
+Description: Contains medium level loot, Collect 10 to upgrade to a Large loot bag, containing the best loot
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Medium Present (xmas.present.medium)
+
+Description: A medium present, might be good! Collect 5 to upgrade to a larger present.
+Rarity: None
+Stack Size: 5
+
+----------------------------------------
+
+## Minicopter (minicopter)
+
+Description: Minicopter
+Rarity: None
+
+----------------------------------------
+
+## Minicopter (minihelicopter.repair)
+
+Rarity: None
+
+----------------------------------------
+
+## MLRS (mlrs)
+
+Description: M270 Multiple Launch Rocket System
+Rarity: Rare
+
+----------------------------------------
+
+## Motorbike (motorbike)
+
+Description: A motorbike.
+Rarity: Rare
+
+----------------------------------------
+
+## Motorbike With Sidecar (motorbike_sidecar)
+
+Description: A motorbike with sidecar.
+Rarity: Rare
+
+----------------------------------------
+
+## Note (note)
+
+Description: A scrap of paper for leaving notes.
+Rarity: None
+Crafting: Workbench 0, 5.0s, 10.0 wood
+Recycler Output: 5 wood
+
+----------------------------------------
+
+## Paintable Reactive Target (paintabletarget.reactive)
+
+Description: A reactive target practice in which you can paint whatever you want
+Rarity: None
+
+----------------------------------------
+
+## Painted Egg (easter.paintedeggs)
+
+Description: Some simple painted eggs. Collect 10 to upgrade to a bronze egg
+Rarity: None
+Stack Size: 1000
+
+----------------------------------------
+
+## Photograph (photo)
+
+Description: A photograph taken with an instant camera.
+Rarity: Common
+
+----------------------------------------
+
+## Pumpkin Basket (pumpkinbasket)
+
+Description: A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy
+Rarity: Uncommon
+
+----------------------------------------
+
+## Red Keycard (keycard_red)
+
+Description: A keycard with advanced clearance, grants access to top level areas
+Rarity: Common
+
+----------------------------------------
+
+## Rustigé Egg - Blue (rustige_egg_b)
+
+Description: A beautiful hand crafted white gold and sapphire encrusted egg, with a miniature monument contained inside.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 2.0 metal.refined
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Rustigé Egg - Cerulean (rustige_egg_g)
+
+Description: A beautiful hand crafted cerulean and gold egg, with a miniature cargo ship scene contained inside.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 2.0 metal.refined
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Rustigé Egg - Green (rustige_egg_e)
+
+Description: A beautiful hand crafted gold and green egg, with a miniature traincart contained inside.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 2.0 metal.refined
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Rustigé Egg - Ivory (rustige_egg_d)
+
+Description: A beautiful hand crafted Ivory and gold egg, with a miniature monument contained inside.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 2.0 metal.refined
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Rustigé Egg - Purple (rustige_egg_c)
+
+Description: A beautiful hand crafted purple egg with gold lace, a miniature offshore monument is contained inside.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 2.0 metal.refined
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Rustigé Egg - Red (rustige_egg_a)
+
+Description: An exquisite hand crafted gold and diamond egg. When opened, a very special melody can be heard as you observe an intricate representation of your favorite monument.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 2.0 metal.refined
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Rustigé Egg - White (rustige_egg_f)
+
+Description: A beautiful hand crafted gold and white egg, with a miniature underwater lab scene contained inside.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 2.0 metal.refined
+Recycler Output: 1 metal.refined
+
+----------------------------------------
+
+## Scrap Transport Helicopter (scraptransportheli)
+
+Rarity: None
+
+----------------------------------------
+
+## Sedan (sedan)
+
+Description: Sedan
+Rarity: None
+
+----------------------------------------
+
+## Sickle (sickle)
+
+Description: A very sharp curved cutting weapon. While its traditional role was to cut grass, this tool is also extremely versatile at cutting throats, perhaps trees, too.
+Rarity: None
+Ammo Stats: projectileSpread=1, projectileVelocity=22, TotalDamage=15, DamageBreakdown={'Slash': 15.0}
+
+----------------------------------------
+
+## Silver Egg (easter.silveregg)
+
+Description: A Silver Egg. Contains medium level loot, Collect 10 to upgrade to a gold Egg
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Small Candle Set (smallcandles)
+
+Description: Small Candles
+Rarity: None
+Crafting: Workbench 0, 15.0s, 10.0 fat.animal, 5.0 cloth
+Recycler Output: 5 fat.animal, 2 cloth
+
+----------------------------------------
+
+## Small Loot Bag (halloween.lootbag.small)
+
+Description: Open for a surprise, or collect 10 to upgrade to a medium loot bag containing better loot!
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Small Present (xmas.present.small)
+
+Description: A small stocking stuffer present, Collect 10 to upgrade to a larger present.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Snow Machine (snowmachine)
+
+Description: A machine which will blanket the surrounding terrain in snow.
+Rarity: None
+Crafting: Workbench 1, 30.0s, 125.0 metal.fragments, 30.0 lowgradefuel, 1.0 metalpipe
+Recycler Output: 62 metal.fragments, 15 lowgradefuel
+
+----------------------------------------
+
+## Snowmobile (snowmobile)
+
+Description: A custom snowmobile, made of various bits and pieces.
+Rarity: Rare
+
+----------------------------------------
+
+## Soccer Ball (ball)
+
+Description: Soccer Ball
+Rarity: None
+
+----------------------------------------
+
+## Solo Submarine (submarinesolo)
+
+Description: A small one-person submarine.
+Rarity: Rare
+
+----------------------------------------
+
+## Spider Webs (spiderweb)
+
+Description: Giant Cobwebs which can be hung against both a ceiling and a wall.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Spooky Speaker (spookyspeaker)
+
+Description: Frighten your guests with creepy and spooky halloween sounds!
+Rarity: None
+Crafting: Workbench 0, 30.0s, 400.0 wood, 100.0 metal.fragments, 20.0 cloth
+Recycler Output: 200 wood, 50 metal.fragments, 10 cloth
+
+----------------------------------------
+
+## Star Tree Topper (xmas.decoration.star)
+
+Description: A golden star to top off your Christmas Tree
+Rarity: None
+
+----------------------------------------
+
+## Strobe Light (strobelight)
+
+Description: A flashing light, 3 speeds. Causes seizures.
+Rarity: None
+Crafting: Workbench 0, 15.0s, 100.0 metal.fragments, 2.0 metal.refined
+Recycler Output: 50 metal.fragments, 1 metal.refined
+
+----------------------------------------
+
+## Tomaha Snowmobile (snowmobiletomaha)
+
+Description: An old snowmobile from around 1980.
+Rarity: Rare
+
+----------------------------------------
+
+## Tree Lights (xmas.decoration.lights)
+
+Description: A tree isn't complete without colorful lights!
+Rarity: None
+
+----------------------------------------
+
+## Trike (trike)
+
+Description: A three-wheeled bicycle.
+Rarity: Rare
+
+----------------------------------------
+
+## Wagon (wagon)
+
+Description: A train car.
+Rarity: Rare
+
+----------------------------------------
+
+## Wooden Cross (woodcross)
+
+Description: A wooden cross marking the remains of an unknown soul
+Rarity: None
+
+----------------------------------------
+
+## Work Cart (workcart)
+
+Description: A service train designed to run on an underground rail system.
+Rarity: Rare
+
+----------------------------------------

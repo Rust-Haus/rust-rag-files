@@ -1,0 +1,51 @@
+RUST ITEMS: MEDICAL
+Total items in this category: 5
+
+============================================================
+
+## Anti-Radiation Pills (antiradpills)
+
+Description: Taking these pills will lower your radiation level. WARNING: May cause extreme dehydration.
+Rarity: Common
+Stack Size: 10
+
+----------------------------------------
+
+## Bandage (bandage)
+
+Description: Heal yourself or others with this bandage. Left-click heals you, right-click heals a target.
+Rarity: Common
+Stack Size: 3
+Crafting: Workbench 0, 5.0s, 4.0 cloth
+Recycler Output: 2 cloth
+
+----------------------------------------
+
+## Blood (blood)
+
+Description: Used in creation of medkits.
+Rarity: None
+Stack Size: 1000
+
+----------------------------------------
+
+## Large Medkit (largemedkit)
+
+Description: A large medkit that heals you to max health over time and stops any bleeding instantly.
+
+Guarantees 100% recovery from the wounded state if placed in your toolbar.
+Rarity: Uncommon
+Crafting: Workbench 2, 15.0s, 2.0 syringe.medical, 10.0 lowgradefuel
+Recycler Output: 1 syringe.medical, 5 lowgradefuel
+
+----------------------------------------
+
+## Medical Syringe (syringe.medical)
+
+Description: Heal yourself or others with this syringe. Left-click heals you, right-click heals a target.
+Rarity: Uncommon
+Stack Size: 2
+Crafting: Workbench 2, 10.0s, 15.0 cloth, 10.0 metal.fragments, 10.0 lowgradefuel
+Recycler Output: 7 cloth, 5 metal.fragments, 5 lowgradefuel
+
+----------------------------------------

@@ -1,0 +1,44 @@
+RUST RAIDING GUIDE: TWIG TIER
+
+Standard Wall HP: 100
+
+RAID COSTS (for standard wall):
+  Cannonball: 1 (sulfur: 40)
+  Torpedo: 1 (sulfur: 60)
+  Flashbang: 5 (sulfur: 300)
+  F1 Grenade: 1 (sulfur: 60)
+  Survey Charge: 5 (sulfur: 300)
+  Beancan Grenade: 1 (sulfur: 120)
+  High Velocity Rocket: 1 (sulfur: 200)
+  Homing Missile: 1 (sulfur: 200)
+  Firebomb: 2 (sulfur: 600)
+  Incendiary Rocket: 2 (sulfur: 600)
+  Satchel Charge: 1 (sulfur: 480)
+  Propane Explosive Bomb: 1 (sulfur: 900)
+  Rocket: 1 (sulfur: 1400)
+  Timed Explosive Charge: 1 (sulfur: 2200)
+  MLRS Rocket: 1
+  Smoke Rocket WIP!!!!: 20
+  40mm HE Grenade: 2
+  Bee Grenade: 5
+  Molotov Cocktail: 3
+  Scattershot: 1
+  Bee Catapult Bomb: 5
+
+BLOCK HP VALUES:
+  Foundation: 100 HP (standard)
+  Triangle Foundation: 60 HP
+  Wall: 100 HP (standard)
+  Half Wall: 50 HP
+  Low Wall: 50 HP
+  Wall Frame: 100 HP (standard)
+  Doorway: 100 HP (standard)
+  Window Frame: 100 HP (standard)
+  Floor: 100 HP (standard)
+  Triangle Floor: 60 HP
+  Floor Frame: 100 HP (standard)
+  Roof: 100 HP (standard)
+  Triangle Roof: 60 HP
+  L Shaped Stairs: 100 HP (standard)
+  U Shaped Stairs: 100 HP (standard)
+  Ramp: 100 HP (standard)

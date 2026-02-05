@@ -1,0 +1,78 @@
+RUST ITEMS: TRAPS
+Total items in this category: 8
+
+============================================================
+
+## Flame Turret (flameturret)
+
+Description: Automated Flame turret. Requires Low Grade Fuel. Sprays flames when triggered.
+Rarity: Uncommon
+Crafting: Workbench 1, 30.0s, 200.0 metal.fragments, 2.0 propanetank, 1.0 gears
+Recycler Output: 100 metal.fragments, 1 propanetank
+
+----------------------------------------
+
+## Homemade Landmine (trap.landmine)
+
+Description: Homemade Landmine. If you stand on one, you can ask a friend to disarm it before it explodes.
+Rarity: Rare
+Stack Size: 5
+Crafting: Workbench 2, 20.0s, 50.0 metal.fragments, 30.0 gunpowder
+Recycler Output: 25 metal.fragments, 15 gunpowder
+
+----------------------------------------
+
+## SAM Site (samsite)
+
+Description: A surface to air rocket site. Requires 25 electricity to function.
+Rarity: None
+
+----------------------------------------
+
+## Shotgun Trap (guntrap)
+
+Description: A shotgun trap triggered by movement, place near doorways and load with handmade shells.
+Rarity: Rare
+Crafting: Workbench 1, 30.0s, 500.0 wood, 250.0 metal.fragments, 2.0 gears, 2.0 rope
+Recycler Output: 250 wood, 125 metal.fragments, 1 gears, 1 rope
+
+----------------------------------------
+
+## Small Spike Trap (spikes.trap)
+
+Description: A small improvised trap that injures and slows anyone who steps on it.
+Rarity: None
+Stack Size: 5
+Crafting: Workbench 0, 15.0s, 80.0 wood
+Recycler Output: 40 wood
+
+----------------------------------------
+
+## Snap Trap (trap.bear)
+
+Description: A metal trap that can injure or even kill people when stepped on. Can be picked up after been triggered.
+Rarity: Uncommon
+Stack Size: 3
+Crafting: Workbench 1, 30.0s, 50.0 metal.fragments, 1.0 gears
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Tin Can Alarm (tincan.alarm)
+
+Description: A primitive perimeter alarm made from hanging tin cans. Clatters loudly when disturbed, alerting you to any trespassers. Simple but effective.
+Rarity: Uncommon
+Crafting: Workbench 1, 20.0s, 100.0 wood, 1.0 rope, 30.0 metal.fragments
+Recycler Output: 50 wood, 15 metal.fragments
+
+----------------------------------------
+
+## Wooden Floor Spikes (spikes.floor)
+
+Description: A set of spikes that will slow down and hurt anyone that walks over them.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------

@@ -1,0 +1,213 @@
+WORKBENCH LEVEL 1 CRAFTING GUIDE
+Items requiring a Level 1 Workbench.
+
+Total recipes: 173
+
+## Ammunition (9 items)
+
+- Cannonball: 15.0s, 50.0 metal.fragments, 15.0 gunpowder
+- Fire Arrow: 3.0s, 20.0 wood, 2.0 cloth, 10.0 lowgradefuel
+- High Velocity Arrow: 3.0s, 20.0 wood, 5.0 metal.fragments
+- Incapacitate Dart: 3.0s, 5.0 wood, 1.0 venom.snake
+- Pistol Bullet: 3.0s, 10.0 metal.fragments, 5.0 gunpowder
+- Radiation Dart: 3.0s, 25.0 wood, 5.0 metal.fragments
+- Scatter Dart: 3.0s, 25.0 wood, 10.0 stones
+- Speargun Spear: 3.0s, 50.0 metal.fragments
+- Wood Dart: 3.0s, 25.0 wood
+
+## Attire (17 items)
+
+- Basic Horse Shoes: 30.0s, 50.0 metal.fragments
+- Bucket Helmet: 30.0s, 35.0 metal.fragments
+- Dracula Cape: 30.0s, 50.0 cloth, 2.0 sewingkit
+- Hot Air Balloon Armor: 30.0s, 200.0 metal.fragments
+- Jacket: 30.0s, 50.0 cloth, 2.0 sewingkit
+- Longsleeve T-Shirt: 30.0s, 30.0 cloth
+- Miners Hat: 30.0s, 15.0 cloth, 10.0 lowgradefuel, 50.0 metal.fragments
+- Pants: 30.0s, 40.0 cloth, 1.0 sewingkit
+- Prisoner Hood: 15.0s, 20.0 cloth
+- Reinforced Wooden Shield: 15.0s, 1.0 roadsigns, 10.0 cloth, 200.0 wood
+- Riot Helmet: 30.0s, 10.0 cloth, 50.0 metal.fragments
+- Saddle bag: 30.0s, 20.0 leather
+- Shirt: 30.0s, 25.0 cloth
+- Small Backpack: 30.0s, 5.0 sewingkit, 50.0 cloth
+- Snow Jacket: 30.0s, 60.0 cloth, 1.0 sewingkit
+- T-Shirt: 30.0s, 25.0 cloth
+- Wooden Horse Armor: 30.0s, 2.0 rope, 300.0 wood
+
+## Component (5 items)
+
+- Low Quality Carburetor: 10.0s, 40.0 metal.fragments
+- Low Quality Crankshaft: 10.0s, 25.0 metal.fragments
+- Low Quality Pistons: 10.0s, 25.0 metal.fragments
+- Low Quality Spark Plugs: 10.0s, 25.0 metal.fragments
+- Low Quality Valves: 10.0s, 25.0 metal.fragments
+
+## Construction (16 items)
+
+- Barbed Wooden Barricade: 30.0s, 300.0 wood, 50.0 metal.fragments, 1.0 rope
+- Beehive: 30.0s, 300.0 wood, 1.0 sheetmetal
+- Boat Building Plan: 15.0s, 20.0 wood
+- Chainlink Fence: 30.0s, 75.0 metal.fragments
+- Chainlink Fence Gate: 30.0s, 75.0 metal.fragments
+- Floor grill: 30.0s, 75.0 metal.fragments
+- Floor triangle grill: 30.0s, 75.0 metal.fragments
+- High External Wooden Gate: 35.0s, 3000.0 wood, 2.0 gears
+- High External Wooden Wall: 30.0s, 4000.0 wood
+- Medieval Barricade: 30.0s, 300.0 wood, 50.0 metal.fragments
+- Metal Shop Front: 30.0s, 250.0 metal.fragments
+- Metal Window Bars: 15.0s, 25.0 metal.fragments
+- Sandbag Barricade: 30.0s, 100.0 stones, 10.0 cloth
+- Small Water Catcher: 30.0s, 100.0 wood, 50.0 metal.fragments, 1.0 tarp
+- Watch Tower: 30.0s, 250.0 wood
+- Wooden Ladder: 30.0s, 300.0 wood, 3.0 rope
+
+## Electrical (43 items)
+
+- Audio Alarm: 30.0s, 75.0 metal.fragments
+- Blocker: 30.0s, 75.0 metal.fragments
+- Button: 30.0s, 75.0 metal.fragments
+- Ceiling Light: 30.0s, 50.0 metal.fragments
+- Chandelier: 30.0s, 100.0 metal.fragments
+- Door Controller: 30.0s, 75.0 metal.fragments
+- Electric Heater: 30.0s, 200.0 metal.fragments
+- Electric Table Lamp: 30.0s, 50.0 metal.fragments
+- Electrical Branch: 30.0s, 75.0 metal.fragments
+- Fairy Lights: 10.0s, 50.0 metal.fragments
+- Flasher Light: 30.0s, 120.0 metal.fragments
+- Fluid Combiner: 30.0s, 75.0 metal.fragments
+- Fluid Splitter: 30.0s, 75.0 metal.fragments
+- Fluid Switch & Pump: 30.0s, 150.0 metal.fragments
+- Fluorescent Light: 30.0s, 50.0 metal.fragments
+- Fridge: 30.0s, 150.0 metal.fragments
+- Hopper: 30.0s, 200.0 metal.fragments, 1.0 gears
+- Hose Tool: 1.0s, 2.0 metal.refined
+- Industrial Combiner: 30.0s, 75.0 metal.fragments
+- Industrial Conveyor: 30.0s, 75.0 metal.fragments
+- Industrial Splitter: 30.0s, 75.0 metal.fragments
+- Industrial Wall Light: 30.0s, 30.0 metal.fragments
+- Large Neon Sign: 15.0s, 250.0 metal.fragments
+- Large Solar Panel: 30.0s, 5.0 metal.refined, 1.0 techparts
+- Medium Neon Sign: 15.0s, 200.0 metal.fragments
+- Mini Fridge: 15.0s, 50.0 metal.fragments
+- OR Switch: 30.0s, 100.0 metal.fragments
+- Pipe Tool: 1.0s, 2.0 metal.refined
+- Pressure Pad: 30.0s, 150.0 wood, 1.0 metalspring, 1.0 gears
+- Reactive Target: 30.0s, 100.0 wood, 150.0 metal.fragments, 1.0 gears
+- Root Combiner: 30.0s, 75.0 metal.fragments
+- Siren Light: 30.0s, 120.0 metal.fragments
+- Small Neon Sign: 15.0s, 150.0 metal.fragments
+- Small Rechargeable Battery: 30.0s, 5.0 metal.refined
+- Splitter: 30.0s, 100.0 metal.fragments
+- Spot Light: 30.0s, 50.0 metal.fragments
+- Sprinkler: 30.0s, 75.0 metal.fragments
+- Storage Adaptor: 30.0s, 100.0 metal.fragments
+- Switch: 30.0s, 100.0 metal.fragments
+- Timer: 30.0s, 75.0 metal.fragments
+- Tripod Spot Light: 30.0s, 50.0 metal.fragments
+- Wire Tool: 1.0s, 2.0 metal.refined
+- XOR Switch: 30.0s, 100.0 metal.fragments
+
+## Fun (20 items)
+
+- Above Ground Pool: 60.0s, 200.0 metal.fragments, 3.0 tarp, 500.0 wood
+- Beach Chair: 30.0s, 50.0 wood, 75.0 metal.fragments
+- Boogie Board: 30.0s, 75.0 metal.fragments, 1.0 tarp
+- Boom Box: 15.0s, 200.0 wood, 100.0 metal.fragments, 20.0 cloth
+- Car Radio: 15.0s, 120.0 metal.fragments
+- Cassette Recorder: 15.0s, 75.0 metal.fragments
+- Connected Speaker: 15.0s, 75.0 metal.fragments
+- Disco Ball: 15.0s, 50.0 metal.fragments
+- Disco Floor: 15.0s, 75.0 metal.fragments
+- Inner Tube: 30.0s, 75.0 metal.fragments, 1.0 tarp
+- Junkyard Drum Kit: 30.0s, 200.0 wood, 100.0 metal.fragments
+- Laser Light: 15.0s, 100.0 metal.fragments
+- Megaphone: 15.0s, 50.0 wood, 75.0 metal.fragments
+- Microphone Stand: 15.0s, 75.0 metal.fragments
+- Mobile Phone: 15.0s, 125.0 metal.fragments
+- Portable Boom Box: 15.0s, 120.0 metal.fragments
+- Sound Light: 15.0s, 100.0 metal.fragments
+- Telephone: 30.0s, 50.0 wood, 100.0 metal.fragments, 1.0 techparts
+- Wheelbarrow Piano: 30.0s, 200.0 wood, 100.0 metal.fragments
+- Xylobone: 30.0s, 50.0 bone.fragments
+
+## Items (29 items)
+
+- Anchor: 30.0s, 250.0 wood
+- Bed: 30.0s, 60.0 cloth, 100.0 metal.fragments, 2.0 sewingkit
+- Boat Building Station: 30.0s, 200.0 wood, 1.0 tarp
+- Cannon: 30.0s, 100.0 wood, 200.0 metal.fragments
+- Chair: 30.0s, 50.0 wood, 75.0 metal.fragments
+- Chicken Coop: 30.0s, 300.0 wood, 1.0 rope, 75.0 metal.fragments
+- Chippy Arcade Game: 30.0s, 10.0 metal.refined, 2.0 gears
+- Drop Box: 30.0s, 200.0 metal.fragments
+- Engineering Workbench: 30.0s, 500.0 wood, 100.0 metal.fragments
+- Frontier Bolts Single Item Rack: 30.0s, 50.0 wood, 20.0 metal.fragments
+- Frontier Horns Single Item Rack: 30.0s, 30.0 bone.fragments
+- Frontier Horseshoe Single Item Rack: 30.0s, 75.0 metal.fragments
+- Horizontal Weapon Rack: 30.0s, 100.0 wood, 120.0 metal.fragments
+- Kayak: 30.0s, 75.0 metal.fragments, 200.0 wood, 50.0 cloth
+- Mixing Table: 30.0s, 200.0 metal.fragments, 100.0 stones
+- Plank: 30.0s, 100.0 wood
+- Repair Bench: 30.0s, 125.0 metal.fragments
+- Research Table: 30.0s, 200.0 metal.fragments, 20.0 scrap
+- Rocking Chair: 30.0s, 130.0 wood
+- Sail: 30.0s, 150.0 wood, 1.0 tarp
+- Secretlab Chair: 30.0s, 50.0 wood, 75.0 metal.fragments
+- Small Ramp: 30.0s, 250.0 wood, 2.0 rope
+- Steering Wheel: 30.0s, 100.0 wood
+- Tall Weapon Rack: 30.0s, 100.0 wood, 175.0 metal.fragments
+- Vending Machine: 30.0s, 20.0 metal.refined, 3.0 gears
+- Wall Cabinet: 30.0s, 250.0 wood, 50.0 metal.fragments
+- Wide Weapon Rack: 30.0s, 100.0 wood, 175.0 metal.fragments
+- Wooden Armor Insert: 30.0s, 150.0 wood
+- Workbench Level 2: 45.0s, 500.0 metal.fragments, 20.0 metal.refined, 5.0 basicblueprintfragment
+
+## Misc (1 items)
+
+- Snow Machine: 30.0s, 125.0 metal.fragments, 30.0 lowgradefuel, 1.0 metalpipe
+
+## Resources (1 items)
+
+- Gun Powder: 2.0s, 30.0 charcoal, 20.0 sulfur
+
+## Tool (7 items)
+
+- Flare: 1.0s, 10.0 gunpowder, 10.0 metal.fragments
+- Flashlight: 30.0s, 30.0 metal.fragments
+- Hatchet: 30.0s, 100.0 wood, 75.0 metal.fragments
+- Metal Detector: 30.0s, 2.0 rope, 200.0 metal.fragments, 5.0 metal.refined
+- Pickaxe: 30.0s, 100.0 wood, 125.0 metal.fragments
+- Salvaged Hammer: 30.0s, 1.0 metalpipe, 50.0 metal.fragments
+- Satchel Charge: 5.0s, 4.0 grenade.beancan, 1.0 stash.small, 1.0 rope
+
+## Traps (4 items)
+
+- Flame Turret: 30.0s, 200.0 metal.fragments, 2.0 propanetank, 1.0 gears
+- Shotgun Trap: 30.0s, 500.0 wood, 250.0 metal.fragments, 2.0 gears, 2.0 rope
+- Snap Trap: 30.0s, 50.0 metal.fragments, 1.0 gears
+- Tin Can Alarm: 20.0s, 100.0 wood, 1.0 rope, 30.0 metal.fragments
+
+## Weapon (21 items)
+
+- Beancan Grenade: 10.0s, 60.0 gunpowder, 20.0 metal.fragments
+- Bee Grenade: 10.0s, 1.0 nucleus, 30.0 cloth
+- Blow Pipe: 30.0s, 200.0 wood, 1.0 metalpipe, 25.0 cloth
+- Combat Knife: 15.0s, 25.0 metal.fragments, 1.0 metal.refined
+- Compound Bow: 30.0s, 100.0 wood, 75.0 metal.fragments, 2.0 rope
+- Crossbow: 30.0s, 200.0 wood, 75.0 metal.fragments, 2.0 rope
+- Double Barrel Shotgun: 40.0s, 175.0 metal.fragments, 2.0 metalpipe
+- Handmade SMG: 30.0s, 5.0 metal.refined, 200.0 metal.fragments, 1.0 metalspring
+- Mace: 30.0s, 100.0 wood, 50.0 metal.fragments
+- Mini Crossbow: 30.0s, 200.0 wood, 150.0 metal.fragments, 1.0 rope, 1.0 gears
+- Nailgun: 30.0s, 75.0 metal.fragments, 15.0 scrap
+- Revolver: 30.0s, 1.0 metalpipe, 25.0 cloth, 125.0 metal.fragments
+- Salvaged Cleaver: 30.0s, 50.0 metal.fragments, 1.0 roadsigns
+- Salvaged Sword: 30.0s, 15.0 metal.fragments, 1.0 metalblade
+- Siege Tower: 30.0s, 500.0 wood, 250.0 metal.fragments, 1.0 gears
+- Simple Handmade Sight: 30.0s, 6.0 metal.refined
+- Skinning Knife: 30.0s, 75.0 metal.fragments
+- Soda Can Silencer: 30.0s, 40.0 metal.fragments
+- Speargun: 30.0s, 75.0 metal.fragments, 1.0 propanetank
+- Waterpipe Shotgun: 30.0s, 150.0 wood, 75.0 metal.fragments
+- Weapon flashlight: 30.0s, 3.0 metal.refined

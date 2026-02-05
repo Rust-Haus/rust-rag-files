@@ -1,0 +1,24 @@
+RUST BEGINNER'S GUIDE
+=====================
+Welcome to Rust! This guide covers the basics for new players.
+
+## FIRST STEPS
+1. Gather resources: Hit trees for wood, pick up stones and hemp
+2. Craft a Stone Hatchet and Stone Pickaxe
+3. Build a small starter base (2x1 or 2x2)
+4. Place a Tool Cupboard (TC) and sleeping bag inside
+
+## ESSENTIAL EARLY ITEMS
+- Sleeping Bag: Respawn point
+- Tool Cupboard: Prevents others from building near your base
+- Wooden Door + Lock: Secure your base
+- Campfire: Cook food and stay warm
+- Furnace: Smelt metal ore
+
+## SURVIVAL TIPS
+- Stay hydrated and fed (check health, hunger, thirst bars)
+- Avoid cold at night - stay near fire or wear clothes
+- Watch for radiation near monuments
+- PvP is common - trust no one
+
+For more details: https://www.corrosionhour.com/rust-beginner-guide/

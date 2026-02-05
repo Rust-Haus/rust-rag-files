@@ -1,0 +1,28 @@
+RUST SCRAP FARMING GUIDE
+========================
+Scrap is the main research currency in Rust.
+
+## SCRAP SOURCES
+- Barrels: 2-5 scrap each
+- Crates: 10-25 scrap each
+- Recycling components: Major source
+- Gambling at Bandit Camp
+- Selling items at Outpost/Bandit
+
+## BEST RECYCLER ITEMS
+- Tech Trash: 20 scrap
+- CCTV Camera: 25 scrap
+- Targeting Computer: 25 scrap
+- Rifle Body: 25 scrap
+- SMG Body: 15 scrap
+- Semi-Auto Body: 15 scrap
+- Road Signs: 5 scrap
+- Sheet Metal: 8 scrap
+
+## EFFICIENT ROUTES
+- Road runs: Follow roads, hit barrels
+- Underwater Labs: Dense loot, requires diving gear
+- Oil Rig: High tier but dangerous
+- Cargo Ship: Moving event, good loot
+
+For more details: https://www.corrosionhour.com/rust-scrap-guide/

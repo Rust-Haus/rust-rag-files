@@ -1,0 +1,642 @@
+RUST ITEMS: CONSTRUCTION
+Total items in this category: 71
+
+============================================================
+
+## Armored Door (door.hinged.toptier)
+
+Description: Extremely strong door with a hatch to see and shoot out of.
+Rarity: VeryRare
+Crafting: Workbench 3, 30.0s, 20.0 metal.refined, 5.0 gears
+Recycler Output: 10 metal.refined, 2 gears
+
+----------------------------------------
+
+## Armored Double Door (door.double.hinged.toptier)
+
+Description: Extremely strong door with a hatch to see and shoot out of.
+Rarity: VeryRare
+Crafting: Workbench 3, 30.0s, 25.0 metal.refined, 5.0 gears
+Recycler Output: 12 metal.refined, 2 gears
+
+----------------------------------------
+
+## Barbed Wooden Barricade (barricade.woodwire)
+
+Description: A wooden barricade with barbed wire, made of Wood and Metal Fragments. The barbed wire causes damage and will also slow player movement.
+Rarity: Uncommon
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 300.0 wood, 50.0 metal.fragments, 1.0 rope
+Recycler Output: 150 wood, 25 metal.fragments
+
+----------------------------------------
+
+## Beehive (beehive)
+
+Description: Hand made beehive, place a nucleus inside to raise your own bees and produce honeycomb. Happy bees will make honeycomb more quickly.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 300.0 wood, 1.0 sheetmetal
+Recycler Output: 150 wood
+
+----------------------------------------
+
+## Boat Building Plan (boat.planner)
+
+Description: A boat plan. You can use this to craft boats - right click when equipped for more options.
+Rarity: None
+Crafting: Workbench 1, 15.0s, 20.0 wood
+Recycler Output: 10 wood
+
+----------------------------------------
+
+## Building Plan (building.planner)
+
+Description: A building plan. You can use this to craft buildings - right click when equipped for more options.
+Rarity: None
+Crafting: Workbench 0, 15.0s, 20.0 wood
+Recycler Output: 10 wood
+
+----------------------------------------
+
+## Chainlink Fence (wall.frame.fence)
+
+Description: A Chainlink Fence.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Chainlink Fence Gate (wall.frame.fence.gate)
+
+Description: A Chainlink Fence Gate.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Code Lock (lock.code)
+
+Description: An electronic lock. Locked and unlocked with four-digit code.
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 0, 30.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Concrete Barricade (barricade.concrete)
+
+Description: A barricade made out of Stones.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 2, 30.0s, 200.0 stones
+Recycler Output: 100 stones
+
+----------------------------------------
+
+## Door Closer (door.closer)
+
+Description: Automatically closes your doors when left open.
+Rarity: None
+
+----------------------------------------
+
+## Factory Door (factorydoor)
+
+Description: Medium strength door, vulnerable to explosives. Contains a bulletproof viewing portal
+Rarity: None
+
+----------------------------------------
+
+## Flight Control Codelock (lock.code.a.pilot)
+
+Description: An electronic lock made of airplane parts. Locked and unlocked with four-digit code.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Floor grill (floor.grill)
+
+Description: A floor grill must be placed in floor frames. Perfect for placing above a large furnace.
+Rarity: Uncommon
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Floor triangle grill (floor.triangle.grill)
+
+Description: A floor grill must be placed in floor frames. Perfect for placing above a large furnace.
+Rarity: Uncommon
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 75.0 metal.fragments
+Recycler Output: 37 metal.fragments
+
+----------------------------------------
+
+## Garage Door (wall.frame.garagedoor)
+
+Description: A garage door that rolls up and down.
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 300.0 metal.fragments, 2.0 gears
+Recycler Output: 150 metal.fragments, 1 gears
+
+----------------------------------------
+
+## High External Adobe Gate (gates.external.high.adobe)
+
+Description: A high stone gate, allowing access in and out of your compound.
+Rarity: None
+
+----------------------------------------
+
+## High External Adobe Wall (wall.external.high.adobe)
+
+Description: A high stone wall used to keep people off your property.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## High External Legacy Gate (gates.external.high.legacy)
+
+Description: A legacy themed wooden gate to keep the untamed wilderness away from your property, it's seen better days. Replaces the High External Wooden Wall.
+Rarity: None
+
+----------------------------------------
+
+## High External Legacy Wall (wall.external.high.legacy)
+
+Description: A legacy themed wooden wall to keep the untamed wilderness away from your property, made with questionable carpentry. Replaces the High External Wooden Wall.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## High External Stone Gate (gates.external.high.stone)
+
+Description: A high stone gate, allowing access in and out of your compound.
+Rarity: VeryRare
+Crafting: Workbench 2, 35.0s, 3000.0 stones, 5.0 gears
+Recycler Output: 1500 stones, 2 gears
+
+----------------------------------------
+
+## High External Stone Wall (wall.external.high.stone)
+
+Description: A high stone wall used to keep people off your property.
+Rarity: VeryRare
+Stack Size: 10
+Crafting: Workbench 2, 30.0s, 4000.0 stones, 1.0 sheetmetal
+Recycler Output: 2000 stones
+
+----------------------------------------
+
+## High External Wooden Gate (gates.external.high.wood)
+
+Description: A high wooden gate, allowing access in and out of your compound.
+Rarity: Rare
+Crafting: Workbench 1, 35.0s, 3000.0 wood, 2.0 gears
+Recycler Output: 1500 wood, 1 gears
+
+----------------------------------------
+
+## High External Wooden Wall (wall.external.high)
+
+Description: A high wooden wall used to keep people off your property.
+Rarity: Rare
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 4000.0 wood
+Recycler Output: 2000 wood
+
+----------------------------------------
+
+## High Ice Wall (wall.external.high.ice)
+
+Description: A very high ice wall to protect your property.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Industrial Door (door.hinged.industrial.a)
+
+Description: A red industrial door with a window.
+Rarity: None
+
+----------------------------------------
+
+## Key Lock (lock.key)
+
+Description: Place on a door to prevent unwelcome guests. You can create a key to share with your friends, don't let it fall in the wrong hands!
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 0, 15.0s, 75.0 wood
+Recycler Output: 37 wood
+
+----------------------------------------
+
+## Ladder Hatch (floor.ladder.hatch)
+
+Description: A hatch that opens and changes into a ladder.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 1.0 ladder.wooden.wall, 300.0 metal.fragments, 3.0 gears
+Recycler Output: 150 metal.fragments, 1 gears
+
+----------------------------------------
+
+## Large Water Catcher (water.catcher.large)
+
+Description: Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 500.0 wood, 200.0 metal.fragments, 2.0 tarp
+Recycler Output: 250 wood, 100 metal.fragments, 1 tarp
+
+----------------------------------------
+
+## Legacy Wood Shelter (legacy.shelter.wood)
+
+Description: The classic s*** shack. A great starter base for any fresh spawn. You can only have one shelter deployed at anytime.
+Rarity: Uncommon
+Crafting: Workbench 0, 30.0s, 600.0 wood
+Recycler Output: 300 wood
+
+----------------------------------------
+
+## Medieval Barricade (barricade.medieval)
+
+Description: A medieval barricade. Designed to block paths and provide defensive cover as well as being an effective tool to fortify your base.
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 300.0 wood, 50.0 metal.fragments
+Recycler Output: 150 wood, 25 metal.fragments
+
+----------------------------------------
+
+## Medieval Sheet Metal Door (medieval.door.hinged.metal)
+
+Description: Medium strength door, vulnerable to explosives.
+Rarity: Rare
+
+----------------------------------------
+
+## Medieval Sheet Metal Double Door (medieval.door.double.hinged.metal)
+
+Description: Medium strength door, vulnerable to explosives.
+Rarity: None
+
+----------------------------------------
+
+## Metal Barricade (barricade.metal)
+
+Description: A tough metal barricade with barbed wire, made from Metal Fragments. The barbed wire causes damage and will also slow player movement.
+Rarity: Rare
+Stack Size: 10
+Crafting: Workbench 2, 30.0s, 200.0 metal.fragments, 2.0 metalblade
+Recycler Output: 100 metal.fragments, 1 metalblade
+
+----------------------------------------
+
+## Metal horizontal embrasure (shutter.metal.embrasure.a)
+
+Description: Static shutter that forms a metal horizontal embrasure over your window frame.
+Rarity: Common
+Stack Size: 20
+Crafting: Workbench 2, 10.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Metal Shop Front (wall.frame.shopfront.metal)
+
+Description: A bulletproof shop front for secure trades.
+Rarity: Rare
+Crafting: Workbench 1, 30.0s, 250.0 metal.fragments
+Recycler Output: 125 metal.fragments
+
+----------------------------------------
+
+## Metal Vertical embrasure (shutter.metal.embrasure.b)
+
+Description: Static shutter that forms a metal vertical embrasure over your window frame.
+Rarity: Common
+Stack Size: 20
+Crafting: Workbench 2, 10.0s, 100.0 metal.fragments
+Recycler Output: 50 metal.fragments
+
+----------------------------------------
+
+## Metal Window Bars (wall.window.bars.metal)
+
+Description: Metal window bars made to fit a normal sized window.
+Rarity: Uncommon
+Stack Size: 10
+Crafting: Workbench 1, 15.0s, 25.0 metal.fragments
+Recycler Output: 12 metal.fragments
+
+----------------------------------------
+
+## Mining Quarry (mining.quarry)
+
+Description: Extracts minerals from the ground. Use a Survey Charge to determine the amount of minerals available for extraction in any given area.
+Rarity: None
+
+----------------------------------------
+
+## Netting (wall.frame.netting)
+
+Description: Netting you can climb.
+Rarity: Common
+Stack Size: 5
+Crafting: Workbench 0, 30.0s, 1.0 rope
+
+----------------------------------------
+
+## Paintable Window (window.paintable)
+
+Description: A window with paintable glass
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Prison Cell Gate (wall.frame.cell.gate)
+
+Description: A prison cell gate to lock things behind bars
+Rarity: Uncommon
+Crafting: Workbench 2, 30.0s, 150.0 metal.fragments
+Recycler Output: 75 metal.fragments
+
+----------------------------------------
+
+## Prison Cell Wall (wall.frame.cell)
+
+Description: A prison cell wall.
+Rarity: Uncommon
+Stack Size: 10
+Crafting: Workbench 2, 30.0s, 150.0 metal.fragments
+Recycler Output: 75 metal.fragments
+
+----------------------------------------
+
+## Pump Jack (mining.pumpjack)
+
+Description: Extracts oil from the ground. Use a Survey Charge to determine the amount of oil available for extraction in any given area.
+Rarity: None
+
+----------------------------------------
+
+## Reinforced Glass Window (wall.window.bars.toptier)
+
+Description: Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles.
+Rarity: Rare
+Stack Size: 10
+Crafting: Workbench 3, 15.0s, 4.0 metal.refined
+Recycler Output: 2 metal.refined
+
+----------------------------------------
+
+## Retro Tool Cupboard (cupboard.tool.retro)
+
+Description: Transform your tool cupboard experience with this modified Hi-Fi cabinet. Complete with retro displays indicating vital base data as well as frosted glass doors allowing you to view its contents of tools and resources!
+Rarity: None
+
+----------------------------------------
+
+## Sandbag Barricade (barricade.sandbags)
+
+Description: A protective barricade made out of Sand Bags.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 1, 30.0s, 100.0 stones, 10.0 cloth
+Recycler Output: 50 stones, 5 cloth
+
+----------------------------------------
+
+## Sheet Metal Door (door.hinged.metal)
+
+Description: Medium strength door, vulnerable to explosives.
+Rarity: Rare
+Crafting: Workbench 0, 30.0s, 150.0 metal.fragments
+Recycler Output: 75 metal.fragments
+
+----------------------------------------
+
+## Sheet Metal Double Door (door.double.hinged.metal)
+
+Description: Medium strength door, vulnerable to explosives.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 200.0 metal.fragments
+Recycler Output: 100 metal.fragments
+
+----------------------------------------
+
+## Shockbyte Tool Cupboard (cupboard.tool.shockbyte)
+
+Description: Ensure 100% Tool Cupboard uptime with this Tool Cupboard skin.
+Rarity: None
+
+----------------------------------------
+
+## Shop Front (wall.frame.shopfront)
+
+Description: A shop front to do commerce.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 150.0 wood
+Recycler Output: 75 wood
+
+----------------------------------------
+
+## Short Ice Wall (wall.ice.wall)
+
+Description: A short wall made of solid ice.
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Small Water Catcher (water.catcher.small)
+
+Description: Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.
+Rarity: Common
+Crafting: Workbench 1, 30.0s, 100.0 wood, 50.0 metal.fragments, 1.0 tarp
+Recycler Output: 50 wood, 25 metal.fragments
+
+----------------------------------------
+
+## Stone Barricade (barricade.stone)
+
+Description: A protective barricade made out of Stones.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 0, 30.0s, 100.0 stones
+Recycler Output: 50 stones
+
+----------------------------------------
+
+## Strengthened Glass Window (wall.window.glass.reinforced)
+
+Description: Strengthened Glass Window
+Rarity: Uncommon
+Stack Size: 10
+Crafting: Workbench 2, 15.0s, 50.0 metal.fragments
+Recycler Output: 25 metal.fragments
+
+----------------------------------------
+
+## Tool Cupboard (cupboard.tool)
+
+Description: Placing and authorising with the cupboard will make it so only you can build in a 50 meter radius of it. If you want your friends to build, they'll need to auth too. You should protect this.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 1000.0 wood
+Recycler Output: 500 wood
+
+----------------------------------------
+
+## Triangle Ladder Hatch (floor.triangle.ladder.hatch)
+
+Description: A hatch that opens and changes into a ladder.
+Rarity: Rare
+Crafting: Workbench 2, 30.0s, 1.0 ladder.wooden.wall, 300.0 metal.fragments, 3.0 gears
+Recycler Output: 150 metal.fragments, 1 gears
+
+----------------------------------------
+
+## Wall Divider Pack (wall.frame.lunar2025_c)
+
+Description: A Lunar New Year themed decorative wall divider with floral inlay
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Wall Divider Pack (wall.frame.lunar2025_b)
+
+Description: A Lunar New Year themed decorative wall divider with swirling inlay
+Rarity: None
+Stack Size: 10
+
+----------------------------------------
+
+## Wall Divider Pack (wall.frame.lunar2025_a)
+
+Description: A Lunar New Year themed decorative wall divider with geometric inlay
+Rarity: None
+Stack Size: 10
+Crafting: Workbench 0, 15.0s, 100.0 wood
+Recycler Output: 50 wood
+
+----------------------------------------
+
+## Watch Tower (watchtower.wood)
+
+Description: A high wooden watchtower with a ladder
+Rarity: Uncommon
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 250.0 wood
+Recycler Output: 125 wood
+
+----------------------------------------
+
+## Wood Double Door (door.double.hinged.wood)
+
+Description: A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.
+
+The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.
+Rarity: Rare
+Crafting: Workbench 0, 30.0s, 350.0 wood
+Recycler Output: 175 wood
+
+----------------------------------------
+
+## Wood Shutters (shutter.wood.a)
+
+Description: Wood shutters that you can open and close.
+Rarity: Common
+Stack Size: 20
+Crafting: Workbench 0, 15.0s, 200.0 wood
+Recycler Output: 100 wood
+
+----------------------------------------
+
+## Wooden Barricade (barricade.wood)
+
+Description: A wooden barricade. Will hurt players and animals that run into it.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 0, 30.0s, 300.0 wood, 1.0 rope
+Recycler Output: 150 wood
+
+----------------------------------------
+
+## Wooden Barricade Cover (barricade.wood.cover)
+
+Description: Perfect for cover when engaging in gun fights. Decays rapidly when placed outside of building privilege.
+Rarity: Common
+Stack Size: 3
+Crafting: Workbench 0, 25.0s, 250.0 wood
+Recycler Output: 125 wood
+
+----------------------------------------
+
+## Wooden Boat Door (door.hinged.boat.wood)
+
+Description: Secure your boat with this wooden door
+Rarity: None
+
+----------------------------------------
+
+## Wooden Boat Ladder (ladder.wooden.boat)
+
+Description: A ladder will help you climb walls on any boat.
+Rarity: Rare
+Stack Size: 5
+
+----------------------------------------
+
+## Wooden Door (door.hinged.wood)
+
+Description: A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.
+
+The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.
+Rarity: None
+Crafting: Workbench 0, 30.0s, 300.0 wood
+Recycler Output: 150 wood
+
+----------------------------------------
+
+## Wooden Frontier Bar Doors (door.double.hinged.bardoors)
+
+Description: A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.
+
+The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.
+Rarity: Rare
+Crafting: Workbench 0, 30.0s, 200.0 wood
+Recycler Output: 100 wood
+
+----------------------------------------
+
+## Wooden Ladder (ladder.wooden.wall)
+
+Description: A ladder will help you climb walls in any base.
+Rarity: Rare
+Stack Size: 5
+Crafting: Workbench 1, 30.0s, 300.0 wood, 3.0 rope
+Recycler Output: 150 wood, 1 rope
+
+----------------------------------------
+
+## Wooden Window Bars (wall.window.bars.wood)
+
+Description: Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.
+Rarity: Common
+Stack Size: 10
+Crafting: Workbench 0, 15.0s, 50.0 wood
+Recycler Output: 25 wood
+
+----------------------------------------
